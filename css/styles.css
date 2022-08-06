@@ -19,9 +19,23 @@ p {
 }
 
 p.normal {
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 p.start_links {
-    font-size: 0.8em;
+    font-size: 1em;
+}
+
+p.update {
+    font-size: 0.9em;
+    color: #008000ff;
+}
+
+img.taken_pixel_3a {
+    width: 40%;
+    min-width: 640px;
+}
+
+figcaption {
+    font-size: 0.9em;
 }
