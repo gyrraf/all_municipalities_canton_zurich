@@ -1,1 +1,27 @@
- 
+body {
+    word-break: break-word;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: left;
+    font-size: 3em;
+}
+
+h2 {
+    text-align: left;
+    font-size: 2em;
+}
+
+p {
+    text-align: left;
+}
+
+p.normal {
+    font-size: 0.8em;
+}
+
+p.start_links {
+    font-size: 0.8em;
+}
