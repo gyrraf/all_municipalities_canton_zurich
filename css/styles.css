@@ -31,6 +31,15 @@ p.update {
     color: #008000ff;
 }
 
+p.declaration {
+    font-size: 0.9em;
+    color: #888888ff;
+}
+
+p.declaration em {
+    font-style: italic;
+}
+
 img.taken_pixel_3a {
     width: 40%;
     min-width: 640px;
