@@ -7,15 +7,18 @@ body {
 h1 {
     text-align: left;
     font-size: 3em;
+    color: #000000ff;
 }
 
 h2 {
     text-align: left;
     font-size: 2em;
+    color: #000000ff;
 }
 
 p {
     text-align: left;
+    color: #000000ff;
 }
 
 p.normal {
@@ -47,8 +50,10 @@ img.taken_pixel_3a {
 
 figcaption {
     font-size: 0.9em;
+    color: #000000ff;
 }
 
 .index_element {
     font-size: 1em;
+    color: #000000ff;
 }
