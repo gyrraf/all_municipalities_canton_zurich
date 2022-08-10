@@ -46,7 +46,7 @@ Bei meinem Besuch habe ich überraschend viele (vorallem im Verhältnis zur grö
 Das Dorf Aesch ZH, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33778%2C8.42983#map=19/47.33778/8.42983) am 20.03.2022.
 
 ![Das Dorf Aesch ZH](../../images/Aesch/Aesch_ZH_3.jpg)  
-Das Dorf Aesch ZH, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33316%2C8.42717#map=19/47.33316/8.42717) am 20.03.2022. (Zwei Personen wurden durch ein schwarzes Rechteck unkenntlich gemacht.)
+Das Dorf Aesch ZH, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33316%2C8.42717#map=19/47.33316/8.42717) am 20.03.2022. *(Zwei Personen wurden aus Datenschutzgründen durch ein schwarzes Rechteck unkenntlich gemacht.)*
 
 ![Das Dorf Aesch ZH](../../images/Aesch/Aesch_ZH_5.jpg)  
 Das Dorf Aesch ZH, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33430%2C8.44500#map=18/47.33430/8.44500) am 09.04.2022.
