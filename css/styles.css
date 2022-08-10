@@ -16,6 +16,12 @@ h2 {
     color: #000000ff;
 }
 
+h3 {
+    text-align: left;
+    font-size: 1.5em;
+    color: #000000ff;
+}
+
 p {
     text-align: left;
     color: #000000ff;
