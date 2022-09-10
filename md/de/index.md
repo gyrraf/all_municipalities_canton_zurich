@@ -2,3 +2,4 @@
 * [Adliswil](./Adliswil.md)
 * [Aesch ZH](./Aesch_ZH.md)
 * [Aeugst am Albis](./Aeugst_a_A.md)
+* [Affoltern am Albis](./Affoltern_a_A.md)
