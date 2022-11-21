@@ -22,6 +22,12 @@ h3 {
     color: #000000ff;
 }
 
+h4 {
+    text-align: left;
+    font-size: 1.3em;
+    color: #000000ff;
+}
+
 p {
     text-align: left;
     color: #000000ff;
@@ -52,6 +58,11 @@ p.declaration em {
 img.taken_pixel_3a {
     width: 40%;
     min-width: 640px;
+}
+
+img.taken_pixel_3a_portrait {
+    width: 15%;
+    min-width: 240px;
 }
 
 figcaption {

@@ -3,16 +3,14 @@
 [Webseite der Gemeinde](https://www.stadtaffoltern.ch/)  
 [Gemeindegebiet auf Openstreetmap.org](https://www.openstreetmap.org/relation/1682080)
 
-Die Gemeinde Affoltern am Albis ist eine Gemeinde mit über 12'000 Einwohner*innen. Die Gemeinde besteht aus der Stadt Affoltern und dem ca. 800 m entfernten Dorf Zwillikon.
-
+Die Gemeinde Affoltern am Albis ist eine Gemeinde mit über 12'000 Einwohner\*innen. Die Gemeinde besteht aus der Stadt Affoltern und dem ca. 800 m entfernten Dorf Zwillikon.  
 Affoltern liegt ca. 13 km Luftlinie südwestlich von Zürich.
 
 ## Transport
 
 ### Privatverkehr
 
-Die Zürichstrasse führt durch Affoltern aus Hedingen im Norden und Mettmenstetten im Süden. Die Ottenbacherstrasse führt durch Zwillikon aus Hedingen im Norden und Ottenbach im Westen.
-
+Die Zürichstrasse führt durch Affoltern aus Hedingen im Norden und Mettmenstetten im Süden. Die Ottenbacherstrasse führt durch Zwillikon aus Hedingen im Norden und Ottenbach im Westen.  
 Ausserdem befindet sich direkt südlich der Stadt auch noch die Autobahnausfahrt 31b der A4.
 
 ### Öffentlicher Verkehr
