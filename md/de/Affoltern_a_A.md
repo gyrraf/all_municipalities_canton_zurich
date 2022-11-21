@@ -47,9 +47,11 @@ Affoltern am Albis hat neben ihrem Gemeindewappen auch noch ein Gemeinde Logo, d
 
 ## Erfahrungsbericht als Fussgänger
 
-*Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält. Meine Quelle für diesen Abschnitt ist lediglich 1 Besuch auf dem Gemeindegebiet, den ich als Fussgänger gemacht habe.*
+*Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält. Meine Quelle für diesen Abschnitt sind lediglich 2 Besuche auf dem Gemeindegebiet, die ich als Fussgänger gemacht habe.*
 
 Die obere Bahnhofsstrasse wird nahezu gar nicht von Autos verwendet sondern ist primar für Fussgänger gedacht. An der Strasse liegen verschiedene kleine Läden und nicht weit davon entfernt liegt auch noch ein Marktplatz und die Stadtverwaltung.
+
+Allgemein ist die Anzahl Gehwege(Schweizerdeutsch: Trottoirs) sehr gut. Explizite Fahrradwege gibt es allerdings nicht so viele.
 
 ## Fotos
 
