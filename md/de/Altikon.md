@@ -11,7 +11,7 @@ Die Gemeinde gehört zum Bezirk Winterthur und ist teil des zürcher Weinlands.
 
 ### Privatverkehr
 
-Im Norden der Gemeinde Altikon befindet sich die [Altiker Thurbrücke](https://www.openstreetmap.org/way/43684183)<sup>[\[1\]](./Altikon_Zusatz.md#Altikerbrücke%20bzw.%20Thurbrücke)</sup>. Über diese Brücke führt die Thurgauer Kantonsstrasse K7 von Niederneunforn als Zürcher Strasse 504 durch Altikon nach Rickenbach im Süden. Im nördlichen Teil von Altikon heisst diese Strasse Neunfornerstrass und im südlichen Teil von Altikon heisst sie Rickenbacherstrasse. In Rickenbach führt die Strasse 353 weiter nach Rickenbach Sulz. Von dort führt dann die Strasse 1 zur Autobahnausfahrt 72 der A1 und Winterthur in die eine Richtung und Frauenfeld in die andere Richtung.
+Im Norden der Gemeinde Altikon befindet sich die [Altiker Thurbrücke](https://www.openstreetmap.org/way/43684183)<sup>\[[1](./Altikon_Zusatz.md#Altikerbrücke%20bzw.%20Thurbrücke)\]</sup>. Über diese Brücke führt die Thurgauer Kantonsstrasse K7 von Niederneunforn als Zürcher Strasse 504 durch Altikon nach Rickenbach im Süden. Im nördlichen Teil von Altikon heisst diese Strasse Neunfornerstrass und im südlichen Teil von Altikon heisst sie Rickenbacherstrasse. In Rickenbach führt die Strasse 353 weiter nach Rickenbach Sulz. Von dort führt dann die Strasse 1 zur Autobahnausfahrt 72 der A1 und Winterthur in die eine Richtung und Frauenfeld in die andere Richtung.
 
 Die Strasse 502 führt von Frauenfeld und Ellikon an der Thur im Osten durch Altikon nach Thalheim und Andelfingen im Westen. Diese Strasse heisst in Altikon Thurtalstrasse.  
 Die Stationstrasse führt vom Westen des Dorfs Altikon zum Bahnhof Thalheim-Altikon und von dort weiter nach Eschlikon ZH und Welsikon bei Dinhard. Von Welsikon führt dann die Strasse 506 nach Dinhard und Rickenbach Sulz und die Strasse 510 nach Seuzach und Winterthur Rosenberg.  
@@ -26,7 +26,7 @@ Der Bahnhof Thalheim-Altikon ist der Strasse entlang 1.9 km entfernt oder 2.3 km
 
 Im Zürcher Nachtnetz werden beide Haltestellen in der Gemeinde Altikon und auch der Bahnhof Thalheim-Altikon 3-mal im Stundentakt vom Nachtbus N61 bedient. Rickenbach-Attikon wird ebenfalls 3-mal im Stundentakt von der Linie SN von Winterthur her angefahren und die Verbindung von der SN auf den N61 ist ohne grosse Wartezeit möglich.
 
-#### Möglicher Verbesserungsvorschlag (TODO besseren Titel finden)
+#### Möglicher Verbesserungsvorschlag
 
 Zwischen der Endhaltestelle der Buslinie 615 und dem Bahnhof Thalheim-Altikon gibt es nur im Nachtnetz eine Verbindung. Am Tag müsste man die 1.9 oder 2.3 km lange Strecke entweder zu Fuss oder mit dem Fahrrad zurücklegen.
 
@@ -60,4 +60,19 @@ Fahrradstreifen oder -wege habe ich nirgends gesehen.
 Die [Brücke über den Binnenkanal bei Feldi](https://www.openstreetmap.org/way/282752585) war zum Zeitpunkt meines Besuchs (2023-01-03) halb gesperrt wegen Belagsschäden. Jemand hat auf diese Absperrung dann von Hand die Frage geschrieben, ob diese Brücke auch irgendwann mal repariert werde. Es scheint also so als ob die ziemlich lange halb gesperrt sei.  
 Als ich auf dem Gemeindegebiet unterwegs war (2023-01-03), waren ausserdem noch überraschend viele Feldwege ohne angegebenen Grund gesperrt. Viele ungesperrte Feldwege waren an diesem Tag auch matschig oder hatten Pfüzen. Möglicherweise waren die gesperrten Wege deswegen gesperrt, aber sicher weiss ich das nicht.
 
-## Fotos 
+## Fotos
+
+![Der Wiler Feldi](../../images/Altikon/Feldi.jpg)  
+Der Wiler Feldi, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57580%2C8.80119#map=19/47.57580/8.80119) am 03.01.2023.
+
+![Das Dorf Altikon](../../images/Altikon/Altikon_1.jpg)  
+Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57580%2C8.80119#map=19/47.57580/8.80119) am 03.01.2023.
+
+![Das Dorf Altikon](../../images/Altikon/Altikon_2.jpg)  
+Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58347%2C8.80117#map=19/47.58347/8.80117) am 03.01.2023.
+
+![Das Dorf Altikon](../../images/Altikon/Altikon_3.jpg)  
+Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57715%2C8.78472#map=19/47.57715/8.78472) am 03.01.2023.
+
+![Der Fluss Thur](../../images/Altikon/Thur.jpg)  
+Der Fluss Thur mit Blick flussabwärts, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58392%2C8.80278#map=19/47.58392/8.80278) am 03.01.2023.
