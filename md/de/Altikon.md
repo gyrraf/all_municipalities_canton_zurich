@@ -1,4 +1,4 @@
-# Affoltern am Albis
+# Altikon
 
 [Webseite der Gemeinde](https://www.altikon.ch/)  
 [Gemeindegebiet auf Openstreetmap.org](https://www.openstreetmap.org/relation/1682082)
@@ -57,7 +57,7 @@ Zu dem Zeitpunkt als ich auf dem Gemeindegebiet unterwegs war (2023-01-03), stan
 Im Dorf Altikon gibt es ziemlich viele Gehsteige. Sobald man das Dorf aber verlässt, enden diese alle. Ausserhalb des Dorfes gibt es dafür recht viele Feld- und Waldwege auf denen man problemlos gehen kann.  
 Fahrradstreifen oder -wege habe ich nirgends gesehen.
 
-Die [Brücke über den Binnenkanal bei Feldi](https://www.openstreetmap.org/way/282752585) war zum Zeitpunkt meines Besuchs (2023-01-03) halb gesperrt wegen Belagsschäden. Jemand hat auf diese Absperrung dann von Hand die Frage geschrieben, ob diese Brücke auch irgendwann mal repariert werde. Es scheint also so als ob die ziemlich lange halb gesperrt sei.  
+Die [Brücke über den Binnenkanal bei Feldi](https://www.openstreetmap.org/way/282752585) war zum Zeitpunkt meines Besuchs (2023-01-03) halb gesperrt wegen Belagsschäden. Jemand hat auf diese Absperrung dann von Hand die Frage geschrieben, ob diese Brücke auch irgendwann mal repariert werde. Es scheint also so als ob sie schon ziemlich lange halb gesperrt sei.  
 Als ich auf dem Gemeindegebiet unterwegs war (2023-01-03), waren ausserdem noch überraschend viele Feldwege ohne angegebenen Grund gesperrt. Viele ungesperrte Feldwege waren an diesem Tag auch matschig oder hatten Pfüzen. Möglicherweise waren die gesperrten Wege deswegen gesperrt, aber sicher weiss ich das nicht.
 
 ## Fotos

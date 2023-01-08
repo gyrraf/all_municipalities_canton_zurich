@@ -55,7 +55,14 @@ p.declaration em {
     font-style: italic;
 }
 
-img.taken_pixel_3a {
+p.transcription {
+    font-size: 1em;
+    color: #000000ff;
+}
+
+sup.sidenote {}
+
+img.taken_pixel_3a, img.taken_pixel_3a_zoom_2x {
     width: 40%;
     min-width: 640px;
 }
