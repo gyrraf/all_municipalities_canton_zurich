@@ -34,6 +34,8 @@ Eine Mögliche Lösung wäre es die Buslinie 615 bis an den Bahnhof Thalheim-Alt
 
 Eine Andere Mögliche Lösung könnte es sein, die Buslinie 612 entweder zwischen den Stationen Dinhard, Grüt und Thalheim-Altikon, Bahnhof oder zwischen den Stationen Thalheim-Altikon, Bahnhof und Thalheim a. d. Thur noch über Altikon, Brückenwaage umzuleiten. Möglicherweise könnte dies sogar erreicht werden, ohne dass bestehende Anschlüsse an S-Bahnen verloren gehen, allerdings würde vermutlich auch hier die Anzahl der benötigten Fahrzeuge steigen. Ausserdem müsste in diesem Fall vermutlich die Haltestelle Altikon, Brückenwaage vergrössert werden. Am Einfachsten wäre es vermutlich dafür den Parkplatz, der aktuell neben der Bushaltestelle ist, in eine Bushaltestelle umzuwandeln.
 
+Offensichtlicherweise gibt es auch noch weitere Möglichkeiten, wie diese Lücke geschlossen werden könnte. So könnte z.B. der erste Vorschlag noch erweitert werden um die Buslinie 615 nicht nur bis zum Bahnhof Thalheim-Altikon zu erweitern, sondern noch weiter.
+
 ## Einkaufsmöglichkeiten
 
 In Altikon gibt es nur eine Volg Filiale zum Einkaufen. Grössere Einkaufsmöglichkeiten gibt es in Frauenfeld, Winterthur und Seuzach.
