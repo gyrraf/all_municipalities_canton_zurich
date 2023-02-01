@@ -5,7 +5,8 @@
 
 Die Gemeinde Altikon ist eine Gemeinde mit ca. <q cite="https://www.altikon.ch/portraet/zahlen.html/132">709</q> Einwohner\*innen. Die Gemeinde besteht aus dem Dorf Altikon, dem 1.6 km Luftlinie entfernten Wiler Herten, dem 1.5 km Luftlinie entfernten Wiler Feldi und dem 700 m Luftlinie entfernten Wiler Schneit.  
 Altikon liegt 9 km Luftlinie nordnordöstlich von Winterthur und 8.8 km Luftlinie westlich von Frauenfeld.  
-Die Gemeinde gehört zum Bezirk Winterthur und ist teil des zürcher Weinlands.
+Die Gemeinde gehört zum Bezirk Winterthur und ist Teil des Zürcher Weinlands. Im Süden grenzt Altikon an die Gemeinden Dinhard und Rickenbach, im Südosten an die Gemeinde Ellikon an der Thur, im Nordosten an die Thurgauer Gemeinde Uesslingen-Buch, im Norden an die Thurgauer Gemeinde Neunforn und im Westen an die im Bezirk Andelfingen liegende Gemeinde Thalheim an der Thur.  
+Der Fluss Thur bildet die nördliche Gemeindegrenze und ist Gleichzeitig auch die Kantonsgrenze zwischen den Kantonen Zürich und Thurgau.
 
 ## Transport
 
