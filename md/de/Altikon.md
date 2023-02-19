@@ -66,32 +66,32 @@ Als ich auf dem Gemeindegebiet unterwegs war (2023-01-03), waren ausserdem noch 
 ## Fotos
 
 ![Der Wiler Feldi](../../images/Altikon/Feldi.jpg)  
-Der Wiler Feldi, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57580%2C8.80119#map=19/47.57580/8.80119) am 03.01.2023.
+Der Wiler Feldi, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57580%2C8.80119#map=19/47.57580/8.80119) am 2023-01-03.
 
 ![Die Wiler Oberherten und Unterherten](../../images/Altikon/Herten.jpg)  
-Die Wiler Oberherten und Unterherten, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56583%2C8.79431#map=18/47.56583/8.79431) am 18.02.2023. *(Mein Schatten wurde aus Datenschutzgründen mit einem schwarzen
+Die Wiler Oberherten und Unterherten, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56583%2C8.79431#map=18/47.56583/8.79431) am 2023-02-18. *(Mein Schatten wurde aus Datenschutzgründen mit einem schwarzen
 Rechteck unkenntlich gemacht.)*
 
 ![Der Wiler Schneit](../../images/Altikon/Schneit.jpg)  
-Der Wiler Schneit und ein kleiner Teil des Dorfes Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58158%2C8.77480#map=19/47.58158/8.77480) am 18.02.2023.
+Der Wiler Schneit und ein kleiner Teil des Dorfes Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58158%2C8.77480#map=19/47.58158/8.77480) am 2023-02-18.
 
 ![Das Dorf Altikon](../../images/Altikon/Altikon_1.jpg)  
-Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57580%2C8.80119#map=19/47.57580/8.80119) am 03.01.2023.
+Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57580%2C8.80119#map=19/47.57580/8.80119) am 2023-01-03.
 
 ![Das Dorf Altikon](../../images/Altikon/Altikon_2.jpg)  
-Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58347%2C8.80117#map=19/47.58347/8.80117) am 03.01.2023.
+Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58347%2C8.80117#map=19/47.58347/8.80117) am 2023-01-03.
 
 ![Das Dorf Altikon](../../images/Altikon/Altikon_3.jpg)  
-Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57715%2C8.78472#map=19/47.57715/8.78472) am 03.01.2023.
+Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57715%2C8.78472#map=19/47.57715/8.78472) am 2023-01-03.
 
 ![Aussicht von Oberhalb von Altikon](../../images/Altikon/Altikon_Aussicht.jpg)  
-Aussicht von Oberhalb von Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56566%2C8.78757#map=18/47.56566/8.78757) am 18.02.2023.
+Aussicht von Oberhalb von Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56566%2C8.78757#map=18/47.56566/8.78757) am 2023-02-18.
 
 ![Der Fluss Thur](../../images/Altikon/Thur_Ost.jpg)  
-Der Fluss Thur mit Blick flussabwärts, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58392%2C8.80278#map=19/47.58392/8.80278) am 03.01.2023.
+Der Fluss Thur mit Blick flussabwärts, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58392%2C8.80278#map=19/47.58392/8.80278) am 2023-01-03.
 
 ![Der Fluss Thur](../../images/Altikon/Thur_West.jpg)  
-Der Fluss Thur mit Blick flussaufwärts, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58992%2C8.77508#map=19/47.58992/8.77508) am 18.02.2023.
+Der Fluss Thur mit Blick flussaufwärts, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58992%2C8.77508#map=19/47.58992/8.77508) am 2023-02-18.
 
 ![Die Feuerstelle im Nordwesten](../../images/Altikon/Feuerstelle.jpg)  
-[Die Feuerstelle im Nordwesten](https://www.openstreetmap.org/node/5507669195), fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.59098%2C8.76670#map=19/47.59098/8.76670) am 18.02.2023.
+[Die Feuerstelle im Nordwesten](https://www.openstreetmap.org/node/5507669195), fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.59098%2C8.76670#map=19/47.59098/8.76670) am 2023-02-18.
