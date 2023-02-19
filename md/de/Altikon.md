@@ -77,5 +77,5 @@ Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?w
 ![Das Dorf Altikon](../../images/Altikon/Altikon_3.jpg)  
 Das Dorf Altikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57715%2C8.78472#map=19/47.57715/8.78472) am 03.01.2023.
 
-![Der Fluss Thur](../../images/Altikon/Thur.jpg)  
+![Der Fluss Thur](../../images/Altikon/Thur_Ost.jpg)  
 Der Fluss Thur mit Blick flussabwärts, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58392%2C8.80278#map=19/47.58392/8.80278) am 03.01.2023.
