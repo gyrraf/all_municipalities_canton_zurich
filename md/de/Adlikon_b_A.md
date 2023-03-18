@@ -1,11 +1,13 @@
 # Adlikon (bei Andelfingen)
 
-*Update vom 28.11.2021: Die Gemeinde Adlikon hat in einer Abstimmung entschieden, dass sie Teil der Gemeinde Andelfingen werden wollen. Die Abstimmungsunterlagen dazu kann man [hier](https://www.adlikon.ch/_docn/3362330/Beiblatt_Fusionsabstimmung.pdf) finden (Solange die Gemeinde Adklikon diese noch nicht gelöscht hat).*
+*Update vom 18.03.2023: Die Webseite der Gemeinde Adlikon wird am 30. Juni 2023 verschwinden. Ich weiss nicht was danach mit der Domain passiert. Das anklicken von links, die zur Webseite führen könnte gefährlich sein.*
 
-[Webseite der Gemeinde](https://www.adlikon.ch/)  
+*Update vom 28.11.2021: Die Gemeinde Adlikon hat in einer Abstimmung entschieden, dass sie Teil der Gemeinde Andelfingen werden wollen. Die Abstimmungsunterlagen dazu kann man ~~[hier](https://www.adlikon.ch/_docn/3362330/Beiblatt_Fusionsabstimmung.pdf)~~ finden (Solange die Gemeinde Adklikon diese noch nicht gelöscht hat).*
+
+~~[Webseite der Gemeinde](https://www.adlikon.ch/)~~  
 [Gemeindegebiet auf Openstreetmap.org](https://www.openstreetmap.org/relation/1682076)
 
-Die Gemeinde Adlikon ist eine <q cite="https://www.adlikon.ch/portrait_uebersicht">kleine Landgemeinde mit rund 700 Einwohner*innen die aus den 3 Dörfern Adlikon, Dätwil und Niederwil besteht.</q> Adlikon liegt 9.5 km nördlich von Winterthur.  
+Die Gemeinde Adlikon ist eine ~~<q cite="https://www.adlikon.ch/portrait_uebersicht">kleine Landgemeinde mit rund 700 Einwohner*innen die aus den 3 Dörfern Adlikon, Dätwil und Niederwil besteht.</q>~~ Adlikon liegt 9.5 km nördlich von Winterthur.  
 Zwischen Adlikon und Niederwil liegen 2.3 km, zwischen Adlikon und Dätwil liegen 2.4 km und zwischen Niederwil und Dätwil liegen 2.5 km.
 
 ## Transport
