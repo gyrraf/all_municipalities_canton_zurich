@@ -1,4 +1,4 @@
-* [Adlikon (bei Andelfingen)](./Adlikon_b_A.md)
+* [Adlikon (bei Andelfingen)](./Adlikon_b_A.md) *Seit 2023 Teil von Andelfingen.*
 * [Adliswil](./Adliswil.md)
 * [Aesch ZH](./Aesch_ZH.md)
 * [Aeugst am Albis](./Aeugst_a_A.md)

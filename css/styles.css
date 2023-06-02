@@ -81,3 +81,8 @@ figcaption {
     font-size: 1em;
     color: #000000ff;
 }
+
+.index_element em.update {
+    font-size: 0.9em;
+    color: #008000ff;
+}
