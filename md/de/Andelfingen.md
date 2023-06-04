@@ -44,6 +44,11 @@ Das Wappen ist abgeleitet vom Wappen der Grafschaft Kyburg.
 
 Das Logo der Gemeinde Andelfingen zeigt eine stylisierte Skyline des Dorfes Andelfingen mit dem markanten Kirchenturm. Die Skyline ist weiss und im Hintergrund befindet sich ein roter und ein gelber Streifen. Der untere Teil des Logos, hinter der weissen skyline ist grau. In der weissen Fläche steht der Text "Gemeinde Andelfingen willkommen im zürcher Weinland" komplett ohne Grossbuchstaben. Der Text "Gemeinde" ist schwarz und von unten nach oben, der Text "Andelfingen" ist schwarz und fett und der Text "willkommen im zürcher Weinland" ist blau und kleiner geschrieben.
 
+## Weiteres
+
+In der westlichen Unterführung am Bahnhof Andelfingen hängen 9 Bilder die von Primarschülern gemalt wurden.  
+Auch die [Bahnunterführung nördlich von Humlikon](https://www.openstreetmap.org/way/122455826) ist schön angemalt.
+
 ## Erfahrungsbericht als Fussgänger
 
 Auf dem Gebiet der ehemaligen Gemeinde Adlikon gibt es fast keine Gehsteige und explizite Fahrradstreifen oder -wege. Die meisten Strassen sind hier allerdings auch nicht sehr stark befahren und können dementsprechend von Fahrrädern und Fussgängern mit benutzt werden.  
