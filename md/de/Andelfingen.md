@@ -62,3 +62,18 @@ Was mich auch ein wenig überrascht hat war die anzahl an Trinkwasserbrünnen, v
 Auch überrascht hat mich die Grösse des überdachten Fahrradstellplatzes beim Sekundarschulhaus Andelfingen und dass das wenige Meter entfernte Freibad trotzdem nochmal eigene (nicht überdachte) Fahrradplätze hat.
 
 ## Fotos
+
+![Die Andelfinger Holzbrücke](../../images/Andelfingen/Holzbruecke_2.jpg)  
+Die Holzbrücke über die Thur zwischen Andelfingen und Kleinandelfingen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.59966%2C8.67631#map=19/47.59966/8.67631) am 2023-04-30.
+
+![Die Fussgängerbrücke über die Thur](../../images/Andelfingen/Fussgaengerbruecke.jpg)  
+Die Fussgängerbrücke über die Thur zwischen Andelfingen und Kleinandelfingen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.59670%2C8.68093#map=19/47.59670/8.68093) am 2023-04-30.
+
+![Das Dorf Andelfingen inklusive Kirchturm](../../images/Andelfingen/Kirche_1.jpg)  
+Das Dorf Andelfingen inklusive Kirchturm, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.59988%2C8.67662#map=19/47.59988/8.67662) am 2023-04-30.
+
+![Das Dorf Andelfingen](../../images/Andelfingen/Andelfingen_3.jpg)  
+Das Dorf Andelfingen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57965%2C8.66063#map=19/47.57965/8.66063) mit 2x Zoom am 2023-05-20.
+
+![Das Dorf Humlikon](../../images/Andelfingen/Humlikon_2.jpg)  
+Das Dorf Humlikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.58300%2C8.66754#map=19/47.58300/8.66754) am 2023-05-20.
