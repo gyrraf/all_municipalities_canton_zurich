@@ -3,7 +3,7 @@
 [Webseite der Gemeinde](https://www.andelfingen.ch)  
 [Gemeindegebiet auf Openstreetmap.org](https://www.openstreetmap.org/relation/1682083)
 
-*Anmerkung: Die Gemeinden Adlikon und Humlikon sind seit Beginn des Jahres 2023 Teil von Andelfingen. Über die Gemeinde Adlikon habe ich aber bereits einen Bericht geschrieben, bevor die Abstimmung dazu angenommen wurde.*
+*Anmerkung: Die Gemeinden Adlikon und Humlikon sind seit Beginn des Jahres 2023 Teil von Andelfingen. Über die Gemeinde Adlikon habe ich aber bereits einen Bericht geschrieben, bevor die Abstimmung dazu angenommen wurde. Adlikon ist deswegen ein wenig Untervertreten in diesem Bericht. Der Bericht über das unabhängige Adlikon ist [hier](./Adlikon_b_A.md) weiterhin verfügbar.*
 
 Die Gemeinde Andelfingen besteht aus den Dörfern Andelfingen, Adlikon und Humlikon und aus den Wilern Dätwil und Niederwil.  
 Andelfingen ist der Hauptort des gleichnamigen Bezirks im Kanton Zürich und bezeichnet sich selber als das Herzen des Zürcher Weinlandes. Im Norden grenzt Andelfingen an die Gemeinden Kleinandelfingen und Ossingen. Der Fluss Thur bildet hier die Grenze. Im Westen grenzt Andelfingen an die Gemeinden Flaach, Volken und Dorf, im Osten an die Gemeinde Thalheim an der Thur und im Süden an die Gemeinden Henggart und die zum Bezirk Winterthur gehörende Gemeinde Dägerlen.  
