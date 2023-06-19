@@ -55,6 +55,15 @@ p.declaration em {
     font-style: italic;
 }
 
+p.note {
+    font-size: 0.9em;
+    color: #606060ff;
+}
+
+p.note em {
+    font-style: italic;
+}
+
 p.transcription {
     font-size: 1em;
     color: #000000ff;
