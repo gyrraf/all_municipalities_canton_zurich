@@ -25,6 +25,10 @@ Die Länggenstrasse fängt einige Meter südlich der Eschenmosenstrasse and der 
 
 ## Einkaufsmöglichkeiten
 
+Im Industriegebiet gibt es einige Einkaufmöglichkeiten wie zum Beispiel eine relativ grosse Coop Filiale, eine Aldi Filiale, einen Jumbo Maximo, einen Otto's und noch vieles mehr. Im direkt nebenan gelegenen Industriegebiet von Bülach gibt es noch eine Migros Filiale, eine Lidl Filiale, einen Jysk und einiges mehr.
+
+Im Bewohnten Teil von Bachenbülach gibt es eine Volg Filiale, eine Post Filiale, ein paar Restaurants und einige weitere kleinere Geschäfte.
+
 ## Gemeindewappen
 
 <q cite="https://www.bachenbuelach.ch/portraet/geschichte.html/8">Das Gemeindewappen von Bachenbülach zeigt einen Kehrnagel auf rotem Hintergrund.</q> Der Kehrnagel ist ein Bestandteil eines Pfluges und ist im Wappen weiss dargestellt.
