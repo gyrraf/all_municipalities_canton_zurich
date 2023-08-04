@@ -29,6 +29,10 @@ Im Industriegebiet gibt es einige Einkaufmöglichkeiten wie zum Beispiel eine re
 
 Im Bewohnten Teil von Bachenbülach gibt es eine Volg Filiale, eine Post Filiale, ein paar Restaurants und einige weitere kleinere Geschäfte.
 
+## Schule
+
+Bachenbülach hat im Halden einen Kindergarten und eine Primarschule, aber keine Sekundarschule. Sekundarschüler müssen in das angrenzende Bülacher Schulhaus Mettmenriet.
+
 ## Gemeindewappen
 
 <q cite="https://www.bachenbuelach.ch/portraet/geschichte.html/8">Das Gemeindewappen von Bachenbülach zeigt einen Kehrnagel auf rotem Hintergrund.</q> Der Kehrnagel ist ein Bestandteil eines Pfluges und ist im Wappen weiss dargestellt.
@@ -38,6 +42,10 @@ Das Wappen wird auf dem Gemeindegebiet am Gemeindehaus und wenigen anderen Stell
 ### Gemeinde Logo
 
 Das Gemeindelogo zeigt die Umrisse des Kehrnagels aus dem Wappen mit einer leichten 3D-Rotation. Die Umrisse sind dabei im Rot des Wappens gezeichnet. Rechts von der Kehrschlaufe steht in rot und nur Grossbuchstaben das Wort "Gemeinde". Das Wort "Bachenbülach" steht grösser darunter in schwarz und mit Kleinbuchstaben. Der Name überdeckt dabei den geraden Teil des Kehrnagels und rechts sind die Enden beider Wörter bündig.
+
+## Weiteres
+
+Beim Aussichtspunkt an der Bruederstrasse hat die Gemeinde Bachenbülach für die in Bachnbülach lebende Triathletin Nicola Spirig Hug einen Wegweiser und eine [Sitzbank](https://www.openstreetmap.org/node/7504078116) aufgestellt. Die Sitzbank ist silber und gold angemalt und der Wegweiser zeigt die Richtung und Distanz zu den Austragungsorten der Olympischen Spiele an denen Nicola Spirig Hug beteiligt war.
 
 ## Erfahrungsbericht als Fussgänger
 
