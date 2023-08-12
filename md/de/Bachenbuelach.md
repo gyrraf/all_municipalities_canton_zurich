@@ -72,3 +72,18 @@ Die Zürichstrasse, die grösste Strasse in Bachenbülach abgesehen von der Auto
 Die allermeisten Feld- und Waldwege auf dem Gemeindegebiet sind in einem guten Zustand.
 
 ## Fotos
+
+![Das Dorf Bachenbülach](../../images/Bachenbuelach/Bachenbuelach_north-east_2.jpg)  
+Das Dorf Bachenbülach, fotografiert von vor dem Bruederhof [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.51051%2C8.55042#map=19/47.51051/8.55042) am 2023-07-30.
+
+![Das Dorf Bachenbülach](../../images/Bachenbuelach/Bachenbuelach_south-west_1.jpg)  
+Das Dorf Bachenbülach, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.49684%2C8.53548#map=19/47.49684/8.53548) am 2023-07-23.
+
+![Das Dorf Bachenbülach](../../images/Bachenbuelach/Bachenbuelach_south-east_1.jpg)  
+Das Dorf Bachenbülach, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.50228%2C8.55602#map=19/47.50228/8.55602) am 2023-07-30.
+
+![Das Dorf Bachenbülach](../../images/Bachenbuelach/Bachenbuelach_east_1.jpg)  
+Das Dorf Bachenbülach, fotografiert von neben dem Reservoir [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.50430%2C8.55552#map=19/47.50430/8.55552) am 2023-07-30.
+
+![Das Gemeindehaus von Bachenbülach](../../images/Bachenbuelach/Gemeindehaus.jpg)  
+Das Gemeindehaus von Bachenbülach, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.50254%2C8.54707#map=19/47.50254/8.54707) am 2023-07-30.
