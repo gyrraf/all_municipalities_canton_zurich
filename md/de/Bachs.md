@@ -23,6 +23,12 @@ Innerhalb der Gemeinde sind noch die Dorfstrasse wichtig. Die Dorfstrasse führt
 
 ## Einkaufsmöglichkeiten
 
+In Bachs gibt es nur einen kleinen Laden, den [Bachsermärt](https://www.bachsermaert.ch/). Die nächsten grösseren Einkaufsmöglichkeiten befinden sich in Bülach, Neerach oder Dielsdorf.
+
+### Restaurants
+
+Oben im Eichhof gibt es eine Besenbeiz [Eichhof](https://besenbeiz-eichhof.ch/), angeschlossen an den Bachsermärt gibt es das [Bistro Bachs](https://www.bachsermaert.ch/bistro-bachs/) und östlich der Schule befindet sich das Restaurant [Neuhof](https://www.neuhofbachs.com/).
+
 ## Schule
 
 Mit der Schule Lindenbuck hat Bachs einen Kindergarten und eine Primarschule. Für die Sekundarschule hat sich Bachs, so wie auch einige andere Gemeinden in der Umgebung, Stadel angeschlossen. Das heisst Sekundarschüler\*innen müssen nach Stadel in die Schule.
@@ -40,6 +46,8 @@ Das Gemeindelogo zeigt das Gemeindewappen und rechts daneben den Text "Gemeinde 
 Das wichtigste Gewässer in Bachs ist der Fisibach. Der Fisibach beginnt im Südosten und fliesst richtung Nordwesten und schlussendlich, ausserhalb des Gemeinedegebiets, in den Rhein. In den Fisibach fliessen der Hochrütibach und der Balmbach.
 
 ## Weiteres
+
+Hinter dem Schulhaus hat die Gemeinde einen öffentlichen Spielplatz namens Bachsolino gebaut.
 
 ## Erfahrungsbericht als Fussgänger
 
