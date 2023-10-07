@@ -46,6 +46,8 @@ Mit der Schule Lindenbuck hat Bachs einen Kindergarten und eine Primarschule. F�
 
 Das Bachser Gemeindewappen ist schräg von links oben nach rechts unten geteilt. Der untere Teil ist blau, der obere Teil ist weiss. Im Weissen Teil befindet sich ein blauer Stern mit 8 Zacken.
 
+Das Wappen kann auf dem Gemeindegebiet auf einigen Trinkwasserbrünnen, einer Scheune, auf dem Gemeindehaus, als Fahne auf einem Privatgrundstück und noch an ein paar weiteren Orten gefunden werden.
+
 ### Gemeinde Logo
 
 Das Gemeindelogo zeigt das Gemeindewappen und rechts daneben den Text "Gemeinde Bachs". Beide Wörter sind mit der gleichen Schriftart und Schriftgrösse geschrieben und beide Wörter sind ausschliesslich mit Grossbuchstaben geschrieben. Die Wörter sind auf 2 Zeilen geschrieben und beide Wörter sind zueinander links bündig. Das Wort "Gemeinde" ist in Schwarz geschrieben und das Wort Bachs in Blau.
@@ -70,7 +72,5 @@ Die Stadlerstrasse hat weder eine Gehsteig, Gehweg noch einen Fahrradstreifen.
 
 Abgesehen von der Bachsertalstrasse, der Stadlerstrasse und der Dorfstrasse sind alle Strassen verkehrberuhigt genug, dass diese auch ohne Gehsteige und Fahrradstreifen von Fussgängern und Fahrrädern problemlos genutzt werden können. Die Dorfstrasse ist auch noch ziemlich ruhig und kann deswegen auch mit ein wenig Vorsicht genutzt werden. Die Bachsertalstrasse und Stadlerstrasse sind auch nicht all zu stark befahren allerdings würde ich Fussgängern nicht empfehlen diese zu benützen (zumindest nicht auf den Strecken die keinen Gehsteig haben).  
 Die Gemeinde Bachs hat auf beiden Talseiten ziemlich viele Feld- und vorallem Waldwege, die alle in einem guten Zustand sind.
-
-Ich konnte das Gemeindewappen auf dem Gemeindegebiet an verschiedenen Stellen entdecken. So z.B. auf dem Gemeindehaus, mehreren Trinkwasserbrünnen im Dorf selber (aber nicht dem beim alten Schulhaus Tal) und einer Scheune.
 
 ## Fotos
