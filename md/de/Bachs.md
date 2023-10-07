@@ -58,6 +58,10 @@ Das wichtigste Gewässer in Bachs ist der Fisibach. Der Fisibach beginnt im Süd
 
 Hinter dem Schulhaus hat die Gemeinde einen öffentlichen Spielplatz namens Bachsolino gebaut.
 
+Im Wald auf der Nordöstlichen Talseite gibt ziemlich viele Feuerstellen, inklusive einer grossen beim Sanzenberg.
+
+Am Nordwestlichen Ende des Gemeindegebietes gibt es 2 Ruinen, wobei die Ruine Waldhausen eigentlich einige Meter ausserhalb des Gemeindegebietes liegt. Das Erdmannliloch ähnelt einer kleinen Höhle mit Mauern und die Ruine Waldhausen ist eine Ruine eines Gebäudes.
+
 ## Erfahrungsbericht als Fussgänger
 
 Die Bachsertalstrasse hat auf einem Grossteil der Strecke innerhalb des Gemeindegebietes von Bachs entweder einen von der Strasse getrennten Geh- und Radweg oder einen Gehsteig der auch für Fahrräder gedacht ist. Vom Dorf Bachs nach Steinmaur ist es ein von der Strasse getrennter Geh- und Radweg. Vom Dorf Bachs bis zum Talmüli Hof und dem alten Schulhaus Tal ist es grösstenteils ebenfalls ein von der Strasse getrennter Geh- und Radweg, aber im Gebiet der Höfe Neumühle, Hueb und Talmüli verläuft er als Gehsteig. Vom Hof Talmüli bis zur Gemeindegrenze müsste dann die Strasse benutzt werden. Innerhalb des Dorfes Bachs wechselt es häufiger. Zwischen der Stigstrasse und der Oberdorfstrasse hat es gar nichts. Zwischen der Oberdorfstrasse und der Dorfstrasse hat einen nur für Fussgänger gedachten Gehsteig. Nach der Dorfstrasse wird der Gehsteig wieder zu einem Geh- und Radweg und für eine kurze Distanz gibt es auf der anderen Strassenseite noch einen zweiten Gehsteig.  
