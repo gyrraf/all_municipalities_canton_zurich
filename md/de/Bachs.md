@@ -74,3 +74,21 @@ Abgesehen von der Bachsertalstrasse, der Stadlerstrasse und der Dorfstrasse sind
 Die Gemeinde Bachs hat auf beiden Talseiten ziemlich viele Feld- und vorallem Waldwege, die alle in einem guten Zustand sind.
 
 ## Fotos
+
+![Das Dorf Bachs vom Nord-Osten](../../images/Bachs/Bachs_north-east.jpg)  
+Das Dorf Bachs, fotografiert von oberhalb des Reservoirs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.53029%2C8.44544#map=19/47.53029/8.44544) am 2023-09-10.
+
+![Östlicher Teil des Dorfes Bachs vom Süden](../../images/Bachs/Bachs_south_1.jpg)  
+Der östliche Teil des Dorfes Bachs, fotografiert von unterhalb des Eichhofs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.52182%2C8.43686#map=19/47.52182/8.43686) am 2023-09-24.
+
+![Zentraler Teil des Dorfes Bachs vom Süden](../../images/Bachs/Bachs_south_2.jpg)  
+Der Zentrale Teil des Dorfes Bachs, fotografiert von unterhalb des Eichhofs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.52209%2C8.43666#map=19/47.52209/8.43666) am 2023-09-24.
+
+![Gemeindehaus und Kirche von Bachs](../../images/Bachs/Community_hall.jpg)  
+Das Gemeindehaus und die Kirche des Dorfes Bachs, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.52475%2C8.43961#map=19/47.52475/8.43961) am 2023-09-10.
+
+![Feuerstelle Sanzenberg](../../images/Bachs/Sanzenberg.jpg)  
+Die Feuerstelle Sanzenberg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.54571%2C8.41745#map=19/47.54571/8.41745) am 2023-09-10.
+
+![Das Erdmannliloch](../../images/Bachs/Erdmannliloch.jpg)  
+Das [Erdmannliloch](https://www.openstreetmap.org/node/6419670946), fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.54215%2C8.41353#map=19/47.54215/8.41353) am 2023-09-10.
