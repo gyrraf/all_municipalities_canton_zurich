@@ -7,3 +7,4 @@
 * [Andelfingen](./Andelfingen.md)
 * [Bachenbülach](./Bachenbuelach.md)
 * [Bachs](./Bachs.md)
+* [Bäretswil](./Baeretswil.md)
