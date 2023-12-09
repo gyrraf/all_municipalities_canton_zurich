@@ -3,6 +3,12 @@
 [Webseite der Gemeinde](https://www.baeretswil.ch/)  
 [Gemeindegebiet auf Openstreetmap.org](https://www.openstreetmap.org/relation/1682099)
 
+Die Gemeinde Bäretswil besteht aus den Dörfern Bäretswil und Adetswil und einer menge Umland vorallem in nördliche und östliche Richtung. Die Gemeinde hat eine Fläche von <q cite="https://www.baeretswil.ch/gemeindeinzahlen">2'220 ha oder 22 km²</q> und hatte <q cite="https://www.baeretswil.ch/gemeindeinzahlen">im Jahr 2022 5'105 Einwohner\*innen</q>.  
+Die Dörfer Adetswil und Bäretswil sind mittlerweile zusammen gewachsen und die Grenze zwischen ihnen ist kaum noch sichtbar. Neben den Dörfern Bäretswil und Adetswil besteht die Gemeinde aus <q cite="https://www.baeretswil.ch/gemeindeinzahlen">den Aussenwachten Bettswil, Wappenswil, Tisenwaldsberg, Neuthal, Hof, Hinterburg, Tanne, Ghöch, Fehrenwaldsberg und Kleinbäretswil und über hundert Einzelsiedlungen</q>.
+
+Die Gemeinde Bäretswil gehört zum Bezirk Hinwil des Kantons Zürich. Im Norden grenzt Bäretswil an die im Bezirk Pfäffikon gelegene Gemeinde Bauma, im Osten an die Gemeinde Fischenthal, im Süden an die Gemeinde Hinwil, im Süd-westen an die Gemeinden Wetzikon und die im Bezirk Pfäffikon gelegene Gemeinde Pfäffikon und im Nord-westen an die im Bezirk Pfäffikon gelegene Gemeinde Hittnau.  
+Das Dorf Bäretswil ist ca. 23.9 km Luftlinie ost-süd-östlich des Zürcher Hauptbahnhofs und ca. 5 km Luftlinie nord-östlich des Wetziker Bahnhofs.
+
 ## Transport
 
 ### Privatverkehr
@@ -25,11 +31,17 @@ Im Zürcher Nachtnetz werden alle Haltestellen ausser "Gemeindehaus" 4-mal im St
 
 ## Schule
 
+## Gemeindename
+
 ## Gemeindewappen
 
 ### Gemeinde Logo
 
-## Gewässer
+## Landschaft
+
+### Gewässer
+
+### Berge
 
 ## Weiteres
 
