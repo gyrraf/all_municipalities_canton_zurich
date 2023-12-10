@@ -13,6 +13,22 @@ Das Dorf Bäretswil ist ca. 23.9 km Luftlinie ost-süd-östlich des Zürcher Hau
 
 ### Privatverkehr
 
+Die Grösste und wichtigste Strasse in Bäretswil ist die Wetziker-/Baumastrasse. Die Strasse führt von Wetzikon durch das Dorf Bäretswil nach Bauma. Nördlich von Bäretswil, in Richtung Bauma, heisst die Strasse Baumastrasse und südlich von Bäretswil, in Richtung Wetzikon, heisst die Strasse Wetzikerstrasse. In Bauma endet die Strasse an der Hauptstrasse von Winterthur nach Rapperswil, die durch das Tösstal führt. In Wetzikon führt die Strasse zum Ochsen-Kreisel in Stadtteil Kempten. Von dort führen Strassen nach Pfäffikon ZH, Hinwil und Oberwetzikon.
+
+Im nördlichen Teil des Dorfes Bäretswil zweigt die Adetswilerstrasse von der Baumastrasse in Richtung westen ab. Die Strasse führt durch Adetswil, wird zur Hittnauerstrasse und führt nach Norden nach Oberhittnau.  
+Fast im Zentrum des Dorfes Bäretswil verbindet die Bahnhofstrasse die Adetswilerstrasse mit der Wetziker-/Baumastrasse vorbei am alten Bahnhof.  
+Westlich des Dorfes Adetswil zweigt die Kemptnerstrasse von der Hittnauerstrasse in Richtung süden ab. Die Strasse führt nach Kempten zur Kemptner Hittnauerstrasse (eine andere Strasse als die Bäretswiler Hittnauerstrasse).  
+Weslich von Bäretswil Oberdorf und einige Meter östlich der Bushaltestelle Eishalle zweigt die Ringwilerstrass Richtung süden von der Wetzikerstrasse ab. Die Ringwilerstrasse verlässt das Gemeindegebiet von Bäretswil ziemlich bald und führt dann durch Ringwil nach Girenbad.  
+Die Höhenstrasse zweigt in Bäretswil Oberdorf nach osten von der Wetzikerstrasse ab. Sie führt zur Maiwinkelstrasse und danach als kleinere Wappenswilerstrasse nach Wappenswil, welches Teil der Gemeinde Bäretswil ist.  
+Zwischen Bäretswil Oberdorf und dem Dorf Bäretswil zweigt die Bettswilerstrasse nach osten von der Wetzikerstrasse ab. Sie führt durch Vorder und Hinter Bettswil nach Wirzwil, alles Teile der Gemeinde Bäretswil. In Wirzwil endet die Strasse in einer Kreuzung mit der Ghöchstrasse und der Rüeggenthalstrasse.  
+In Hinter Bettswil zweigt die Maiwinkelstrasse richtung süden von der Bettswilerstrasse ab. Die Maiwinkelstrasse kreuzt sich mit der Höhenstrasse und verlässt danach die Gemeinde Bäretswil Richtung süden. Ausserhalb von Bäretswil führt die Strasse durch Girenbad und Wernetshausen nach Hinwil.  
+Am östlichen Ende des Dorfes Bäretswil zweigt die Rüetswilerstrasse von der Bettswilerstrasse ab. Die Strasse führt durch Rüetswil nach Tannen, beides Teile der Gemeinde Bäretswil.  
+Am nördlichen Ende der Bäretswiler Aussenwacht Bussental zweigt die Rüeggenthalstrasse Richtung osten von der Baumastrasse ab. Die Strasse führt durch Hinterberg dann durch Tannen, wo die Rüetswilerstrasse abzweigt, danach durch Unter- und dann Oberruggental nach Wirzwil zur Verzweigung mit der Ghöchstrasse und der Bettswilerstrasse.  
+Die Ghöchstrasse führt von der Verzweigung in Wirzwil duch das Ghöch dann Ferenwaltsberg und dann durch Kleinbäretswil nach Gibswil, welches zur Gemeinde Fischenthal gehört.  
+Die Hofstrasse zweigt südlich von Neuthal bei Bäretswil von der Baumastrasse Richtung westen ab. Die Hofstrasse führt durch das noch in Bäretswil gelegene Hof und das in Bauma gelegene Bliggenswil zur Niederdürstelenstrasse in Bauma.
+
+Bäretswil hat noch viele weitere kleinere Strassen, wie zum Beispiel die Rosinlistrasse, die Mühlestrasse, die Alte Bettswilerstrasse, die Zelgstrasse, die Allenbergstrasse und noch etliche mehr.
+
 ### Öffentlicher Verkehr
 
 Bäretswil befindet sich in der Tarifzone 172 des Zürcher Verkehrs Verbunds. Auf dem Gemeindegebiet befinden sich die Bushaltestellen "Eishalle", "Oberdorf", "Bärenplatz", "Bahnhof", "Frowiesstrasse", "Sunneberg", "Gemeindehaus", "Bussental" und "Neuthal bei Bäretswil". Die Haltestellen "Eishalle", "Bussental" und "Neuthal bei Bäretswil" befinden sich in kleinen Vororten entlang der Hauptstrasse von Wetzikon nach Bauma. Die Haltestelle "Oberdorf" befindet sich im Dorfteil "Oberdorf", die Haltestellen "Gemeindehaus" und "Bärenplatz" und "Bahnhof" befinden sich im Dorfteil Bäretswil und die Haltestellen "Frowiesstrasse" und "Sunneberg" liegen im Dorfteil Adetswil.  
