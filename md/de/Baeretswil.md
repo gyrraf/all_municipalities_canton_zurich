@@ -51,7 +51,13 @@ Im Zürcher Nachtnetz werden alle Haltestellen ausser "Gemeindehaus" 4-mal im St
 
 ## Gemeindewappen
 
+Das Wappen von Bäretswil zeigt einen aufrechten, schwarzen Bären mit roter Zunge der nach links schaut. Der Hintergrund des wappen ist einfarbig gold bzw. gelb.  
+Laut der Webseite der Gemeinde Bäretswil (spezifisch laut der seite über das Wappen: [https://www.baeretswil.ch/wappen](https://www.baeretswil.ch/wappen)) wurde das Wappen 1927 basierend auf einem Stempel des Gemeinderates offiziell gemacht. Warum der Bär auf dem Stempel war ist nicht komplett klar.
+
 ### Gemeinde Logo
+
+Das Logo der Gemeinde ist ähnlich wie das Wappen. Der Hintergrund ist das selbe Gold/Gelb des Wappens in der Form eines Trapezes mit Stufen das nach unten zeigt. Der Bär im Vordergrund ist grau mit schwarzen Umrissen, im Gegensatz zum Bär auf dem Wappen, der solid schwarz ist. Rund um den Bär herum ist ein transparenter Umriss, so dass die Hintergrundfarbe weder links noch rechts die gesamte höhe durchgehend ist.  
+Rechts neben dem icon befindet sich der Text "Gemeinde Bäretswil" in schwarz mit einer sans-serif Schriftart. Der Text ist auf 2 Zeilen geschrieben mit dem Wort "Gemeinde" auf der ersten Zeile und dem Wort "Bäretswil auf der zweiten Zeile. Der Text "Gemeinde" ist kleiner und nicht fett, während der Text "Bäretswil" grösser und fett ist. Die erste Zeile ist leicht weiter links als die zweite Zeile.
 
 ## Landschaft
 
