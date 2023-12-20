@@ -47,6 +47,8 @@ Im Zürcher Nachtnetz werden alle Haltestellen ausser "Gemeindehaus" 4-mal im St
 
 ## Schule
 
+Die Gemeinde Bäretswil hat Kindergärten, Primarschulen und eine Sekundarschule. Kindergärten gibt es in Adetswil, Bäretswil Oberdorf Maiwinkel. Primarschulen gibt es in Adetswil, Bäretswil Dorf und Maiwinkel und eine Sekundarschule gibt es im Letten. Der Kindergarten Adetswil befindet sich direkt neben der Primarschule Adetswil und der Kindergarten Maiwinkel befindet sich direkt neben der Primarschule Maiwinkel.
+
 ## Gemeindename
 
 ## Gemeindewappen
@@ -62,6 +64,9 @@ Rechts neben dem icon befindet sich der Text "Gemeinde Bäretswil" in schwarz mi
 ## Landschaft
 
 ### Gewässer
+
+Bäretswil hat ziemlich viele Bäche, die meisten davon enden im Aabach. Der Aabach verlässt Bäretswil im Kemptnertobel nach Wetzikon und mündet schlussendlich in den Pfäffikersee. Der Aabach entspringt nördlich des Allmen, fliesst durch das Wappenswilerriet und den Stöckweiher.  
+Im Nödlichen Teil der Gemeinde fliessen alle Bäche in den Wissenbach, der nach Bauma in die Töss fliesst. Der Wissenbach entspringt unter der Waldsberghöchi und fliesst durch Wirzwil, Hinterburg und Neuthal.
 
 ### Berge
 
