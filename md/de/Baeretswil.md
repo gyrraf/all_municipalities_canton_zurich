@@ -43,13 +43,19 @@ Im Zürcher Nachtnetz werden alle Haltestellen ausser "Gemeindehaus" 4-mal im St
 
 ## Einkaufsmöglichkeiten
 
+Im Dorf Bäretswil gibt es eine Volg Filiale und eine kleine Coop Filiale. In Adetswil gibt es nochmals eine Volg Filiale. Im Dorf Bäretswil gibt es ausserdem noch eine Apodro Drogerie und eine Voland Bäckerei. Für grössere Einkäufe müsste man aber ins angrenzende Wetzikon oder ins 4.5 km Luftlinie entfernte Industriegebiet von Hinwil.
+
 ### Restaurants
+
+Bäretswil hat einige Restaurants über das Gemeindegebiet verteilt. Die bekanntesten davon sind wohl das [Berggasthaus Rosinli](https://www.rosinli.ch/) und das [Restaurant Berg](https://berg8498.ch/) im Ghöch. Es gibt aber auch noch einige mehr wie zum Beispiel das [Restaurant Bahnhof](https://www.baeretswil.ch/restaurants/39119) beim alten Bahnhof Bäretswil, der [Wildi Bistro-Schuppen](https://www.bistro-schuppe.ch/) im alten Bahnhofsgebäude Neuthal und das [Restaurant Ochsen](https://www.ochsen-baeretswil.ch/) an der Adetswilerstrasse im Dorf Bäretswil.
 
 ## Schule
 
 Die Gemeinde Bäretswil hat Kindergärten, Primarschulen und eine Sekundarschule. Kindergärten gibt es in Adetswil, Bäretswil Oberdorf Maiwinkel. Primarschulen gibt es in Adetswil, Bäretswil Dorf und Maiwinkel und eine Sekundarschule gibt es im Letten. Der Kindergarten Adetswil befindet sich direkt neben der Primarschule Adetswil und der Kindergarten Maiwinkel befindet sich direkt neben der Primarschule Maiwinkel.
 
 ## Gemeindename
+
+Der Name von Bäretswil hatte ursprünglich nichts mit einem Bär zu tun sondern stammt <q cite="https://www.baeretswil.ch/geschichte/4746">von den Namen Berofovilare und Berolfeswilari und bedeutet Weiler des Berolf oder des Berolt</q>.
 
 ## Gemeindewappen
 
@@ -69,6 +75,13 @@ Bäretswil hat ziemlich viele Bäche, die meisten davon enden im Aabach. Der Aab
 Im Nödlichen Teil der Gemeinde fliessen alle Bäche in den Wissenbach, der nach Bauma in die Töss fliesst. Der Wissenbach entspringt unter der Waldsberghöchi und fliesst durch Wirzwil, Hinterburg und Neuthal.
 
 ### Berge
+
+Das Gemeindegebiet von Bäretswil wird (zumindest für Zürcher verhältnisse) stark durch Berge geprägt.  
+Im Süd-osten von Bäretswil befindet sich ein Hügelzug auf dem sich das Ghöch, der höchste Punkt von Bäretswil und die Täuferhöhle befindet. Das Ghöch ist ein Ausflugsgebiet mit Skilift. Die [Täuferhöhle](https://de.wikipedia.org/wiki/T%C3%A4uferh%C3%B6hle) ist eine Höhle, die im 16. Jahrhundert anhängern der Täuferbewegung schutz bot. Der höchste Punkt von Bäretswil befindet nur wenige Meter vom 1076 meter hohen Allmen entfernt.  
+Die nord-westliche Grenze wird durch einen Hügelzug gebildet, an dessen westlichen Ende sich das Rosinli befindet. Auf dem Rosinli gibt es ein Restaurant mit Spielplatz auf 823 meter über Meer.  
+Im Nord-osten befindet sich ein Hügelzug der vom Hohenegg auf 904 meter über Meer oberhalb des Wissenbach Wasserfälle im Neuthal bis zur Bööggenegg auf 972 metern über Meer verläuft.  
+Zwischen dem Ghöch und der Bööggenegg im nord-osten befindet sich der 1064 meter hohe Baschlis.  
+Nord-östlich vom Dorf Bäretswil gibt es ausserdem noch den 946 meter hohen Jakobsberg und den Greifenberg.
 
 ## Weiteres
 
