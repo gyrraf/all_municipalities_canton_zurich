@@ -41,6 +41,16 @@ Bäretswil hat auch zwei Bahnhöfe die zur alten [Uerikon-Bauma-Bahn (UeBB)](htt
 
 Im Zürcher Nachtnetz werden alle Haltestellen ausser "Gemeindehaus" 4-mal im Stundentakt von der Linie N87 nur zum aussteigen bedient. In Wetzikon hat man von der SN5 anschluss auf den Bus N87.
 
+### Fahrrad- und Fussverkehr
+
+Die Wetzikerstrasse hat von der Grenze mit Wetzikon bis nach Bäretswil einen Velostreifen auf der einen Strassenseite und einen Gehsteig der auch für Fahrräder gedacht ist auf der anderen Seite. Im Oberdorf werden die Fussgänger und Fahrräder getrennt da die Strasse auf beiden Strassenseiten einen Gehsteig und einen Fahrradstreifen bekommt. Die Markierung für die Fahrradstreifen enden aber kurz danach wieder. Die Strasse verliert kurz vor dem Ende des Dorfes einen Gehsteig wieder und wenige meter danach werden die Fahrräder wieder auf den übrigen Gehsteig geleitet. Vom Dorf Bäretswil bis zur Abzweigung der Hofstrasse von der Baumastrasse verläuft dann ein kombinierter Fuss- und Fahrradweg parallel zur Strasse, der durch einen kleinen Grasstreifen von der Strasse getrennt ist. Bei der vorher genannten Abzweigung endet der kombinierte Fuss- und Fahrradweg dann und einen Gehsteig auf der anderen Strassenseite. Dieser Gehsteig bleibt dann bis zur Gemeindegrenze mit Bauma.  
+Die Adeswiler-/Hittnauerstrasse hat auf der gesamten Länge einen fast durchgehenden Gehsteig. Ausserhalb des Dorfes Adetswil bis zur Gemeindegrenze ist dieses aber sehr schmal. Der Gehsteig ist nicht ganz durchgehend weil er von Strassen die in die Adetswiler-/Hittnauerstrasse führen unterbrochen wird.  
+Die Bahnhofstrasse hat auf der gesamten Länge mindestens einen Gehsteig. Auf Teilen hat die Strasse auf beiden Seiten einen Gehsteig.  
+Die Bettswilerstrasse hat bis zur Abzweigung der Zelgstrasse einen Gehsteig, auch wenn dieser ausserhalb des Dorfes nicht mehr sehr breit ist.  
+Es gibt noch ein paar weitere kleinere Strassen mit Gehsteig. Innerhalb des Dorfes sind die meisten anderen Strassen verkehrsberuhigt genug dass man diese als Fussgänger oder Fahrradfahrer relativ gut verwenden kann. Ausserhalb des Dorfes muss man aber teilweise, vorallem als Fussgänger, auf alternativen ausweichen. Diese alternativen sind teilweise etwa gleich lang, teilweise länger aber teilweise auch kürzer als die Strasse.
+
+Bäretswil hat auch ziemlich viele Wanderwege. Der Zustand dieser Wanderwege ist unterschiedlich aber gefährlich ist keiner davon.
+
 ## Einkaufsmöglichkeiten
 
 Im Dorf Bäretswil gibt es eine Volg Filiale und eine kleine Coop Filiale. In Adetswil gibt es nochmals eine Volg Filiale. Im Dorf Bäretswil gibt es ausserdem noch eine Apodro Drogerie und eine Voland Bäckerei. Für grössere Einkäufe müsste man aber ins angrenzende Wetzikon oder ins 4.5 km Luftlinie entfernte Industriegebiet von Hinwil.
@@ -82,9 +92,5 @@ Die nord-westliche Grenze wird durch einen Hügelzug gebildet, an dessen westlic
 Im Nord-osten befindet sich ein Hügelzug der vom Hohenegg auf 904 meter über Meer oberhalb des Wissenbach Wasserfälle im Neuthal bis zur Bööggenegg auf 972 metern über Meer verläuft.  
 Zwischen dem Ghöch und der Bööggenegg im nord-osten befindet sich der 1064 meter hohe Baschlis.  
 Nord-östlich vom Dorf Bäretswil gibt es ausserdem noch den 946 meter hohen Jakobsberg und den Greifenberg.
-
-## Weiteres
-
-## Erfahrungsbericht als Fussgänger
 
 ## Fotos
