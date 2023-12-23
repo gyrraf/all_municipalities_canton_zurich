@@ -94,3 +94,30 @@ Zwischen dem Ghöch und der Bööggenegg im nord-osten befindet sich der 1064 me
 Nord-östlich vom Dorf Bäretswil gibt es ausserdem noch den 946 meter hohen Jakobsberg und den Greifenberg.
 
 ## Fotos
+
+![Die Dörfer Bäretswil und Adetswil](../../images/Baeretswil/Adetswil_1.jpg)  
+Die Dörfer Bäretswil und Adetswil, fotografiert von der Bettswilerstrasse [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33434%2C8.86321#map=19/47.33434/8.86321) am 2023-10-29.
+
+![Adetswil und das Umland von Bäretswil](../../images/Baeretswil/Below_Taeuferhoehle_view.jpg)  
+Adetswil und das Umland von Bäretswil, fotografiert von unterhalb der Täuferhöhle [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.31773%2C8.88517#map=19/47.31773/8.88517) am 2023-10-29.
+
+![Hinterburg](../../images/Baeretswil/Hinterburg.jpg)  
+Hinterburg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35034%2C8.87077#map=19/47.35034/8.87077) am 2023-11-26.
+
+![Die Feuerstelle Neuthal mit der Eisenbahnbrücke](../../images/Baeretswil/Neuthal_fireplace_1.jpg)  
+Die Feuerstelle Neuthal mit der Eisenbahnbrücke, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35826%2C8.86662#map=19/47.35826/8.86662) am 2023-12-17.
+
+![Aussicht von der Allenbergstrasse](../../images/Baeretswil/Allenbergstrasse_view_2.jpg)  
+Aussicht von der Allenbergstrasse über vorder Bettswil, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33427%2C8.87623#map=19/47.33427/8.87623) am 2023-10-29.
+
+![Das Dorf Adetswil](../../images/Baeretswil/Rosinli_view_1.jpg)  
+Das Dorf Adetswil, fotografiert vom Rosinli [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.34331%2C8.83353#map=19/47.34331/8.83353) am 2023-12-03.
+
+![Das Dorf Adetswil und Neuegg](../../images/Baeretswil/Pulten_view_2.jpg)  
+Das Dorf Adetswil und Neuegg, fotografiert vom Pulten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.34645%2C8.84053#map=19/47.34645/8.84053) am 2023-12-03.
+
+![Der Stöckweiher](../../images/Baeretswil/Stoeckweiher_1.jpg)  
+Der Stöckweiher, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.32821%2C8.86998#map=19/47.32821/8.86998) am 2023-11-26.
+
+![Der Skilift Ghöch](../../images/Baeretswil/Ghoech.jpg)  
+Der Skilift Ghöch, fotografiert von hinter der Ghöchweid [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33924%2C8.90803#map=19/47.33924/8.90803) am 2023-11-26.
