@@ -53,7 +53,15 @@ Die Überlastung am Brüttiseller Kreuz soll durch eine neue Glatttalautobahn ve
 
 ## Gemeindewappen
 
+Das Wappen besteht aus 6 abwechselnd weissen (bzw. silbernen) und blauen Streiffen die schräg von oben rechts nach unten links verlaufen. Der unterste Streiffen ist dabei Blau. Über diesen schrägen Streiffen befindet sich auf mittlerer höhe ein roter horizontaler Balken.
+
+Obwohl Baltenswil nie zur Gemeinde Dietlikon gehört hat, kann das Wappen von Dietlikon auf dem Dorfbrunnen von Baltenswil und im Wald oberhalb von Baltenswil in Richtung Tagelswangen gefunden werden.
+
 ### Gemeinde Logo
+
+Das Logo der Gemeinde Bassersdorf besteht aus dem Text "8303assersdorf", alles in Grossbuchstaben und einer Zeile geschrieben. Die zweite "3" ist das einzige Zeichen, das nicht ausgefüllt sondern nur als Kontur dargestellt ist, da es gleichzeitig auch ein "B" darstellen soll. 8303 ist die Postleitzahl von Bassersdorf.
+
+Bassersdorf scheint sich ziemlich stark mit dem Logo zu identifizieren, denn das Logo kann auf Mülleimern, Schildern und anderen Orten gefunden werden.
 
 ## Landschaft
 
