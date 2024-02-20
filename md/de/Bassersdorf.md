@@ -49,6 +49,17 @@ Die Überlastung am Brüttiseller Kreuz soll durch eine neue Glatttalautobahn ve
 
 ## Schule
 
+Die Gemeinde Bassersdorf hat Kindergärten, Primarschulen und eine Sekundarschule. Die Schulen befinden sich an 4 Standorten (oder 7, wenn man "Standort" strikter definiert), 3 davon im Ort Bassersdorf und 1 in Baltenswil.
+
+Der kleinste Standort befindet sich im nordwestlichen Teil von Baltenswil und besteht lediglich aus dem Kindergarten Baltenswil. Der Kindergarten Baltenswil wird der Kindergarten Schuleinheit Chrüzacher zugeordnet.  
+Am Standort Chrüzacher im Osten von Bassersdorf befindet sich <q cite="https://www.schule-bassersdorf.ch/primarschule/primar-chruezacher.html/112">ein Kindergarten mit 3 Klassen und eine Primaschule mit 12 Klassen</q>. Im <q cite="https://www.hunziker-betatech.ch/wAssets/docs/objektblaetter/bau/statik/neubau-schulhaus-chruezacher-bassersdorf.pdf">2016 bis 2017 gebauten Schulhaus befindet sich auch eine Turnhalle</q>. Hinter dem Schulhaus befindet sich ausserdem eine Sportanlage mit Fussballfeld, einem Hartplatz mit Handballtoren und Basketballkörben und kombinierter Weitsprung und 80 m Sprintanlage. <q cite="https://www.bassersdorf.ch/public/upload/assets/6690/Schulhaus%20Chr%C3%BCzacher_Aufstockung_Kreditgenehmigung.pdf?fp=1706014637967">Es wird geplant das Schulhaus noch um ein Stockwerk zu erhöhen</q>.
+
+Am Standort Geeren im Westen von Bassersdorf befinden sich <q cite="https://www.schule-bassersdorf.ch/primarschule/primar-geeren.html/113">ein Kindergarten mit 3 Klassen und eine Primarschule mit 16 Klassen und 1 Einschulungsklasse</q>. Die Kindergärten sind Aufgeteilt in den Kindergarten Geeren und den ca. 100 m entfernten Kindergarten Auenring. Am Schulstandort Geeren befindet sich auch eine Turnhalle und ein Hallenbad. Hinter dem Hallenbad befindet sich ausserdem eine Sportanlage mit Fussballfeld und Hartplatz mit Handballtoren und Basketballkörben.
+
+Am Kombinierten Standort Mösli und Steinlig im Norden von Bassersdorf befinden sich <q cite="https://www.schule-bassersdorf.ch/primarschule/primar-steinlig.html/114">ein Kindergarten mit 5 Klassen, eine Primarschule mit 8 Klassen</q> und <q cite="https://www.schule-bassersdorf.ch/sekundarschule/sek-moesli.html/115">eine Sekundarschule mit 17 Klassen</q>. Die Kindergärten sind aufgeteilt in den Kindergarten Steinlig, den ca. 150 m entfernten Kindergarten Emmet und einen Waldkindergarten. Die Primarschule Steinlig besteht aus 2 Schulhäusern und die Sekundarschule Mösli besteht aus weiteren 2 Schulhäusern. Zur Sekundarschule Mösli gehört ausserdem auch eine Turnhalle. Hinter den Schulhäusern befindet sich auch hier eine Sportanlage mit Fussballfeld, einem Hartplatz mit Handballtoren und Basketballkörben, einer Weitsprunganlage und einer 100 m Sprintanlage.
+
+<q cite="https://www.schule-bassersdorf.ch/public/upload/assets/4441/Protokollauszug_32.pdf?fp=1625830840870">Auf ende des Schuljahres 2020/2021 wurde der Kindergarten Dorf 1 südöstlich des Zentrums von Bassersdorf geschlossen</q>. <q cite="https://www.schule-bassersdorf.ch/public/upload/assets/4392/Protokollauszug_24_ohne%20Unterschrift.pdf?fp=1622799660812">Der Kindergarten Dorf 2 wurde bereits auf ende des Schuljahrs 2017/18 geschlossen</q>.
+
 ## Gemeindename
 
 Der Ursprung des namens Bassersdorf ist nicht abschliessend geklärt aber es wird vermutet dass <q cite="https://www.bassersdorf.ch/leben-standort/gewerbe/geschichte.html/66">der Gründer der ersten Siedlung in der Gegend "Bazzil" oder "Bassil" hiess</q>.
