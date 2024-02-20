@@ -51,6 +51,8 @@ Die Überlastung am Brüttiseller Kreuz soll durch eine neue Glatttalautobahn ve
 
 ## Gemeindename
 
+Der Ursprung des namens Bassersdorf ist nicht abschliessend geklärt aber es wird vermutet dass <q cite="https://www.bassersdorf.ch/leben-standort/gewerbe/geschichte.html/66">der Gründer der ersten Siedlung in der Gegend "Bazzil" oder "Bassil" hiess</q>.
+
 ## Gemeindewappen
 
 Das Wappen besteht aus 6 abwechselnd weissen (bzw. silbernen) und blauen Streiffen die schräg von oben rechts nach unten links verlaufen. Der unterste Streiffen ist dabei Blau. Über diesen schrägen Streiffen befindet sich auf mittlerer höhe ein roter horizontaler Balken.
