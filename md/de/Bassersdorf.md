@@ -76,10 +76,13 @@ Das Logo der Gemeinde Bassersdorf besteht aus dem Text "8303assersdorf", alles i
 
 Bassersdorf scheint sich ziemlich stark mit dem Logo zu identifizieren, denn das Logo kann auf Mülleimern, Schildern und anderen Orten gefunden werden.
 
-## Landschaft
+## Weiteres
 
-### Gewässer
+Im Nordwesten von Bassersdorf gibt es ein Freibad direkt im Ort.  
+Im Industriegebiet Grindel gibt es eine grosse Sportanlage mit Fussballfeldern, Tennisplätzen, Beachvolleyball halle und mehr.
 
-### Berge
+Östlich von Baltenswil befindet sich der Modellflugplatz Gerstenacher des Modellflugvereins Bassersdorf.
+
+Bassersdorf ist relativ bekannt für ihre version des Sechseläuten und der Fasnacht (Basi-Fasi genannt).
 
 ## Fotos
