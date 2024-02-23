@@ -45,6 +45,8 @@ Die Überlastung am Brüttiseller Kreuz soll durch eine neue Glatttalautobahn ve
 
 ## Einkaufsmöglichkeiten
 
+Im Ortszentrum von Bassersdorf gibt es eine Coop und eine Migros Filiale. Im Ortszentrum gibt es ausserdem noch eine Denner Filiale, eine Metzgerei, eine Bäckerei, eine Apotheke und noch einige weitere Läden und am Bahnhof Bassersdorf gibt es eine Avec Filiale. Falls dies nicht reichen sollte befindet sich 4.5 km Luftlinie Entfernt, in Wallisellen, noch das Einkaufszentrum Glatt.
+
 ## Schule
 
 Die Gemeinde Bassersdorf hat Kindergärten, Primarschulen und eine Sekundarschule. Die Schulen befinden sich an 4 Standorten (oder 7, wenn man "Standort" strikter definiert), 3 davon im Ort Bassersdorf und 1 in Baltenswil.
