@@ -45,8 +45,6 @@ Die Überlastung am Brüttiseller Kreuz soll durch eine neue Glatttalautobahn ve
 
 ## Einkaufsmöglichkeiten
 
-### Restaurants
-
 ## Schule
 
 Die Gemeinde Bassersdorf hat Kindergärten, Primarschulen und eine Sekundarschule. Die Schulen befinden sich an 4 Standorten (oder 7, wenn man "Standort" strikter definiert), 3 davon im Ort Bassersdorf und 1 in Baltenswil.
