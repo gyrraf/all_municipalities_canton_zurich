@@ -101,3 +101,18 @@ Im Zentrum von Bassersdorf gibt es einen öffentlich zugänglichen Dorfplatz. Di
 Die Gemeinde Bassrsdorf hat sich am 41m hohen Hardwaldturm im Hardwald beteiligt. Dieser befindet sich zwar nicht auf dem Gebiet von Bassersdorf, ist aber auch nicht weit davon entfernt.
 
 ## Fotos
+
+![Bassersdorf mit Blick richtung Süden](../../images/Bassersdorf/Bassersdorf_north.jpg)  
+Bassersdorf mit Blick richtung Süden, fotografiert vom Obstweg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.44738%2C8.63234#map=19/47.44738/8.63234) am 2024-02-04.
+
+![Bassersdorf mit Blick richtung Nord-Osten](../../images/Bassersdorf/Bassersdorf_south-west.jpg)  
+Bassersdorf mit Blick richtung Nord-Osten, fotografiert vom Waldrand des Hardwalds [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.44047%2C8.61110#map=19/47.44047/8.61110) am 2024-01-21.
+
+![Bassersdorf mit Blick richtung Norden](../../images/Bassersdorf/Bassersdorf_south_1.jpg)  
+Bassersdorf mit Blick richtung Norden, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.43365%2C8.62843#map=19/47.43365/8.62843) am 2024-01-21.
+
+![Baltenswil mit Blick richtung Westen](../../images/Bassersdorf/Baltenswil.jpg)  
+Baltenswil mit Blick richtung Westen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.42942%2C8.64761#map=19/47.42942/8.64761) am 2024-02-03.
+
+![Ein ICN der SBB zwischen Bassersdorf und Effretikon](../../images/Bassersdorf/Train_Baltenswil_1.jpg)  
+Ein ICN der SBB zwischen Bassersdorf und Effretikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.42424%2C8.65726#map=19/47.42424/8.65726) am 2024-01-21.
