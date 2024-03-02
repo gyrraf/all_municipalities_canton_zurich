@@ -9,3 +9,4 @@
 * [Bachs](./Bachs.md)
 * [Bäretswil](./Baeretswil.md)
 * [Bassersdorf](./Bassersdorf.md)
+* [Bauma](./Bauma.md)
