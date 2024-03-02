@@ -89,10 +89,15 @@ Bassersdorf scheint sich ziemlich stark mit dem Logo zu identifizieren, denn das
 ## Weiteres
 
 Im Nordwesten von Bassersdorf gibt es ein Freibad direkt im Ort.  
-Im Industriegebiet Grindel gibt es eine grosse Sportanlage mit Fussballfeldern, Tennisplätzen, Beachvolleyball halle und mehr.
+Im Industriegebiet Grindel gibt es eine grosse Sportanlage mit Fussballfeldern, Tennisplätzen, Beachvolleyball halle und mehr.  
+Bassersdorf hat 6 gut ausgeschilderte Spazier-/Wanderwege. Eine Karte mit diesen Wegen haben sie auf [ihrer Webseite verlinkt](https://www.bassersdorf.ch/leben-standort/lebenslagen/sportangebote/spazier-und-wanderwege.html/226).
 
 Östlich von Baltenswil befindet sich der Modellflugplatz Gerstenacher des Modellflugvereins Bassersdorf.
 
 Bassersdorf ist relativ bekannt für ihre version des Sechseläuten und der Fasnacht (Basi-Fasi genannt).
+
+Im Zentrum von Bassersdorf gibt es einen öffentlich zugänglichen Dorfplatz. Dieser befindet sich an dem Ort an dem sich zwischen 1877 und 1980 der damalige Bahnhof Bassersdorf befand. Der Gleisweg und das Bahnwegli verlaufen heute auf der Strecke der damaligen Gleise.
+
+Die Gemeinde Bassrsdorf hat sich am 41m hohen Hardwaldturm im Hardwald beteiligt. Dieser befindet sich zwar nicht auf dem Gebiet von Bassersdorf, ist aber auch nicht weit davon entfernt.
 
 ## Fotos
