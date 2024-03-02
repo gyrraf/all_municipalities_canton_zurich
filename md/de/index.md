@@ -8,3 +8,4 @@
 * [Bachenbülach](./Bachenbuelach.md)
 * [Bachs](./Bachs.md)
 * [Bäretswil](./Baeretswil.md)
+* [Bassersdorf](./Bassersdorf.md)
