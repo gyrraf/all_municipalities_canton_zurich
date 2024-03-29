@@ -87,7 +87,7 @@ Im Nödlichen Teil der Gemeinde fliessen alle Bäche in den Wissenbach, der nach
 ### Berge
 
 Das Gemeindegebiet von Bäretswil wird (zumindest für Zürcher verhältnisse) stark durch Berge geprägt.  
-Im Süd-osten von Bäretswil befindet sich ein Hügelzug auf dem sich das Ghöch, der höchste Punkt von Bäretswil und die Täuferhöhle befindet. Das Ghöch ist ein Ausflugsgebiet mit Skilift. Die [Täuferhöhle](https://de.wikipedia.org/wiki/T%C3%A4uferh%C3%B6hle) ist eine Höhle, die im 16. Jahrhundert anhängern der Täuferbewegung schutz bot. Der höchste Punkt von Bäretswil befindet nur wenige Meter vom 1076 meter hohen Allmen entfernt.  
+Im Süd-osten von Bäretswil befindet sich ein Hügelzug auf dem sich das Ghöch, der höchste Punkt von Bäretswil und die Täuferhöhle befindet. Das Ghöch ist ein Ausflugsgebiet mit Skilift. Die [Täuferhöhle](https://de.wikipedia.org/wiki/T%C3%A4uferh%C3%B6hle) ist eine Höhle, die im 16. Jahrhundert anhängern der Täuferbewegung schutz bot. Der höchste Punkt von Bäretswil befindet sich nur wenige Meter vom 1076 meter hohen Allmen entfernt.  
 Die nord-westliche Grenze wird durch einen Hügelzug gebildet, an dessen westlichen Ende sich das Rosinli befindet. Auf dem Rosinli gibt es ein Restaurant mit Spielplatz auf 823 meter über Meer.  
 Im Nord-osten befindet sich ein Hügelzug der vom Hohenegg auf 904 meter über Meer oberhalb des Wissenbach Wasserfälle im Neuthal bis zur Bööggenegg auf 972 metern über Meer verläuft.  
 Zwischen dem Ghöch und der Bööggenegg im nord-osten befindet sich der 1064 meter hohe Baschlis.  
