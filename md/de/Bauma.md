@@ -12,6 +12,12 @@ Die Orte Bauma und Saland befinden sich im Tösstal, ca. 3.7 km oder 3.1 km Luft
 
 ### Privatverkehr
 
+Die wichtigste Strasse in Bauma ist die [Hauptstrasse 15](https://www.openstreetmap.org/relation/303397), die Rapperswil SG mit Winterthur durch das Tösstal verbindet. Die Strasse führt von der Grenze mit Fischenthal im Süd-Osten zur Grenze mit Wila im Nord-Westen. Dabei geht die Strasse durch das Zentrum von Bauma, Dillhaus und Saland. In Bauma heisst diese Strasse von der Gemeindegrenze mit Steg bis zum Ortseingang Bauma Stegstrasse, vom Ortseingang Bauma bis zum Orstkern Bauma heisst die Strasse Gublenstrasse, im Dorfkern Bauma teilt sich die Strasse dann in die Dorfstrasse und die Heinrich Gujerstrasse auf, dann heisst die Strasse vom Orstkern bis nach Dillhaus Unterdorfstrasse und von Dillhaus bis zur Gemeindegrenze mit Wila heisst die Strasse Tösstalstrasse.
+
+Auch die Bäretswilerstrasse und die Hittnauerstrasse sind wichtige Strassen. Die Bäretswilerstrasse führt aus der Dorfstrasse im Ortskern von Bauma nach Bäretswil und weiter nach Wetzikon. Die Hittnauerstrasse führt aus der Tösstalstrasse in Saland durch Laubberg nach Hittnau und von dort weiter nach Pfäffikon ZH und Uster.
+
+Weitere wichtige Strassen sind die Strassen von Bauma nach Saland via Sternenberg und die Strasse von Sternenberg nach Fischingen im Kanton Thurgau. Die Strasse von Bauma nach Sternenberg startet im Kern von Bauma aus der Heinrich Gujerstrasse als Sternenbergstrasse. Die Strasse führt zuerst durch Hörnen, dann Schindlet und Musterplatz. Danach führt sie als Höchstockstrasse durch Höchstock nach Sternenberg Rietwies. Von der dortigen Verzweigung mit der Strasse nach Fischingen führt die Strasse als Dorfstrasse weiter durch Sternenberg bis Hinterberg. Von Hinterberg aus heisst die Strasse dann Kohltobelstrasse und später Blitterswilerstrasse und führt durch Vordertobel bis nach Blitterswil und Juckern. Von Juckern bis zur Tösstalstrasse ein wenig südlich von Saland heisst die Strasse dann noch Juckernstrasse. Die Strasse von Sternenberg nach Fischingen im Kanton Thurgau zweigt zwischen Sternenberg Rossweid und Sternenberg Rietwies von der Strasse von Bauma via Sternenberg nach Saland ab. Von dort führt sie als Gfellstrasse via hintere Rossweid, Wies, Lindenhof nach Sternenberg Gfell. Von dort führt die Strasse weiterhin als Gfellstrasse weiter via Obergfell und Schwendi zum Sternenbergpass auf der Gemeindegrenze.
+
 ### Öffentlicher Verkehr
 
 ### Fahrrad- und Fussverkehr
@@ -49,7 +55,7 @@ Das Logo der Gemeinde Bauma zeigt links das Wappen und daneben den Text "Gemeind
 
 ### Gewässer
 
-Als Tösstaler Gemeinde wird Bauma ziemlich stark von der Töss geprägt. Alle Bäche auf dem Gemeindegebiet fliessen schlussendlich in die Töss. Die meisten davon direkt auf dem Gebiet von Bauma, einige Bäche ganz im Norden und Nord-osten fliessen aber in den Steinenbach, der dann in Wila in die Töss mündet. Die Töss fliesst aus dem Süd-osten, von der Grenze mit Fischenthal, nach Nord-westen, zur Grenze mit Wila.
+Als Tösstaler Gemeinde wird Bauma ziemlich stark von der Töss geprägt. Alle Bäche auf dem Gemeindegebiet fliessen schlussendlich in die Töss. Die meisten davon direkt auf dem Gebiet von Bauma, einige Bäche ganz im Norden und Nord-osten fliessen aber in den Steinenbach, der dann in Wila in die Töss mündet. Die Töss fliesst aus dem Süd-Osten, von der Grenze mit Fischenthal, nach Nord-Westen, zur Grenze mit Wila.
 
 ### Berge
 
