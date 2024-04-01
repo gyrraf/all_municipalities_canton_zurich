@@ -38,7 +38,13 @@ Im Zürcher Nachtnetz wird die Gemeinde Bauma von den Buslinien N82 und N87 bedi
 
 ## Einkaufsmöglichkeiten
 
+In Bauma gibt es eine Migros Filiale, eine Denner Filiale, eine Volg Filiale, ein Avec Express am Bahnhof, die [Tösstal Apotheke](https://www.toesstal-apotheke.ch/) und mehr. In Saland gibt es nochmals eine Volg Filiale.
+
+Die nächsten grösseren Einkaufsmöglichkeiten ausserhalb der Gemeinde Bauma gibt es in Pfäffikon ZH, Wetzikon oder Wald, oder noch etwas grössere in Winterthur, Hinwil oder Rapperswil.
+
 ### Restaurants
+
+Bauma hat ziemlich viele Restaurants, verteilt über das gesamte Gemeindegebiet. In Bauma selber gibt es das [Gasthaus zur Tanne](http://www.zurtannebauma.ch/index.html) und den [Gasthof Adler](https://hoteladlerbauma.ch/Home/). In Sternenberg gibt es das Restaurant [Sternen](https://sternen-sternenberg.ch/). Und an anderen Orten gibt es noch viele weitere.
 
 ## Schule
 
