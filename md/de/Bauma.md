@@ -103,4 +103,8 @@ Als Tösstaler Gemeinde wird Bauma ziemlich stark von der Töss geprägt. Alle B
 Das Gebiet von Bauma östlich der Töss gehört zu den [Appenzeller Alpen](https://www.openstreetmap.org/relation/11342353) und ist daher (zumindest für zürcher Verhältnisse) stark durch Berge geprägt.  
 Sternenberg und das Gebiet darum herum ist ein Ausflugsgebiet für Wanderer. Von Sternenberg Gfell aus startet auch ein Wanderweg auf das Hörnli. Das Hörnli selbst liegt zwar nicht mehr in Bauma, allerdings das Chlihörnli schon. Dieses Chlihörnli ist mit 1'073 Meter über Meer auch der höchste Punkt von Bauma.
 
+## Persönliches Fazit
+
+*Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
+
 ## Fotos
