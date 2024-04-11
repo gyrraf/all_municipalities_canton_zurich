@@ -108,3 +108,30 @@ Sternenberg und das Gebiet darum herum ist ein Ausflugsgebiet für Wanderer. Von
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Das Dorf Bauma](../../images/Bauma/Bauma_Alt-Landenberg.jpg)  
+Das Dorf Bauma, fotografiert von der Ruine Alt-Landenberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.37264%2C8.87229#map=19/47.37264/8.87229) am 2024-02-25.
+
+![Altlandenberg und Bauma aus dem Westen](../../images/Bauma/Bauma_west.jpg)  
+Altlandenberg und Bauma aus dem Westen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.37276%2C8.86144#map=19/47.37276/8.86144) am 2024-02-25.
+
+![Saland und Juckeren aus dem Nord-Westen](../../images/Bauma/Saland_1.jpg)  
+Saland und Juckeren aus dem Nord-Westen, fotografiert von oberhalb von Homberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.39304%2C8.84748#map=19/47.39304/8.84748) am 2024-02-25.
+
+![Dillhaus und Juckeren aus dem Süden](../../images/Bauma/Dillhaus_Juckern.jpg)  
+Dillhaus und Juckeren aus dem Süden, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.37668%2C8.85604#map=19/47.37668/8.85604) am 2024-02-25.
+
+![Laubberg aus dem Süd-Osten](../../images/Bauma/Laubberg.jpg)  
+Laubberg aus dem Süd-Osten, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.38406%2C8.84629#map=19/47.38406/8.84629) am 2024-02-25.
+
+![Sternenberg aus dem Norden](../../images/Bauma/Sternenberg_north.jpg)  
+Sternenberg aus dem Norden, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.39166%2C8.91556#map=19/47.39166/8.91556) am 2024-03-10.
+
+![Eine Zeichnung von Sternenberg an einer Wand in Gfell](../../images/Bauma/Sternenberg_Gfell_drawing.jpg)  
+Eine Zeichnung von Sternenberg an einer Wand in Gfell, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.38218%2C8.93364#map=19/47.38218/8.93364) am 2024-03-24.
+
+![Die Berge um Sternenberg mit dem Hörnli und anderen Bergen im Hintergrund mit Blick nach Osten](../../images/Bauma/Sternenberg_north-west_view.jpg)  
+Die Berge um Sternenberg mit dem Hörnli und anderen Bergen im Hintergrund mit Blick nach Osten, fotografiert von oberhalb von Ussermatt [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.39688%2C8.88580#map=19/47.39688/8.88580) am 2024-03-10.
+
+![Das Gemeindehaus von Bauma](../../images/Bauma/Bauma_community_hall.jpg)  
+Das Gemeindehaus von Bauma, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.36716%2C8.87916#map=19/47.36716/8.87916) am 2024-02-25.
