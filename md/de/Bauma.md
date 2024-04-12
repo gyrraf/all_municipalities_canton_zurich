@@ -107,6 +107,9 @@ Sternenberg und das Gebiet darum herum ist ein Ausflugsgebiet für Wanderer. Von
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Bauma ist eine Flächenmässig grosse, aber Bevölkerungsmässig eher kleine Gemeinde. Sie wird sowohl durch die Voralpen als auch durch das Tösstal geprägt. Durch die Hauptstrasse und die Bahnstrecke im Tösstal ist Bauma relativ gut erschlossen. Die Wege der Töss entlang eignen sich gut für Spaziergänge und die Voralpine Region um Sternenberg bietet viele ruhige, gut ausgebaute und schöne Wanderwege, inklusive dem Wanderweg zum Hörnli und zum Dreiländerstein. Mit der Historischen Bahnhofshalle der Uerikon-Bauma-Bahn und den Ruinen von Alt-Landenberg kann man in Bauma auch Geschichte entdecken.  
+Allgemein ist Bauma eine sehr schöne Gemeinde.
+
 ## Fotos
 
 ![Das Dorf Bauma](../../images/Bauma/Bauma_Alt-Landenberg.jpg)  
