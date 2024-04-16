@@ -10,3 +10,4 @@
 * [Bäretswil](./Baeretswil.md)
 * [Bassersdorf](./Bassersdorf.md)
 * [Bauma](./Bauma.md)
+* [Benken ZH](./Benken_ZH.md)
