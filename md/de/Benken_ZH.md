@@ -31,9 +31,15 @@ Nahe der Gemeindegrenze im nord-westen zweigt die Benkernerstrasse von der Lands
 
 ## Gemeindename
 
+<q cite="https://www.benken-zh.ch/portraet-/geschichte.html/10">Der Name Benken ist eine abgewandelte Version des Namens "Pecchinhova" was "beim Hof des Beggo" oder "beim Hof des Becco" heisst.</q>
+
 ## Gemeindewappen
 
+<q cite="https://de.wikipedia.org/wiki/Benken_ZH">Das Wappen von Benken ist von links oben nach rechts unten zweigeteilt. Der obere Teil ist weiss und der untere Teil ist blau. Im oberen Teil ist eine blaue Pflugschar und im unteren Teil ein silbernes Rebmesser mit goldenem Griff.</q>
+
 ### Gemeinde Logo
+
+Das Logo von Benken besteht aus dem Wappen und dem Text "Benken" und "im Zürcher Weinland". Das Wappen befindet sich links und der Text rechts daneben. Der Text "Benken" ist in grossen, gross und klein Buchstaben geschrieben. Der Text "im Zürcher Weinland" ist darunter geschreiben in kleineren gross und klein Buchstaben. Beide Texte verwenden eine schwarze, nicht fette Schriftart ohne Serifen. Die Schriftgrössen sind so aneinander angepasst, dass beide die exakt gleiche Zeilenlänge haben.
 
 ## Landschaft
 
