@@ -12,6 +12,13 @@ Benken zählt zum Zürcher Weinland und befindet sich ca. 17.8 km Luftlinie nör
 
 ### Privatverkehr
 
+Die [Autobahn A4](https://www.openstreetmap.org/relation/192156) durchquert das Benkener Gemeindegebiet Süd-Westlich des Orts Benken von süd-osten nach nord-westen. Nahe der südlichen Gemeindegrenze liegt die Autobahnausfahrt 8 Benken. Von dieser Autobahnausfahrt führt die Marthalerstrasse zur Landstrasse im Ort Benken oder in die andere Richtung nach Marthalen. In Richtung Norden führt die Autobahn A4 nach Schaffhausen und zur schweizer Grenze in Thayngen. In Richtung Süden führt die Autobahn A4 nach Kleinandelfingen und dann Winterthur zur Autobahn verzweigung Winterthur Nord. Von der Verzweigung Winterthur Nord führt dann eine Autobahn in Richtung Frauenfeld und Konstanz und eine Autobahn in Richtung Winterthur-Töss und Zürich.
+
+Abgesehen von der Autobahn ist die [Hauptstrasse 15](https://www.openstreetmap.org/relation/303397) die wichtigste Strasse in Benken. In Benken wird diese Strasse im nord-westlichen Teil "Landstrasse" und im süd-östlichen Teil "Rudolfingerstrasse" genannt. Die Hauptstrasse führt von der Grenze mit Trüllikon im Süden, durch den Ort Benken bis zur nördlichen Grenze mit Laufen-Uhwiesen. In Richtung Norden führt die Hauptstrasse 15 via Uhwiesen und Feuerthalen nach Schaffhausen. In Richtung Süden führt die Hauptstrasse 15 nach Kleinandelfingen und dann Winterthur.
+
+Direkt südlich des Orts Benken zweigt die Wildensbucherstrasse von der Rudolfingerstrasse ab und verlässt das Benkener Gemeindegebiet richtung westen nach Wildensbuch und Schlatt im Kanton Thurgau.  
+Nahe der Gemeindegrenze im nord-westen zweigt die Benkernerstrasse von der Landstrasse ab und führt in Richtung Westen nach Dachsen.
+
 ### Öffentlicher Verkehr
 
 ### Fahrrad- und Fussverkehr
