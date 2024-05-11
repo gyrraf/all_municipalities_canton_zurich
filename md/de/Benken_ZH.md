@@ -29,6 +29,13 @@ Nahe der Gemeindegrenze im nord-westen zweigt die Benkernerstrasse von der Lands
 
 ## Schule
 
+In Benken gibt es nur einen Kindergarten und eine Primarschule. Für die Sekundarschule ist Benken zusammen mit Marthalen, Rheinau und Trüllikon teil der Sekundarschule Kreis Marthalen.
+
+Die Primarschulanlage in der Breiten befindet sich direkt im südlichen Teil des Orts Benken. Sie besteht aus zwei durch einen überdachten Gang verbundenen Schulhäusern und einer Aussenanlage mit 100 Meter Sprintanlage, Fussballwiese und einem Hartplatz mit 2 Handballtoren und 2 Basketballkörben. Hier werden 4 Klassen mit jeweils 2 Jahrgängen unterrichtet.  
+Der Kindergarten Nüsatz befindet sich direkt im nördlichen Teil des Orts Benken. Er besteht aus einem Gebäude in dem eine Klasse mit 2 Jahrgängen unterrichtet wird.
+
+Die Sekundarschule in Marthalen Unterrichtet 7 Klassen und befindet sich ca. 1.4 km Luftlinie von der Gemeindegrenze Benken und ca. 2.5 km Luftlinie vom Ortszentrum Benken entfernt.
+
 ## Gemeindename
 
 <q cite="https://www.benken-zh.ch/portraet-/geschichte.html/10">Der Name Benken ist eine abgewandelte Version des Namens "Pecchinhova" was "beim Hof des Beggo" oder "beim Hof des Becco" heisst.</q>
