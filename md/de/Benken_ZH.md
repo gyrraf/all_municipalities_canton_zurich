@@ -54,6 +54,10 @@ Das Logo von Benken besteht aus dem Wappen und dem Text "Benken" und "im Zürche
 
 ## Landschaft
 
+## Weiteres
+
+Benken scheint ziemlich Stolz auf ihre Wasserversorgung zu sein. Es bezeichnet sich selber auch als <q cite="https://www.benken-zh.ch/public/upload/assets/124/Infobrosch%C3%BCre%20Brunnendorf%20am%20Wasserschloss%20Kohlfirst.pdf?fp=2">Brunnendorf am Wasserschloss Kohlfirst</q>. In Benken gibt es ziemlich viele Trinkwasserbrünnen, bei einigen davon ist noch ein Schild mit Informationen über den Brunnen und das daraus fliessende Wasser angebracht. Ausserdem kann man am Gemeindehaus eine Karte aller Brunnen in Benken finden. Ausserdem gibt es auch eine [Infobroschüre](https://www.benken-zh.ch/public/upload/assets/124/Infobrosch%C3%BCre%20Brunnendorf%20am%20Wasserschloss%20Kohlfirst.pdf?fp=2).
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
