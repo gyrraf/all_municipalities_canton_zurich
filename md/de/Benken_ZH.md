@@ -25,7 +25,11 @@ Nahe der Gemeindegrenze im nord-westen zweigt die Benkernerstrasse von der Lands
 
 ## Einkaufsmöglichkeiten
 
+In Benken gibt es nur eine Volg Filiale, den Hofladen [Räss Wildbeeren](https://raess-wildbeeren.ch/), eine Käserei und das Postlädeli. Die nächste grössere Einkaufsmöglichkeit befindet sich in Marthalen und noch grössere Einkaufsmöglichkeiten gibt es in Neuhausen, Schaffhausen oder Kleinandelfingen.
+
 ### Restaurants
+
+Das wichtigste bzw. bekannteste Restaurant von Benken ist ziemlich sicher das [Gasthaus zur Guggere](https://www.guggere.ch/) oberhalb des Orts Benken. Es gibt aber auch noch das Gasthaus zur Sonne, das [Hotel Restaurant Baumgarten](https://www.baumgarten-benken.ch/) und das Restaurant Besenbeitz.
 
 ## Schule
 
