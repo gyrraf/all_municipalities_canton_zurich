@@ -54,6 +54,10 @@ Das Logo von Benken besteht aus dem Wappen und dem Text "Benken" und "im Zürche
 
 ## Landschaft
 
+Benken liegt am südwestlichen Hang des Kohlfirstes, einem Hügel dessen höchster Punkt auf 580 m.ü.M. liegt. Der höchste Punkt innerhalb von Benken befindet sich auf 567 m.ü.M. Ungefähr die nordöstliche Hälfte des Gemeindegebiets von Benken ist durch den Hang des Kohlfirstes geprägt und ein Grossteil davon ist bewaldet. Ungefähr die südwestliche Hälfte des Gemeindegebiets ist ziemlich flach und nur wenig bewaldet sondern vorallem durch Felder geprägt.
+
+In Benken gibt es nur einen kleinen Bach, den Chatzenbach, und 2 Weiher. Der Quarzgrubenweiher liegt Nordöstlich des Orts Benken und der Moosbachweiher liegt auf der Gemeindegrenze und grösstenteils schon ausserhalb der Gemeinde Benken nördlich des Orts Benken.
+
 ## Weiteres
 
 Benken scheint ziemlich Stolz auf ihre Wasserversorgung zu sein. Es bezeichnet sich selber auch als <q cite="https://www.benken-zh.ch/public/upload/assets/124/Infobrosch%C3%BCre%20Brunnendorf%20am%20Wasserschloss%20Kohlfirst.pdf?fp=2">Brunnendorf am Wasserschloss Kohlfirst</q>. In Benken gibt es ziemlich viele Trinkwasserbrünnen, bei einigen davon ist noch ein Schild mit Informationen über den Brunnen und das daraus fliessende Wasser angebracht. Ausserdem kann man am Gemeindehaus eine Karte aller Brunnen in Benken finden. Ausserdem gibt es auch eine [Infobroschüre](https://www.benken-zh.ch/public/upload/assets/124/Infobrosch%C3%BCre%20Brunnendorf%20am%20Wasserschloss%20Kohlfirst.pdf?fp=2).
