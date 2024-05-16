@@ -21,6 +21,17 @@ Nahe der Gemeindegrenze im nord-westen zweigt die Benkernerstrasse von der Lands
 
 ### Öffentlicher Verkehr
 
+Benken befindet sich in der Tarifzone 115 des Zürcher Verkehrs Verbunds. Auf dem gesamten Gemeindegebiet von Benken befindet sich genau eine Bushaltestelle und kein Bahnhof. Die Bushaltestelle "Dorf" befindet sich im Ortszentrum von Benken und wird von den Buslinien 630 und 847 bedient.  
+Die Buslinie 630 verkehrt an allen 7 Wochentagen im Stundentakt zwischen Marthalen, Bahnhof und Schaffhausen, Bahnhof via Benken. Die meiste Zeit fährt der Bus von Marthalen, Bahnhof direkt nach Benken, Dorf, ausser jeweils am späteren Abend bzw. am beginn der Nacht, dann fährt der Bus noch zuerst nach Rudolfingen und Trüllikon.  
+Die Buslinie 847 verkehrt an Werk- und Samstagen im Stundentakt zwischen Marthalen, Bahnhof und Diessenhofen, Bahnhof im Kanton Thurgau via Benken.  
+Zusammen ergänzen sich die Buslinien zu einem nicht perfekten Hablstundentakt.
+
+In Marthalen, Bahnhof bieten die Busse anschluss an die Buslinien 620 nach Marthalen, Dorf und Rheinau, die Buslinie 621 nach Ossingen, Bahnhof via Trüllikon und Truttikon und an die Buslinie 623 nach Ossingen, Bahnhof via Oerlingen in Kleinandelfingen. In Marthalen, Bahnhof besteht ausserdem auch Anschluss an die S33 nach Schaffhausen oder Winterthur und die S12 nach Schaffhausen oder Winterthur, Zürich und Brugg im Kanton Aargau. Die Buslinie 630 bietet schnellen Anschluss von oder zur S12 und die Buslinie 847 bietet schnellen Anschluss von oder zur S33.  
+In Schaffhausen, Bahnhof besteht Anschluss an 13 andere Buslinien, 9 S-Bahn Züge, 2 Langstreckenzüge der SBB und weitere Züge der DB. Auch wenn es eine direkte Busverbindung von Benken nach Schaffhausen gibt ist es exakt gleich schnell mit dem Bus nach Marthalen und dann dem Zug nach Schaffhausen zu fahren.  
+In Diessenhofen, Bahnhof besteht Anschluss an die Buslinie 823 des Tarifverbunds Ostwind nach Stammheim und Frauenfeld, sowie an die S-Bahnlinie S1 des Tarifverbunds Ostwind nach Schaffhausen oder Stein am Rhein, Kreuzlingen, Romanshorn, St. Gallen und Wil.
+
+Im Zürcher Nachtnetz wird die Haltestelle Benken, Dorf von der Buslinie N69 in beide Richtungen 4 mal im Stundentakt (also insgesamt 8 mal in einem nicht perfekten Halbstundentakt) bedient. Der Bus verkehrt dabei jeweils zwischen Marthalen, Bahnhof und Schaffhausen Bahnhof. In Schaffhausen kann von den Nacht S-Bahnen SN3 von Winterthur oder der SN65 von Bülach umgestiegen werden und in Marthalen von der Nacht S-Bahn SN3 Schaffhausen oder Winterthur.
+
 ### Fahrrad- und Fussverkehr
 
 ## Einkaufsmöglichkeiten
