@@ -90,3 +90,21 @@ Im Wald oberhalb der Ortschaft Benken bietet Benken die [Stadtweghütte](https:/
 Benken ist eine kleine und ruhige Gemeinde an schöner Lage. An den leichten Hängen des Cholfirstes gibt es hier viele Weinberge. Für Ausflüge gibt es in Benken nur sehr wenig zu sehen aber zum Wohnen ist es schön.
 
 ## Fotos
+
+![Der Ort Benken](../../images/Benken_ZH/Benken_1.jpg)  
+Der Ort Benken, fotografiert von unterhalb von Benken Berg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.65659%2C8.65604#map=19/47.65659/8.65604) am 2024-04-14.
+
+![Der südöstliche Teil des Orts Benken](../../images/Benken_ZH/Benken_2.jpg)  
+Der südöstliche Teil des Orts Benken, fotografiert von der Buckstrasse [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.65351%2C8.65869#map=19/47.65351/8.65869) am 2024-04-14.
+
+![Der Ort Benken](../../images/Benken_ZH/Benken_3.jpg)  
+Der Ort Benken, fotografiert vom Waldrand in Marthalen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.64215%2C8.65241#map=19/47.64215/8.65241) am 2024-05-09.
+
+![Der Quarzgrubenweiher](../../images/Benken_ZH/Quarzgrubenweiher.jpg)  
+Der Quarzgrubenweiher, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.65616%2C8.66362#map=19/47.65616/8.66362) am 2024-04-14.
+
+![Der Moosbachweiher](../../images/Benken_ZH/Moosbachweiher.jpg)  
+Der Moosbachweiher, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.66606%2C8.65372#map=19/47.66606/8.65372) am 2024-05-09.
+
+![Die Stadtweghütte mit Feuerstelle](../../images/Benken_ZH/Fireplace_Stadtweghuette.jpg)  
+Die Stadtweghütte mit Feuerstelle, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.66473%2C8.65770#map=19/47.66473/8.65770) am 2024-04-14.
