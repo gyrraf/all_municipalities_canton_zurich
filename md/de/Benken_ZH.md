@@ -87,4 +87,6 @@ Im Wald oberhalb der Ortschaft Benken bietet Benken die [Stadtweghütte](https:/
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Benken ist eine kleine und ruhige Gemeinde an schöner Lage. An den leichten Hängen des Cholfirstes gibt es hier viele Weinberge. Für Ausflüge gibt es in Benken nur sehr wenig zu sehen aber zum Wohnen ist es schön.
+
 ## Fotos
