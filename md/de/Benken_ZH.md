@@ -34,6 +34,12 @@ Im Zürcher Nachtnetz wird die Haltestelle Benken, Dorf von der Buslinie N69 in 
 
 ### Fahrrad- und Fussverkehr
 
+Innerhalb des Orts Benken hat die Hauptstrasse 15 meistens auf beiden Seiten einen Gehsteig, allerdings sind diese teilweise ziemlich schmal. Fahrradstreifen hat die Hauptstrasse überhaupt nicht. Die Marthalerstrasse hat von der Abzweigung von der Hauptstrasse bis zur Abzweigung der ersten Strasse auf beiden Seiten einen Gehsteig. Danach hat sie bis zum Ortsausgang noch einen schmalen Gehsteig. Von der Auffahrt auf die Brücke über die Autobahn bis zur Abzweigung der Benkenerstrrasse auf der anderen Seite der Brücke hat die Marthalerstrasse dann noch Fahrradstreifen auf beiden Seiten der Strasse. Das wären dann auch schon so gut wie alle Gehsteige und Fahrradstreifen auf dem Gemeindegebiet von Benken ZH.
+
+Abgesehen von der Hauptstrasse und der Marthalerstrasse (und offensichtlicherweise auch der Autobahn) sind alle Strassen in Benken relativ leicht befahren und können deswegen auch zu Fuss verwendet werden. Das gilt sogar auch für die Wildensbucherstrasse, allerdings sind die wenigen Autos auf dieser Strasse ziemlich schnell unterwegs. Mit dem Fahrrad sollte eigentlich keine Strasse ein Problem sein.
+
+Benken hat auch ziemlich viele Feld- und Waldwege die in einem guten Zustand sind.
+
 ## Einkaufsmöglichkeiten
 
 In Benken gibt es nur eine Volg Filiale, den Hofladen [Räss Wildbeeren](https://raess-wildbeeren.ch/), eine Käserei und das Postlädeli. Die nächste grössere Einkaufsmöglichkeit befindet sich in Marthalen und noch grössere Einkaufsmöglichkeiten gibt es in Neuhausen, Schaffhausen oder Kleinandelfingen.
