@@ -11,3 +11,4 @@
 * [Bassersdorf](./Bassersdorf.md)
 * [Bauma](./Bauma.md)
 * [Benken ZH](./Benken_ZH.md)
+* [Berg am Irchel](./Berg_am_Irchel.md)
