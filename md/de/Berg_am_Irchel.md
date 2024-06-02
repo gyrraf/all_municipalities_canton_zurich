@@ -25,7 +25,11 @@ Berg am Irchel zählt zum Zürcher Weinland und darin zur Region Flaachtal/Irche
 
 ## Gemeindename
 
+Die erste urkundliche Nennung des Orts "Berge" stammt aus dem Jahr 1243. Seither wurde aus "Berge" einfach "Berg" und die Endung "am Irchel" wurde angehängt.
+
 ### Name von Gräslikon
+
+Gräslikon wurde erstmals 1254 als "Grassilincon" urkundlich erwähnt. In 1276 war dann bereits von den "Gräslikern" die Rede, und so heisst der Ort auch heute noch.
 
 ## Gemeindewappen
 
