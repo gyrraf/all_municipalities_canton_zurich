@@ -34,7 +34,12 @@ Gräslikon wurde erstmals 1254 als "Grassilincon" urkundlich erwähnt. In 1276 w
 
 ## Gemeindewappen
 
+Das Wappen von Berg am Irchel zeigt einen weissen, nach links springenden Eber auf blauem Hintergrund.  
+<q cite="https://de.wikipedia.org/wiki/Berg_am_Irchel">Das Wappen geht zurück auf die Herren von Erzingen-Betmaringen</q>
+
 ### Gemeinde Logo
+
+Berg am Irchel hat kein wirkliches Gemeindelogo ausser ihrem Gemeindewappen. Auf ihrer Webseite verwenden sie einfach das Gemeindewappen mit dem Text "Gemeinde Berg am Irchel" daneben. Der Text ist in weiss, nur mit Grossbuchstaben, auf einer Zeile, mit einer sans-serif Schriftart geschrieben.
 
 ## Landschaft
 
