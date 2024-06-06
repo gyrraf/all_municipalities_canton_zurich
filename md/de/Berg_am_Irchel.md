@@ -14,6 +14,13 @@ Berg am Irchel zählt zum Zürcher Weinland und darin zur Region Flaachtal/Irche
 
 ### Privatverkehr
 
+Berg am Irchel hat je nach Zählweise 3 oder 5 wichtige Strassen. Von der Grenze zu Flaach im Norden führt die "Bergstrasse" nach Berg am Irchel. In Berg am Irchel wird die Strasse dann zur "Hauptstrasse" umbenannt. Unter diesem Namen führt die Strasse dann weiter nach Gräslikon und dann zur Gemeindegrenze mit Buch am Irchel im Osten. In Berg am Irchel zweigt die "Dorfstrasse" von der "Hauptstrasse" ab und führt dann Richtung Westen am Hang des Irchels entlang zur Gemeindegrenze mit Freienstein-Teufen im Süd-Westen. In Gräslikon zweigt zuerst die "Wilerstrasse" von der "Hauptstrasse" ab und dann zweigt die "Volkemerstrasse" von der "Wilerstrasse" ab. Die "Volkemerstrasse" führt dann Richtung Norden zur Gemeindegrenze mit Volken.  
+Die Strasse nach Flaach mündet in Flaach in die dortige Hauptstrasse und diese führt nach Westen Richtung Rüdlingen und Rafz und nach Osten Richtung Andelfingen oder Volken, Dorf, Humlikon und Henggart. Die Strasse nach Buch am Irchel führt weiter nach Osten Richtung Buch am Irchel und dann entweder nach Dorf oder nach Hünikon und dann Aesh bei Hettlingen oder nach Neftenbach oder nach Pfungen. Die Strasse am Hang des Irchels führt weiter Richtung Süd und später Süd-Osten nach Teufen, Freienstein und Rorbas. Die Strasse nach Volken führt weiter Richtung Norden nach Volken und dort in die gleiche Strasse die auch schon von Flaach nach Volken führt.
+
+Die Dorfstrasse am Hang des Irchels ist ziemlich kurvenreich, aber nicht steil. Sie ist ziemlich beliebt bei Auto- oder Motorrad fahrenden Personen die ihre Motoren ein wenig aufheulen lassen wollen, aber nicht den ganzen Weg bis zu einer richtigen Passstrasse auf sich nehmen wollen.
+
+Die nächsten grösseren Strassen findet man in kurz vor Rafz, in Rorbas oder in Henggart, Humlikon oder Andelfingen. Kurz vor Rafz ist es die [Hauptstrasse 4](https://www.openstreetmap.org/relation/303373) die von Schaffhausen nach Bülach und Kloten führt. In Rorbas ist es die [Hauptstrasse 7](https://www.openstreetmap.org/relation/303398) die von Winterthur zum Rhein und Bad Zurzach und Basel führt. In Henggart, Humlikon und Andelfingen ist es sowohl die [Hauptstrasse 15](https://www.openstreetmap.org/relation/303397), die von Winterthur nach Schaffhausen führt, als auch die [Autobahn A4](https://www.openstreetmap.org/relation/192156), die von Winterthur nach Schaffhausen führt.
+
 ### Öffentlicher Verkehr
 
 ### Fahrrad- und Fussverkehr
