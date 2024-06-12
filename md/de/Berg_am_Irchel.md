@@ -45,6 +45,13 @@ Im Zürcher Nachtnetz werden die beiden Haltestellen auf dem Gemeindegebiet von 
 
 ## Schule
 
+Die Gemeinde Berg am Irchel bildet zusammen mit den Gemeinden Buch am Irchel, Dorf, Flaach und Volken die Schulgemeinde Flaachtal. Innerhalb dieser Schulgemeinde bilden die Gemeinden Berg am Irchel und Buch am Irchel zusammen eine Primarschule mit Schulhäusern in beiden Gemeinden.
+
+Die Primarschulanlage Berg am Irchel befindet sich im süd-östlichen Teil des Orts Berg am Irchel. Sie besteht aus einem Schulhaus, einer Turnhalle und einer Aussenanlage mit einem Hartplatz der mit 2 Basketballkörben und 2 Handballtoren ausgestattet ist. Hier werden 2 Mittelstufenklassen unterrichtet mit jeweils 3 Jahrgängen.  
+Sowohl der Kindergarten als auch die Unterstufe befinden sich in Buch am Irchel. Dort werden 2 Kindergartenklassen mit jeweils 2 Jahrgängen und 3 Unterstufenklassen mit jeweils 3 Jahrgängen Unterrichtet. Die Primarschulanlage Buch am Irchel besteht aus einem Kindergarten Schulhaus, einem Primar Schulhaus, einer Turnhalle und einer Aussenanlage mit einem Hartplatz, einer Fussballwiese, einer Weitsprunganlage, einer Kugelstossanlage und einer 100 m Sprintbahn. Sie befindet sich ca. 750 m Luftlinie von der Gemeindegrenze Berg am Irchel und ca. 2.8 km Luftlinie vom Ortszentrum Berg am Irchel entfernt.
+
+Die Sekundarschule in Flaach unterrichtet 6 Klassen mit jeweils 1 Jahrgang. Die Sekundarschulanlage befindet sich ca. 900 m Luftlinie von der Gemeindegrenze Berg am Irchel und ca. 1.2 km vom Ortszentrum Berg am Irchel entfernt.
+
 ## Gemeindename
 
 Die erste urkundliche Nennung des Orts "Berge" stammt aus dem Jahr 1243. Seither wurde aus "Berge" einfach "Berg" und die Endung "am Irchel" wurde angehängt.
