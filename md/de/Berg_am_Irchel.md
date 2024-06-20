@@ -41,7 +41,11 @@ Im Zürcher Nachtnetz werden die beiden Haltestellen auf dem Gemeindegebiet von 
 
 ## Einkaufsmöglichkeiten
 
+In Berg am Irchel gibt es nicht viele Einkaufsmöglichkeiten, nur der [BungertHof-Hofladen](https://www.bungerthof.ch/) in Berg am Irchel und der [Hofacker Hofladen](https://bioha.ch/hofladen.html) in Gräslikon. Die nächste grössere Einkaufsmöglichkeit befindet sich in Flaach und noch grössere Einkaufsmöglichkeiten befinden sich in Bülach, Kleinandelfingen oder Neftenbach.
+
 ### Restaurants
+
+Im Ort Berg am Irchel gibt es die Restaurants [zur Trotte](https://zur-trotte.ch/) und [Traube](https://traube-berg.ch/).
 
 ## Schule
 
