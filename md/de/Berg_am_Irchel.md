@@ -39,6 +39,13 @@ Im Zürcher Nachtnetz werden die beiden Haltestellen auf dem Gemeindegebiet von 
 
 ### Fahrrad- und Fussverkehr
 
+Innerhalb der Orte Berg am Irchel und Gräslikon gibt es entlang der grossen Strassen oft einen Gehsteig, in Gräslikon sind diese aber meistens nicht sehr lange. Die Hauptstrasse von Buch am Irchel nach Flaach hat zwischen Gräslikon und Berg am Irchel einen durch einen Grasstreifen von der Strasse getrennten Gehsteig. Im Ort Berg am Irchel verläuft dieser Gehsteig dann direkt an der Strasse entlang, unterbrochen von der Abzweigung der Dorfstrasse. Zwischen Berg am Irchel und Flaach verläuft der Gehsteig dann wieder durch einen Grasstreifen getrennt von der Strasse. Die Dorfstrasse hat von der Abzweigung von der Hauptstrasse bis zur Abzweigung des Brunnenrain einen Gehsteig. In der Gemeinde Berg am Irchel gibt es keine Fussgängerstreifen, dafür gibt es Markierungen die anzeigen, wo die Strasse überquert werden soll, in Form von gelben Schuhabdrücken.  
+Explizite Fahrradstreifen gibt es auf dem Gemeindegebiet von Berg am Irchel gar keine. Zwischen den Orten Gräslikon und Berg am Irchel und Berg am Irchel und Flaach ist der Gehsteig vermutlich als kombinierter Geh- und Fahrradweg gedacht.
+
+Die Nebenstrassen sind alle kein Problem sowohl für Fussgänger\*innen als auch für Fahrräder. Von den grösseren Strassen sind die meisten auch kein Problem, entweder weil sie einen Gehsteig bzw. kombinierten Geh- und Fahrradweg haben oder weil sie nicht all zu stark befahren sind. Die einzigen möglicherweise Problematischen Strassen sind die Dorfstrasse von Berg am Irchel nach Freienstein-Teufen und die Hauptstrasse von Gräslikon nach Buch am Irchel. Für Fahrräder sollten diese Strassen aber eigentlich trotzdem kein wirkliches Problem sein, und auch für Fussgänger\*innen ist es machbar, wenn auch ein wenig komisch.
+
+Berg am Irchel hat auch viele Feld-, Wald- und Wanderwege die in einem guten Zustand sind. Viele Wanderwege eignen sich auch für Mountainbikes oder unter Umständen sogar normale Fahrräder sehr gut.
+
 ## Einkaufsmöglichkeiten
 
 In Berg am Irchel gibt es nicht viele Einkaufsmöglichkeiten, nur der [BungertHof-Hofladen](https://www.bungerthof.ch/) in Berg am Irchel und der [Hofacker Hofladen](https://bioha.ch/hofladen.html) in Gräslikon. Die nächste grössere Einkaufsmöglichkeit befindet sich in Flaach und noch grössere Einkaufsmöglichkeiten befinden sich in Bülach, Kleinandelfingen oder Neftenbach.
