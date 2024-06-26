@@ -82,6 +82,11 @@ Berg am Irchel hat kein wirkliches Gemeindelogo ausser ihrem Gemeindewappen. Auf
 
 ## Landschaft
 
+Berg am Irchel liegt sowohl am nördlichen Hang des Irchels als auch am Rhein. Der Irchel ist ein Hügelszug der das Tösstal und das Flaachtal voneinander trennt und dessen höchster Punkt sich auf 694 m.ü.M. befindet. Er bildet die Südliche Gemeindegrenze von Berg am Irchel. Der Rhein fliesst in Berg am Irchel in Richtung Süden und bildet die westliche Gemeindegrenze. Im Nordwesten des Gemeindegebiets gibt es ausserdem noch den Ebersberg, dessen höchster Punkt sich auf 498 m.ü.M. befindet.  
+Einer der höchsten Punkte in Berg am Irchel, der Punkt in der nähe von Irchel Hochwacht, und der tiefste Punkt von Berg am Irchel, der Rhein, sind nur ca. 1.3 km Luftlinie auseinander. Der Höhenunterschied zwischen diesen beiden Punkten beträgt 334 Meter. Das bedeutet, dass es zwischen diesen beiden Punkten ein durchschnittliches Gefälle von ca. 25.7% gibt.
+
+Vom Irchel oberhalb von Berg am Irchel fliesst der Altenbach durch Berg am Irchel nach Flaach im Norden und dort in den Flaachener Bach. Vom Irchel oberhalb von Gräslikon fliesst der Balibach durch Gräslikon nach Flaach im Norden in den Flaachener Bach. Der Flaachener Bach wiederum fliesst dann in den Rhein.
+
 ## Weiteres
 
 ## Persönliches Fazit
