@@ -89,6 +89,17 @@ Vom Irchel oberhalb von Berg am Irchel fliesst der Altenbach durch Berg am Irche
 
 ## Weiteres
 
+Obwohl Berg am Irchel zum Zürcher Weinland gehört, hat es nur wenige Weinberge.
+
+Im Ebersberg befindet sich die [Festung Ebersberg](https://de.wikipedia.org/wiki/Festung_Ebersberg), auch bekannt als Artilleriewerk Ebersberg, ein ehemaliges militärisches Festungswerk. Das Festungswerk wurde während des zweiten Weltkriegs gebaut und während des kalten Kriegs weiter verwendet. Sein Auftrag war es, eine mögliche Rhein überquerung eines Angreiffers zu erschweren und so den Angreiffer zu verlangsamen.  
+Auch auf dem Irchel gibt verschiedene Bunker. Diese waren aber, im Gegensatz zur Festung Ebersberg, nie bewaffnet.
+
+In Berg am Irchel gibt es auch 2 Burgruinen und 2 noch stehende Schlösser. Das [Schloss Berg](https://de.wikipedia.org/wiki/Schloss_Berg_am_Irchel) und das [Schloss Eigenthal](https://de.wikipedia.org/wiki/Schloss_Eigenthal) sind noch intakt, die Burgen [Schlossbuck](https://www.openstreetmap.org/node/6047628318) und [Hebelstein](https://www.openstreetmap.org/node/6027925903) allerdings nicht mehr.
+
+Oberhalb von Gräslikon gibt es einen kleinen Weg, der scheinbar teilweise als Downhill Mountainbikestrecke verwendet wird. (Allerdings möglicherweise nicht offiziell.)
+
+Auf der Website von Berg am Irchel gibt es eine [Auflistung von Sitzbänken](https://www.bergamirchel.ch/freizeit-und-kultur/sitzbaenke/) auf dem Gemeindegebiet. Die Bänke sind dort jeweils aufgelistet mit Namen, Ort (beschrieben, Koordinaten und auf einer Karte), einem Foto des Bänkli, einem Foto der Aussicht und teilweise noch mehr informationen.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
