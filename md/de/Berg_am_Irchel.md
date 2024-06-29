@@ -104,4 +104,6 @@ Auf der Website von Berg am Irchel gibt es eine [Auflistung von Sitzbänken](htt
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Berg am Irchel ist eine eher ruhige Gemeinde, die mit dem Irchel ein sehr schönes und zugängliches Ausflugsziel bietet. Abgesehen vom Irchel und der Festung Ebersberg, die nur an wenigen Tagen im Jahr besucht werden kann, hat es aber nicht wirklich viel zu bieten. Für Anwohner ist die Gemeinde zwar schön, aber auch für sie bietet es nicht allzu viel an und ist nicht besonders gut erschlossen. Eine wirklich starke eigene Identität strahlt Berg am Irchel auch nicht aus.
+
 ## Fotos
