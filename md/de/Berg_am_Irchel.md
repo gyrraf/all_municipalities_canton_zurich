@@ -107,3 +107,45 @@ Auf der Website von Berg am Irchel gibt es eine [Auflistung von Sitzbänken](htt
 Berg am Irchel ist eine eher ruhige Gemeinde, die mit dem Irchel ein sehr schönes und zugängliches Ausflugsziel bietet. Abgesehen vom Irchel und der Festung Ebersberg, die nur an wenigen Tagen im Jahr besucht werden kann, hat es aber nicht wirklich viel zu bieten. Für Anwohner ist die Gemeinde zwar schön, aber auch für sie bietet es nicht allzu viel an und ist nicht besonders gut erschlossen. Eine wirklich starke eigene Identität strahlt Berg am Irchel auch nicht aus.
 
 ## Fotos
+
+![Der Ort Berg am Irchel aus dem Südwesten](../../images/Berg_am_Irchel/Berg_am_Irchel_2.jpg)  
+Der Ort Berg am Irchel aus dem Südwesten, fotografiert von unterhalb des Wasser Reservoirs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56151%2C8.59024#map=19/47.56151/8.59024) am 2024-05-20.
+
+![Der Ort Gräslikon aus dem Südwesten](../../images/Berg_am_Irchel/Graeslikon_1.jpg)  
+Der Ort Gräslikon aus dem Südwesten, fotografiert von nahe des Hofs Langacker [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.55542%2C8.59917#map=19/47.55542/8.59917) am 2024-05-26.
+
+![Aussicht von Irchel Hochwacht nach Nordwesten](../../images/Berg_am_Irchel/Irchel_Hochwacht_view.jpg)  
+Die Aussicht von Irchel Hochwacht nach Nordwesten, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.55778%2C8.57951#map=19/47.55778/8.57951) am 2024-05-20.
+
+![Aussicht vom Rütelbuck nach Norden](../../images/Berg_am_Irchel/Ruetelbuck_view.jpg)  
+Die Aussicht vom Rütelbuck nach Norden, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.54863%2C8.60322#map=19/47.54863/8.60322) am 2024-05-26.
+
+![Die Hütte auf dem Rütelbuck](../../images/Berg_am_Irchel/Ruetelbuck_hut.jpg)  
+Die Hütte auf dem Rütelbuck, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.54861%2C8.60328#map=19/47.54861/8.60328) am 2024-05-26.
+
+![Aussicht von der Tüfels Chanzle nach Norden](../../images/Berg_am_Irchel/Tuefels_Chanzle_view.jpg)  
+Die Aussicht von der Tüfels Chanzle nach Norden, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57325%2C8.57526#map=19/47.57325/8.57526) am 2024-05-26. (Persönliche Informationen wurden durch schwarze Polygone ersetzt.)
+
+![Feuerstelle Tüfels Chanzle](../../images/Berg_am_Irchel/Tuefels_Chanzle_fireplace.jpg)  
+Die Feuerstelle Tüfels Chanzle, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.57324%2C8.57536#map=19/47.57324/8.57536) am 2024-05-26.
+
+![Aussicht vom kleinen Hebelstein nach Norden](../../images/Berg_am_Irchel/Kleiner_Hebelstein_view.jpg)  
+Die Aussicht vom kleinen Hebelstein nach Norden, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.55685%2C8.59005#map=19/47.55685/8.59005) am 2024-05-20.
+
+![Gemeindehaus Berg am Irchel](../../images/Berg_am_Irchel/Berg_am_Irchel_community_hall.jpg)  
+Das Gemeindehaus Berg am Irchel, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56893%2C8.59693#map=19/47.56893/8.59693) am 2024-05-26.
+
+![Schulhaus Berg am Irchel](../../images/Berg_am_Irchel/Berg_am_Irchel_school.jpg)  
+Das Schulhaus Berg am Irchel, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56924%2C8.59680#map=19/47.56924/8.59680) am 2024-05-26.
+
+![Schloss Eigental](../../images/Berg_am_Irchel/Eigental_castle.jpg)  
+Das Schloss Eigental, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56899%2C8.60544#map=19/47.56899/8.60544) am 2024-05-26.
+
+![Altes Feuerwehrgebäude Gräslikon](../../images/Berg_am_Irchel/Graeslikon_old_firebrigade.jpg)  
+Das alte Feuerwehrgebäude Gräslikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.55733%2C8.60539#map=19/47.55733/8.60539) am 2024-05-26.
+
+![Feuerstelle beim Pistolenstand](../../images/Berg_am_Irchel/Pistolenstand_fireplace.jpg)  
+Die Feuerstelle beim Pistolenstand, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.56132%2C8.58911#map=19/47.56132/8.58911) am 2024-05-20.
+
+![Feuerstelle oberer Tannenplatz](../../images/Berg_am_Irchel/Oberer_Tannenplatz_fireplace.jpg)  
+Die Feuerstelle oberer Tannenplatz, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.55996%2C8.58155#map=19/47.55996/8.58155) am 2024-05-20.
