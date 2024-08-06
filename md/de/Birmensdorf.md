@@ -69,6 +69,10 @@ Auf dem Gemeindegebiet von Birmensdorf gibt es auch einige Waldwege, die eigentl
 
 ## Weiteres
 
+Das Ortszentrum wird zwar von einer eher stark befahrenen Strasse durchquert, bietet aber trotzdem auch sehr viel Platz für Personen ausserhalb eines Autos sich zu treffen und zu verweilen.
+
+In Birmensdorf befindet sich eine Kaserne des schweizerischen Militärs und der [Waffenplatz Zürich-Reppischtal](https://www.zh.ch/de/sicherheit-justiz/militaer/waffenplatz.html). Wegen des Waffenplatzes können unter Umständen einige Waldstücke und Waldwege gar nicht oder nur eingeschränkt zu ihrem vollen Potential genutzt werden.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
