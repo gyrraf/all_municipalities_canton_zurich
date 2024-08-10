@@ -71,7 +71,13 @@ Die kombinierte Primarschulanlage Letten, Reppisch, Linden und Haldenacher beste
 
 ## Gemeindewappen
 
+Laut Wikipedia zeigt das Wappen von Birmensdorf <q cite="https://de.wikipedia.org/wiki/Birmensdorf">In Rot eine geschweifte silberne Spitze, belegt mit einer roten Rose mit goldenem Butzen und grünen Kelchblättern</q>.
+
+In Birmensdorf findet man dieses Wappen beim Gemeindehaus, als Teil von Tempo 30 oder ähnlichen Verkehrsschildern, als Mosaik auf dem Boden [bei der oberen Risi](https://www.openstreetmap.org/#map=19/47.35948/8.45007) und noch an ein paar weiteren Orten.
+
 ### Gemeinde Logo
+
+Das Gemeindelogo zeigt die leicht vereinfachten Umrisse der Blume vom Wappen in weiss in einem roten Kreis, der nur knapp grösser als die Blume ist. Rechts daneben steht der Text "Gemeinde Birmensdorf" mit jedem Wort auf einer eigenen Zeile. Der Text verwendet eine schwarze Schriftfarbe und eine Schriftart ohne Serifen. Die beiden Wörter sind links bündig und verwenden sowohl Gross- als auch Kleinbuchstaben. Das Wort "Birmensdorf" ist Fett, das Wort "Gemeinde" aber nicht.
 
 ## Landschaft
 
