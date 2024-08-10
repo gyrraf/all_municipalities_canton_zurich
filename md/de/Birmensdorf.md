@@ -59,6 +59,14 @@ Auf dem Gemeindegebiet von Birmensdorf gibt es auch einige Waldwege, die eigentl
 
 ## Schule
 
+Die Gemeinde Birmensdorf hat eine eigene Primarschule und zusammen mit Aesch ZH eine Sekundarschule, die sich in Birmensdorf befindet. Die Kantonsschule für Birmensdorf ist die Kantonsschule Limmattal, welche im benachbarten Urdorf liegt, ca. 4.4 km entfernt vom Ortszentrum Birmensdorf.  
+Die Primarschule Birmensdorf besteht aus einer Schulanlage die weiter in die Schulhäuser Letten, Reppisch, Linde und Haldenacher aufgeteilt werden kann. Diese Schulanlage liegt nur knapp 100 m Luftlinie nördlich des Ortszentrums. Ausserdem besteht die Primarschule noch aus 5 weiteren Kindergärten. Dem Kindergarten Bach ca. 230 m Luftlinie südlich des Ortszentrums, dem Kindergarten Kirche ca. 340 m Luftlinie süd-östlich des Ortszentrums, dem Kindergarten Lettenmatt ca. 390 m Luftlinie nord-westlich des Ortszentrums, dem Kindergarten Risi ca. 660 m Luftlinie nord-östlich des Ortszentrums und nördlich der Bahngleise und dem Kindergarten Sternen in Waldegg. Landikon hat keinen Kindergarten.  
+Die Sekundarschule Birmensdorf-Aesch besteht aus der Schulanlage Brüelmatt, die ca. 140 m Luftlinie ost-nord-östlich vom Ortszentrum Birmensdorf liegt.
+
+Die Sekundarschulanlage Brüelmatt besteht aus 4 Schulhäusern, 1 einfach Turnhalle und einer Aussenanlage mit einer 80 m Sprintanlage mit 3 Bahnen, einer Kugelstossanlage, einer Weitsprunganlage, einer Sportwiese und einem Hartplatz mit 4 Basketballkörben und 2 Handballtoren. Ausserdem befindet sich direkt neben dem Pavillon Brüelmatt 4 ein Skatepark, der allerdings nicht offiziell zur Schulanlage gehört. In dieser Schulanlage werden 11 Klassen verteilt auf 3 Jahrgänge unterrichtet.
+
+Die kombinierte Primarschulanlage Letten, Reppisch, Linden und Haldenacher besteht aus 4 Schulhäusern, 1 Kindergarten, 2 einfach Turnhallen und einer Aussenanlage mit 2 Sportwiesen, 1 roten Platz mit 4 Basketballkörben und 2 Handballtoren und einer 80 m Sprintanlage mit 3 Bahnen. Das Schulhaus Reppisch ist zwar ein Gebäude, besteht aber selber noch aus 3 Teilen und das Schulhaus Letten ist mit der Turnhalle Letten verbunden. Abgesehen vom freistehenden Kindergarten im Lettenhäuschen gibt es hier in den Schulhäusern Letten und Reppisch auch noch Kindergärten. Wie viele Klassen hier unterrichtet werden konnte ich leider nicht mit Sicherheit herausfinden. Auf der [Webseite](https://www.primabirmensdorf.ch/web/cms.php?open=klassen) werden 3 Kindergartenklassen, 3 Unterstufenklassen und 2 Mittelstufenklassen gelistet, bei der Grösse der Anlagen bezweifle ich allerdings, dass das alle sind die es gibt.
+
 ## Gemeindename
 
 ## Gemeindewappen
