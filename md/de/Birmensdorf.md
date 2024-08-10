@@ -79,7 +79,11 @@ Die kombinierte Primarschulanlage Letten, Reppisch, Linden und Haldenacher beste
 
 Das Ortszentrum wird zwar von einer eher stark befahrenen Strasse durchquert, bietet aber trotzdem auch sehr viel Platz für Personen ausserhalb eines Autos sich zu treffen und zu verweilen.
 
+Am westlichen Ende des Orts Birmensdorf befindet sich das [Freibad Geren](https://www.badi-info.ch/birmensdorf.html). Dieses hat ein 25 m Schwimmbecken, ein Sprungbecken mit 1 m und 3 m Sprungbrett, eine 25 m Rutschbahn, ein Planschbecken, ein Nicht-Schwimmer-Becken, ein Beachvolleyballfeld und ein Restaurant mit Pergola. Im Mai ist dieses jeweils von 09:00 Uhr bis 19:00 Uhr, im Juni bis August von 09:00 Uhr bis 20:00 Uhr und im September von 10:00 Uhr bis 18:00 Uhr geöffnet. Der Eintritt kostet für Erwachsene 7.00 CHF und für Jugendliche 3.50 CHF.
+
 In Birmensdorf befindet sich eine Kaserne des schweizerischen Militärs und der [Waffenplatz Zürich-Reppischtal](https://www.zh.ch/de/sicherheit-justiz/militaer/waffenplatz.html). Wegen des Waffenplatzes können unter Umständen einige Waldstücke und Waldwege gar nicht oder nur eingeschränkt zu ihrem vollen Potential genutzt werden.
+
+In Waldegg befindet sich der Hauptsitz der [Forschungsanstalt für Wald, Schnee und Landschaft (WSL)](https://www.wsl.ch/de/).
 
 ## Persönliches Fazit
 
