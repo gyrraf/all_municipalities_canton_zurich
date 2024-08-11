@@ -72,7 +72,7 @@ Die kombinierte Primarschulanlage Letten, Reppisch, Linden und Haldenacher beste
 
 ## Gemeindename
 
-Birmensdorfs erste bekannte Erwähnung war unter dem Namen <q cite"https://de.wikipedia.org/wiki/Birmensdorf">Piripoumesdorf</q>. Daraus lässt sich schliessen, dass Birmensdorf, genauso wie ganz viele andere Orte auch, ursprünglich einfach nach einer Person die an dem Ort gewohnt hat, benannt ist.
+Birmensdorfs erste bekannte Erwähnung war unter dem Namen <q cite="https://de.wikipedia.org/wiki/Birmensdorf">Piripoumesdorf</q>. Daraus lässt sich schliessen, dass Birmensdorf, genauso wie ganz viele andere Orte auch, ursprünglich einfach nach einer Person die an dem Ort gewohnt hat, benannt ist.
 
 ## Gemeindewappen
 
