@@ -58,7 +58,11 @@ Auf dem Gemeindegebiet von Birmensdorf gibt es auch einige Waldwege, die eigentl
 
 ## Einkaufsmöglichkeiten
 
+Im Ortszentrum von Birmensdorf gibt es eine kleine Migros Filiale, eine kleine Coop Filiale, eine Apotheke & Drogerie so wie ein paar weitere kleine Läden. In Waldegg oben gibt es nochmal eine ein wenig grössere Coop Filiale und eine Denner Filiale. Für noch grössere Einkäufe gibt es in Urdorf ca. 3.5 km Luftlinie vom Ortszentrum Birmensdorf entfernt noch grössere Migros, Coop und Denner Filialen so wie einige weitere Läden in der Umgebung. In Spreitenbach ca. 9 km Luftline vom Ortszentrum Birmensdorf entfernt gibt es ausserdem noch das Einkaufszentrum Shoppi Tivoli oder in Zürich ca. 6.4 km Luftline vom Ortszentrum Birmensdorf entfernt gibt es das Einkaufszentrum Sihlcity.
+
 ### Restaurants
+
+Birmensdorf hat einige Restaurants aber keines das besonders heraussticht. Im Ortszentrum von Birmensdorf gibt es das [Snack Center Freihof](https://www.birmensdorf.ch/restaurants/79), nicht weit vom Ortszentrum gibt es das [Luna Stella](https://www.lunastellabirmensdorf.ch/) und noch ein paar Meter weiter gibt es das Italienische Restaurant [Sapori Antichi](https://www.saporiantichi.ch/).
 
 ## Schule
 
