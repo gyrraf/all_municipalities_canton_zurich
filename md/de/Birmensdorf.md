@@ -86,6 +86,10 @@ Das Gemeindelogo zeigt die leicht vereinfachten Umrisse der Blume vom Wappen in 
 
 ## Landschaft
 
+Der Fluss Reppisch fliesst in Birmensdorf von Osten nach Nord-Westen. Der Fluss fliesst zuerst duch Landikon und dann durch Birmensdorf selber. Ganz im Nord-Westen von Birmensdorf mündet dann noch der Wüeribach und dann der Lunnerenbach in die Reppisch. Die Reppisch prägt ein wenig den nördlichen Teil von Birmensdorf und der Wüeribach den südlichen Teil, der Lunnerenbach fliesst allerdings nur sehr kurz durch den Ort Birmensdorf. Der Wüeribach selber wird noch vom Aescherbach gespiesen. Ganz im Süd-Osten von Birmensdorf fliesst der Aescherbach in den Wüeribach. Die Reppisch bringt das Wasser vom Türlersee, Stallikon und dem gesamten südlichen Reppischtal, das westlich der Albiskette verläuft. Der Wüeribach bringt das Wasser von Wettswil und Bonstetten, der Aescherbach bringt das Wasser von Aesch ZH und der Lunnerenbach bringt das Wasser von Altenberg und dem gesamten süd-westlichen Teil der Gemeinde Birmensdorf. Nach Birmensdorf fliesst die Reppisch weiter nach Nord-Westen durch das nördliche Reppischtal, dann Baltenschwil und Dietikon um dann in Dietikon in die Limmat zu fliessen.
+
+Das Gebiet nördlich bzw. nord-östlich der Reppisch ist durch den Uetliberg, einen Teil der Albiskette, geprägt. Von der Reppisch in Birmensdorf bis zur oberen Risi geht es ständig bergauf, erst in Waldegg wird es wieder relativ flach. Zwischen der Reppisch und dem Wüeribach gibt es östlich von Birmensdorf einen kleinen Hügelzug mit dem Ettenberg und dem Whiskypass. Südlich bis Süd-Westlich von Birmensdorf gibt es mit dem Altenberg einen weiteren Hügelzug, der Aesch ZH von Lieli und den Aescherbach vom Lunnerenbach trennt. Westlich bis Nord-Westlich von Birmensdorf befindet sich der Hafnerberg, der vom Lunnerenbach bis zur nördlichen Reppisch reicht.
+
 ## Weiteres
 
 Das Ortszentrum wird zwar von einer eher stark befahrenen Strasse durchquert, bietet aber trotzdem auch sehr viel Platz für Personen ausserhalb eines Autos sich zu treffen und zu verweilen.
