@@ -109,3 +109,30 @@ In Waldegg befindet sich der Hauptsitz der [Forschungsanstalt für Wald, Schnee 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Westlicher Teil von Birmensdorf](../../images/Birmensdorf/Birmensdorf_7.jpg)  
+Der westliche Teil des Orts Birmensdorf, fotografiert aus südlicher Richtung von nahe des Bauernhofs Hofor [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.34810%2C8.43203#map=19/47.34810/8.43203) am 2024-07-28.
+
+![Süd-Östlicher Teil von Birmensdorf](../../images/Birmensdorf/Birmensdorf_8.jpg)  
+Der süd-östliche Teil des Orts Birmensdorf, fotografiert aus südlicher Richtung von nahe des Bauernhofs Hofor [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.34810%2C8.43203#map=19/47.34810/8.43203) am 2024-07-28.
+
+![Bahnhof und westlicher Teil von Birmensdorf](../../images/Birmensdorf/Birmensdorf_5.jpg)  
+Der Bahnhof und der westliche Teil des Orts Birmensdorf, fotografiert von norden oberhalb des Bahnhofs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35829%2C8.43721#map=19/47.35829/8.43721) am 2024-07-21.
+
+![Östlicher Teil von Birmensdorf](../../images/Birmensdorf/Birmensdorf_4.jpg)  
+Der Östliche Teil des Orts Birmensdorf, fotografiert von norden in der Nähe des Kindergartens Risi [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35707%2C8.44380#map=19/47.35707/8.44380) am 2024-07-21.
+
+![Südlicher Teil von Birmensdorf](../../images/Birmensdorf/Birmensdorf_1.jpg)  
+Der Südliche Teil des Orts Birmensdorf, fotografiert aus dem Osten bei der Reformierten Kirche [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35178%2C8.44109#map=19/47.35178/8.44109) am 2024-07-14.
+
+![Landikon](../../images/Birmensdorf/Landikon_1.jpg)  
+Der Ort Landikon, fotografiert aus dem Süd-Westen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35122%2C8.45747#map=19/47.35122/8.45747) am 2024-07-14.
+
+![Brunnen und Mosaik des Birmensdorfer Wappens](../../images/Birmensdorf/Fountain_obere_Risi.jpg)  
+Der Brunnen bei der oberen Risi mit dem Mosaik des Birmensdorfer Wappens, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35951%2C8.45005#map=19/47.35951/8.45005) am 2024-07-21.
+
+![Schnitzereien bei der Waldhütte Ettenberg](../../images/Birmensdorf/Ettenberg_Hut.jpg)  
+Holzschnitzereien an der südwestlichen Seite der Waldhütte Ettenberg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35022%2C8.44533#map=19/47.35022/8.44533) am 2024-07-14.
+
+![Kirchturm der Reformierten Kirche](../../images/Birmensdorf/Clocktower_Birmensdorf.jpg)  
+Der Kirchturm der Reformierten Kirche im Osten Birmensdorfs, fotografiert aus dem Norden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.35194%2C8.44120#map=19/47.35194/8.44120) am 2024-07-14.
