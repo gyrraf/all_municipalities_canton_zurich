@@ -108,6 +108,10 @@ In Waldegg befindet sich der Hauptsitz der [Forschungsanstalt für Wald, Schnee 
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Birmensdorf ist eine gut erschlossene Gemeinde, dessen Landschaftsbild stark durch die 4 Täler, die hier zu 1 Tal werden, geprägt ist. Das Ortszentrum von Birmensdorf ist schön gestaltet und bietet viel Platz. Die umliegenden Hügel eignen sich gut für Spaziergänge. Birmensdorf bietet für Besucher, abgesehen vom Freibad, nicht besonders viel, für die lokale Bevölkerung allerdings schon.
+
+Die Webseite der Gemeinde ist allerdings, zumindest zum Zeitpunkt des verfassens am 2024-08-15, nicht besonders gut. Die linke Hälfte wird durchgehend von irgendwelchen nicht besonders hilfreichen Zeichnungen eingenommen. Die Webseite beinhaltet auch nicht allzu viele Informationen, so gibt es zum Beispiel zum Gemeindewappen keine Informationen, oder zumindest keine die über die Suche oder das Menü einfach gefunden werden können.
+
 ## Fotos
 
 ![Westlicher Teil von Birmensdorf](../../images/Birmensdorf/Birmensdorf_7.jpg)  
