@@ -54,7 +54,7 @@ Direkt an der Kreuzung mit der Luzernerstrasse hat die Aescherstrasse einen Zebr
 
 Im Ort Birmensdorf haben relativ viele auch eher kleinere Strassen einen Gehsteig. Ausserdem gibt es auch einige Abkürzungen nur für Fahräder und Fussgänger\*innen oder teilweise sogar nur für Fussgänger\*innen. Die restlichen Strassen sind eigentlich alle ruhig und langsam genug, dass sie Problemlos zu Fuss oder mit dem Fahrrad verwendet werden können.
 
-Auf dem Gemeindegebiet von Birmensdorf gibt es auch einige Waldwege, die eigentlich alle in sehr gutem Zustand sind. Viele davon können sowohl zu Fuss als auch mit dem Fahrrad verwendet werden.
+Auf dem Gemeindegebiet von Birmensdorf gibt es auch einige Feld- und Waldwege, die eigentlich alle in sehr gutem Zustand sind. Viele davon können sowohl zu Fuss als auch mit dem Fahrrad verwendet werden.
 
 ## Einkaufsmöglichkeiten
 
