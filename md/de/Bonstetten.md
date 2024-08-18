@@ -35,6 +35,8 @@ Der [tiefste Punkt der Gemeinde Bonstetten](https://www.openstreetmap.org/node/5
 
 ## Weiteres
 
+Auf der Website der Gemeinde kann man ziemlich viele Informationen finden. Die Website hat auch eine integrierte vorlesen Funktion für Personen mit einer Sehbehinderung (die natürlich auch von Personen ohne Behinderungen genutzt werden kann).
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
