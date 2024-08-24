@@ -76,7 +76,7 @@ Die kombinierte Primarschulanlage Letten, Reppisch, Linden und Haldenacher beste
 
 ## Gemeindename
 
-Laut dem [Ortsmuseum Birmensdorf](https://ortsmuseum-birmensdorf.ch) wird im Jahr 876 der Ort aus dem einst Birmensdorf entstehen sollte zum erstan mal als <q cite="https://ortsmuseum-birmensdorf.ch/geschichte/geschichte-des-dorfes">piripoumesdorf</q> erwähnt. Im Jahr 1140 wird es dann nochmals als <q cite="https://ortsmuseum-birmensdorf.ch/geschichte/geschichte-des-dorfes">Birbornestorf</q> erwähnt.
+Laut dem [Ortsmuseum Birmensdorf](https://ortsmuseum-birmensdorf.ch) wird im Jahr 876 der Ort aus dem einst Birmensdorf entstehen sollte zum ersten mal als <q cite="https://ortsmuseum-birmensdorf.ch/geschichte/geschichte-des-dorfes">piripoumesdorf</q> erwähnt. Im Jahr 1140 wird es dann nochmals als <q cite="https://ortsmuseum-birmensdorf.ch/geschichte/geschichte-des-dorfes">Birbornestorf</q> erwähnt.
 
 ## Gemeindewappen
 
