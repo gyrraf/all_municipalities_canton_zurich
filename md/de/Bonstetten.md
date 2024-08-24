@@ -54,7 +54,15 @@ Die älteste bekannte Erwähnung von Bonstetten war <q cite="https://www.bonstet
 
 ## Gemeindewappen
 
+Die offizielle Beschreibung des Wappens lautet folgendermassen: <q cite="https://www.bonstetten.ch/wappen">Das Gemeindewappen von Bonstetten ist in schwarz mit goldenem Bord drei aneinanderstossende, geschliffene silberne Rauten.</q> "Bord" ist dabei ein Synonym für Rand, mit "Raute" ist die geometrische Form mit vier gleich langen Seiten aber nicht rechten Winkeln gemeint und das "geschliffen" ist durch Linien zwischen gegenüberliegenden Ecken dargestellt. Das Wappen geht auf ein Wappen vom Freiherr Hermann von Bonstetten zurück, damals allerdings noch ohne goldenen Rand.
+
+Die Webseite der Gemeinde verwendet ein Wappen bei dem alle Rauten gleich gross sind und den goldenen Rand nicht berühren. An anderen Orten, wie zum Beispiel [im Verzeichnis der Gemeindewappen der Antiquarischen Gesellschaft in Zürich](https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#48) berühren die Rauten aber den goldenen Rand und die äusseren 2 Rauten sind ein wenig kleiner als die Innere.
+
 ### Gemeinde Logo
+
+Das Gemeinde Logo zeigt die 3 Rauten aus dem Wappen ohne die Linien durch die Mitte in 3 verschiedenen Farben. Von Links nach Rechts sind diese Farben Dunkel-Grau, Hell-Grau und Gelb/Gold. Die 3 Rauten sind hier alle gleich gross. Rechts daneben steht der Text "Gemeinde Bonstetten" auf 2 Zeilen aufgeteilt. Die 3 Rauten sind nur so hoch wie der Text "Gemeinde und befindet sich links neben diesem Text. Zwischen den Beiden Wörtern befindet sich auch eine Horizontale Linie. Die beiden Wörter sind linksbündig und verwenden eine Schwarze Schriftfarbe und eine Schriftart ohne Serifen. Der Text "Gemeinde" ist grösser geschrieben als der Text "Bonstetten", dafür verwendet der Text "Bonstetten" aber nur Grossbuchstaben und eine fette Schriftart.
+
+Das Logo wird Teilweise auch ohne den Text, also nur mit den 3 Farbigen Rauten, verwendet. Der Text kann teilweise auch ein wenig anders angeordnet sein, die Grundelement bleiben aber eigentlich immer die gleichen.
 
 ## Landschaft
 
