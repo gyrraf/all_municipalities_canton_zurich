@@ -50,6 +50,8 @@ Am Bahnhof Bonstetten-Wettswil besteht auch die Möglichkeit auf den Nachtbus N2
 
 ## Gemeindename
 
+Die älteste bekannte Erwähnung von Bonstetten war <q cite="https://www.bonstetten.ch/geschichte/11486">1122 als "Boumstettin"</q>.
+
 ## Gemeindewappen
 
 ### Gemeinde Logo
