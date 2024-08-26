@@ -48,6 +48,14 @@ Am Bahnhof Bonstetten-Wettswil besteht auch die Möglichkeit auf den Nachtbus N2
 
 ## Schule
 
+Die Gemeinde Bonstetten hat eine eigene Primarschulgemeinde und eine Sekundarschule zusammen mit Stallikon und Wettswil am Albis, die sich im Schachenquartier von Bonstetten befindet und auch den Namen von Bonstetten trägt. Die nächstgelegene Kantonsschule ist die Kantonsschule Limmattal in Urdorf ca. 9.2 km Luftlinie vom Dorfzentrum Bonstetten entfernt. Es gibt Pläne für eine Kantonsschule in Affoltern am Albis, bis diese Umgesetzt sind wird es aber im 2024 noch einige Jahre dauern.  
+Die Primarschule Bonstetten besteht aus der Schulanlage Schachenmatten, das sich am südlichen Ende des Schachen Quartiers befindet, dem Kindergarten Dorf, der sich direkt beim Dorfzentrum Bonstetten befindet, und dem Kindergarten Bodenfeld, der sich ca. 160 m Luftlinie westlich des Dorfzentrums von Bonstetten befindet. Die Schulanlage Schachenmatten liegt ausserdem noch direkt östlich vom Sportzentrum Schachen, direkt südlich der Sekundarschule Bonstetten und direkt östlich des Spielplatzes Schachen.  
+Die Sekundarschule Bonstetten besteht aus der Schulanlage im Bruggen, die sich im Schachenquartier direkt nördlich der Primarschule Bonstetten und ziemlich direkt nordöstlich des Sportzentrums Schachen befindet. Sie befindet sich ausserdem ca. 340 m Luftlinie südöstlich des Bahnhofs Bonstetten-Wettswil.
+
+Die Primarschulanlage Schachenmatten besteht aus 4 Schulhäusern, einem Pavillion und einer einfach Turnhalle. Ausserdem gehört eine Aussenanlage mit 2 Pausenplätzen, 1 Allwetterplatz mit 2 Basketballkörben und 4 Handballtoren, 1 Rasenfeld mit 2 Handballtoren und 1 Weitsprunganlage dazu. Die beiden Kindergärten im Dorf Bonstetten bestehen aus jeweils 1 Gebäude. In der Schulanlage Schachenmatten werden 3 Kindergartenklassen, im Kindergarten Dorf 2 Kindergartenklassen und im Kindergarten Bodenfeld 1 Kindergartenklasse unterrichtet. Schulklassen werden in der Schulanlage Schachenmatten 19 Unterrichtet, verteilt über 6 Schuljahre. In der Schulanlage Schachenmatten gibt es auch noch den Schachenhort.
+
+Die Sekundarschulanlage im Bruggen besteht aus 4 Schulhaustrakten und einer einfach Turnhalle. Ausserdem gehört eine Aussenanlage mit 1 Hartplatz mit 2 Handballtoren, 1 Rasenfeld mit 2 Fussballtoren, 1 Basketballkorb unterhalb von Trakt D und 1 Diskgolfziel. Die Sekundarschule Bonstetten unterrichtet 20 Klasse verteilt über 3 Schuljahre und jeweils 3 Niveaus.
+
 ## Gemeindename
 
 Die älteste bekannte Erwähnung von Bonstetten war <q cite="https://www.bonstetten.ch/geschichte/11486">1122 als "Boumstettin"</q>.
