@@ -74,6 +74,13 @@ Das Logo wird Teilweise auch ohne den Text, also nur mit den 3 Farbigen Rauten, 
 
 ## Landschaft
 
+Die Gemeinde Bonstetten liegt zwischen dem Hügelzug auf dem sich Islisberg befindet und dem Hügelzug mit dem Sunnenberg. Das Dorf Bonstetten selber befindet sich zusätzlich noch am Fusse des Hügels Birch. Nördlich des Dorfes Bonstetten und westlich des Quartiers Schachen ist das Gemeindegebiet von Bonstetten relativ Flach.
+
+Nördlich des Schachen Quartiers liegen die Weiher Fischbach und Fridgraben, allerdings liegt keiner davon auf dem Gemeindegebiet von Bonstetten.  
+Der Dorfbach entspringt am Hügel Birch und fliesst dann unter dem Dorf Bonstetten durch, westlich am Schachen Quartier vorbei, westlich am Fischbachweiher vorbei und dann weiter nach Norden richtung Birmensdorf.  
+Der Isenbach ist ein Abfluss vom Lochenweiher oberhalb des Dorfes Bonstetten. Von dort fliesset er durch das Dorf Bonstetten, dann durch das Schachen Quartier, östlich am Fridgrabenweiher vorbei und dann weiter nach Norden richtung Birmensdorf in den selben Bach wie schon der Dorfbach.  
+Der Fluechbach entspringt am Hang des Hügelzugs auf dem Islisberg liegt. Danach fliesst er durch die Ebene von Bonstetten und fliesst dann nahezu exakt auf der nördlichen Gemeindegrenze von Bonstetten in den Dorfbach.
+
 ## Weiteres
 
 Im Schachen Quartier gibt es das Sportzentrum Schachen, das von den Gemeinden Bonstetten, Stallikon und Wettswil am Albis finanziert wurde. Es besteht aus einer dreifach Turnhalle, einem Hartplatz mit 2 Handballtoren und 4 Basketballkörben, einer 100 m Sprintanlage mit 4 Bahnen, einer 300 m Rundbahn um den Hartplatz und eine Wiese, zwei Weitsprunganlagen und drei Kugelstossanlagen.  
