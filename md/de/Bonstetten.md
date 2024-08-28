@@ -100,6 +100,10 @@ Der Fluechbach entspringt am Hang des Hügelzugs auf dem Islisberg liegt. Danach
 Im Schachen Quartier gibt es das Sportzentrum Schachen, das von den Gemeinden Bonstetten, Stallikon und Wettswil am Albis finanziert wurde. Es besteht aus einer dreifach Turnhalle, einem Hartplatz mit 2 Handballtoren und 4 Basketballkörben, einer 100 m Sprintanlage mit 4 Bahnen, einer 300 m Rundbahn um den Hartplatz und eine Wiese, zwei Weitsprunganlagen und drei Kugelstossanlagen.  
 Direkt südlich des Sportzentrums Schachen befindet sich der Spiel- und Begegnugsplatz Schachen. Er besteht aus einem skatepark mit Halfpipe, einem Beachvolleyballfeld, einem Tischtennis Tisch, einer Bocciabahn, einem Disc Golf Ziel, einem Spielplatz und mehr.
 
+Die Gemeinde Bonstetten hat an mehreren Orten Anschlagbretter mit dem Titel "Was lauft z'Bonstetten" platziert.
+
+Die Bibliothek Bonstetten hat oberhalb des Schachen Quartiers ein Lesebänkli und stellt dort teilweise sogar eine Bücherbox bereit.
+
 Auf der Website der Gemeinde kann man ziemlich viele Informationen finden. Die Website hat auch eine integrierte vorlesen Funktion für Personen mit einer Sehbehinderung (die natürlich auch von Personen ohne Behinderungen genutzt werden kann).
 
 ## Persönliches Fazit
