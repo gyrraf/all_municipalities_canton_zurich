@@ -92,7 +92,7 @@ Das Logo wird Teilweise auch ohne den Text, also nur mit den 3 Farbigen Rauten, 
 
 ## Landschaft
 
-Die Gemeinde Bonstetten liegt zwischen dem Hügelzug auf dem sich Islisberg befindet und dem Hügelzug mit dem Sunnenberg. Das Dorf Bonstetten selber befindet sich zusätzlich noch am Fusse des Hügels Birch. Nördlich des Dorfes Bonstetten und westlich des Quartiers Schachen ist das Gemeindegebiet von Bonstetten relativ Flach.
+Die Gemeinde Bonstetten liegt zwischen dem Hügelzug auf dem sich Islisberg befindet und dem Hügelzug mit dem Sunnenberg. Das Dorf Bonstetten selber befindet sich zusätzlich noch am Fusse des Hügels Birch. Nördlich des Dorfes Bonstetten und westlich des Quartiers Schachen ist das Gemeindegebiet von Bonstetten relativ Flach. Der östliche Teil des Dorfes Bonstetten und des Schachen Quartiers, befindet sich am Hang des Hügelzugs mit dem Sunneberg.
 
 Nördlich des Schachen Quartiers liegen die Weiher Fischbach und Fridgraben, allerdings liegt keiner davon auf dem Gemeindegebiet von Bonstetten.  
 Der Dorfbach entspringt am Hügel Birch und fliesst dann unter dem Dorf Bonstetten durch, westlich am Schachen Quartier vorbei, westlich am Fischbachweiher vorbei und dann weiter nach Norden richtung Birmensdorf.  
