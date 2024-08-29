@@ -62,6 +62,8 @@ Im Dorf Bonstetten gibt es eine Spar Filiale, eine Metzgerei und einen Bäcker. 
 
 ### Restaurants
 
+Bonstetten hat einige Restaurants, aber keines das besonders bekannt ist. Nicht weit vom Dorfzentrum Bonstetten entfernt gibt es die Restaurants [Linde](https://linde-bonstetten.ch/Startseite/) und [Löwen](https://www.loewen-bonstetten.ch/) und im Schachen Quartier beim Bahnhof gibt es das Restaurant [Milia's](https://www.milias.ch/).
+
 ## Schule
 
 Die Gemeinde Bonstetten hat eine eigene Primarschulgemeinde und eine Sekundarschule zusammen mit Stallikon und Wettswil am Albis, die sich im Schachenquartier von Bonstetten befindet und auch den Namen von Bonstetten trägt. Die nächstgelegene Kantonsschule ist die Kantonsschule Limmattal in Urdorf ca. 9.2 km Luftlinie vom Dorfzentrum Bonstetten entfernt. Es gibt Pläne für eine Kantonsschule in Affoltern am Albis, bis diese Umgesetzt sind wird es aber im 2024 noch einige Jahre dauern.  
