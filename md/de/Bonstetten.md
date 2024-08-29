@@ -58,6 +58,8 @@ Ausserhalb des Dorfes Bonstetten und des Schachen Quartiers hat die Gemeinde Bon
 
 ## Einkaufsmöglichkeiten
 
+Im Dorf Bonstetten gibt es eine Spar Filiale, eine Metzgerei und einen Bäcker. Ausserdem gibt es [s'Lädeli im Rank](https://rotenbirben.ch/hofladen/). Im Schachen Quartier gibt es eine Coop Filiale, eine Migros VOI Filiale und einen avec am Bahnhof. Für noch grössere Einkäufe gibt es in Affoltern am Albis eine Migros Filiale, eine Lidl Filiale, eine noch grössere Coop Filiale, eine Aldi Schweiz Filiale, eine Jumbo Filiale und noch einiges mehr. Die nächsten Einkaufszentren sind entweder das Sihlcity in Zürich oder das Shoppi Tivoli in Spreitenbach.
+
 ### Restaurants
 
 ## Schule
