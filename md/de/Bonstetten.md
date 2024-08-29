@@ -114,6 +114,8 @@ Auf der Website der Gemeinde kann man ziemlich viele Informationen finden. Die W
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Bonstetten fühlt sich sehr freundlich an. Das Schachen Quartier fühlt sich moderner an und bietet mit den Schulen, dem Sportzentrum, dem Bahnhof, den Läden und den Kirchen relativ viele Dienstleistungen und Infrastruktur an, während sich das Dorf Bonstetten selber eher ein wenig traditioneller und ruhiger anfühlt. Für Besucher\*innen gibt es in Bonstetten eigentlich nur die schöne Landschaft, sonst aber nichts besonderes. Für die lokale Bevölkerung bietet die Gemeinde aber recht viel.
+
 ## Fotos
 
 ![Das Dorf Bonstetten von Westen](../../images/Bonstetten/Bonstetten_4.jpg)  
