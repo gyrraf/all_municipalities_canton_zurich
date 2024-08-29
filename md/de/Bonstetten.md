@@ -115,3 +115,21 @@ Auf der Website der Gemeinde kann man ziemlich viele Informationen finden. Die W
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Das Dorf Bonstetten von Westen](../../images/Bonstetten/Bonstetten_4.jpg)  
+Das Dorf Bonstetten, fotografiert aus westlicher Richtung von oberhalb des Lätten-Hofs an der Islisbergstrasse [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.31842%2C8.45392#map=19/47.31842/8.45392) am 2024-08-11.
+
+![Der westliche Teil des Dorfes Bonstetten von Nord-Osten](../../images/Bonstetten/Bonstetten_7.jpg)  
+Der westliche Teil des Dorfes Bonstetten, fotografiert aus nord-östlicher Richtung vom alten Züriweg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.31933%2C8.47594#map=19/47.31933/8.47594) am 2024-08-25.
+
+![Das Dorf Bonstetten von Norden](../../images/Bonstetten/Bonstetten_2.jpg)  
+Das Dorf Bonstetten, fotografiert aus nördlicher Richtung von nahe des Albis-Golf Golfplatzes [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.33085%2C8.46272#map=19/47.33085/8.46272) am 2024-08-11.
+
+![Das Schachen Quartier und Wettswil am Albis von Süden](../../images/Bonstetten/Schachen_1.jpg)  
+Das Schachen Quartier und Wettswil am Albis, fotografiert aus südlicher Richtung vom Waldrand oberhalb des Dorfes Bonstetten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.30751%2C8.47294#map=19/47.30751/8.47294) am 2024-08-25.
+
+![Eine Holzschnitzerei im östlichen Wald](../../images/Bonstetten/Wood_carving.jpg)  
+Eine Holzschnitzerei im östlichen Wald, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.32235%2C8.48423#map=19/47.32235/8.48423) am 2024-08-25.
+
+![Aussicht von oberhalb des Chäseren-Hofs](../../images/Bonstetten/View_Chaeseren.jpg)  
+Die Aussicht Richtung Osten mit dem Zürichsee und den St. Galler Alpen, fotografiert von oberhalb des Chäseren-Hofs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.32599%2C8.44844#map=19/47.32599/8.44844) am 2024-08-11.
