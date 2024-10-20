@@ -32,6 +32,8 @@ In Boppelsen ist die Hofwiesen- bzw. Bergstrasse noch wichtig. Sie zweigt im Wes
 
 ## Gemeindename
 
+Boppelsen wurde das erste mal <q cite="https://www.boppelsen.ch/geschichte/">im Jahr 1130 als Bobpinsolo erwähnt</q>. <q cite="https://www.boppelsen.ch/geschichte/">"Bobpinsolo" bedeutet entweder "Sumpfgelände des Boppo" oder "Sal oder Haus des Bopp"</q>. "Bopp" oder "Boppo" war also der Name einer Person bzw. Familie. <q cite="https://www.boppelsen.ch/geschichte/">Aus dem namen "Bobpinsolo" wurde dann anfang der 12-Hunderter Jahre "Popensolo" oder "Boppensol" und dann bis 1667 wurde "Bopletzen" daraus.</q> Heute heisst die Gemeinde offiziell "Boppelsen", in der gesprochenen Sprache und in gewissen Fällen auch in der Geschriebenen Sprache wird aber der Name "Bopplissen" oder auf Schweizerdeutsch "Bopplisse" verwendet.
+
 ## Gemeindewappen
 
 ### Gemeinde Logo
