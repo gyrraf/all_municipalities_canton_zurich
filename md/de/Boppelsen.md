@@ -36,7 +36,13 @@ Boppelsen wurde das erste mal <q cite="https://www.boppelsen.ch/geschichte/">im 
 
 ## Gemeindewappen
 
+Die offizielle Beschreibung des Wappens von Boppelsen lautet: <q cite="https://www.boppelsen.ch/geschichte/">In Gold auf schwarzem Dreiberg zwei abgewendete, grüngestielte und beblätterte Maiglöckchen, jedes drei silberne Blüten tragend</q>. "Gold" ist dabei synonym für "Gelb", ein "Dreiberg" sind drei runde Berge die nebeneinander dargestellt sind und "Silber" ist synonym für "Weiss". Die beiden Maiglöckchen haben jeweils einen schmalen Stiel nahe der Wappenmitte. Beide haben zuunterst ein grosses Blatt das zum jeweiligen Rand des Wappens ausgerichtet ist. Oberhalb des Blattes haben die Maiglöckchen jeweils 3 gleich grosse Blüten. Der Stiel ist ab der Abzweigung der ersten Blüte zum jeweiligen Wappenrand hin gebeugt. Die Blüten der Maiglöckchen formen alle zusammen quasi ein "V" oder ein Pfeil nach untent.
+
+Dieses Wappen basiert auf einem Deckenschmuck aus dem alten Schulhaus von Boppelsen. Zuvor wurde ein Wappen bestehend aus einem schwarzen Doppeladler auf entweder rotem oder blauem Hintergrund verwendet. <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#48">Der Doppeladler soll das Wappentier der Herren von Lägern gewesen sein</q>.
+
 ### Gemeinde Logo
+
+Das Gemeindelogo zeigt 3 farbige, vertikale, rechteckige Balken in den Farben gelb, grün und schwarz, den Farben des Gemeindewappens. Rechts neben den 3 Balken steht der Text "Gemeinde Boppelsen". Der erste Balken von links ist gelb und ist etwas höher als der Text. Der Balken ist unten bündig mit dem "B" von Boppelsen. Der mittlere Balken ist grün und ist ca. 1.5 mal so hoch wie der gelbe Balken. Die ersten beiden Balken sind nur durch ungefähr eine halbe Balkenbreite voneinander getrennt und unten bündig. Der dritte Balken von links ist schwarz, ungefähr 1.5 bis 2 Balken breiten vom grünen Balken entfernt, etwa gleich hoch wie der gelbe Balken aber nach unten verschoben, so dass das obere ende mit dem oberen Ende vom "B" in "Boppelsen bündig ist. Der Text "Gemeinde" ist in nur Grossbuchstaben, schwarz, nicht fett, in einer kleineren Schriftgrösse und mit einer sans-serif Schriftart geschrieben. Das "G" ist dabei linksbündig mit dem schwarzen Balken und somit weiter links als das "B" von Boppelsen. Der Text "Boppelsen" ist in Gross- und Kleinbuchstaben, schwarz, fett, in einer grösseren Schriftgrösse und einer sans-serif Schriftart geschrieben. Das letzte "E" von Gemeinde liegt über dem ersten "e" von Boppelsen.
 
 ## Landschaft
 
