@@ -35,6 +35,24 @@ Im Zürcher Nachtnetz werden beide Haltestellen in Boppelsen 4-mal im Stundentak
 
 ## Schule
 
+### Primarschule
+
+Die Gemeinde Boppelsen hat eine eigene Primarschule auf dem Schulareal Maiacher. Das Schulareal befindet sich nur ca. 130 m Luftlinie südlich des Dorfzentrums von Boppelsen. Das Schulareal Maiacher umfasst ein Schulgebäude, einen Kindergarten, ein Mehrzweckgebäude mit einer Kleinfeldturnhalle, eine Wiese mit Fussballtoren, einen geteerten Pausenplatz mit einem Basketballkorb, einem Tischtennistisch und zwei kleinen Toren und einem Spielplatz. Die Primarschule Boppelsen unterrichtet 5 Klassen über 6 Schuljahre verteilt, wobei alle Klassen jeweils Schulkinder aus 2 Schuljahren haben.
+
+### Kindergarten
+
+Die Gemeinde Boppelsen hat einen eigenen Kindergarten auf dem Schulareal Maiacher, etwas mehr als 130 m südlich des Dorfzentrums. Der Kindergarten hat einen eigenen Zugang und einen eigenen Spielplatz, separat vom Pausenplatz der Primarschule. Der Kindergarten Maiacher hat 2 Klassen mit jeweils 2 Jahrgängen.
+
+### Sekundarschule
+
+Für die Sekundarschule beteiligt sich die Gemeinde Boppelsen, zusammen mit Dänikon, Hüttikon, und Otelfingen, an der Sekundarschule Unteres Furttal. Die Sekundarschule befindet sich ca. 1.2 km Luftlinie entfernt im benachbarten Otelfingen. Dort werden 12 Klassen verteilt über 3 Schuljahre unterrichtet.
+
+### Gymnasium
+
+Die nächsten Kantonsschulen des Kantons Zürich sind die Kantonsschule Zürcher Unterland in Bülach und die Kantonsschule Zürich Nord in Zürich Oerlikon. Die Kantonsschule Zürich Nord ist ca. 12.1 km Luftlinie entfernt und per ÖV besser zu erreichen. Die Kantonsschule Zürcher Unterland ist ebenfalls ca. 12.1 km Luftlinie entfernt, aber per ÖV weniger gut zu erreichen.
+
+Die Kantonsschule Baden würde sich allerdings nur ca 6.6 km Luftlinie weit entfernt befinden und wäre ebenfalls relativ gut per ÖV zu erreichen, trotzdem ist es vermutlich nur für die allerwenigsten aus Boppelsen eine Option, da Baden zum Kanton Aargau und nicht zum Kanton Zürich gehört und Schulen in der Schweiz auf der Kantonsebene geregelt sind.
+
 ## Gemeindename
 
 Boppelsen wurde das erste mal <q cite="https://www.boppelsen.ch/geschichte/">im Jahr 1130 als Bobpinsolo erwähnt</q>. <q cite="https://www.boppelsen.ch/geschichte/">"Bobpinsolo" bedeutet entweder "Sumpfgelände des Boppo" oder "Sal oder Haus des Bopp"</q>. "Bopp" oder "Boppo" war also der Name einer Person bzw. Familie. <q cite="https://www.boppelsen.ch/geschichte/">Aus dem namen "Bobpinsolo" wurde dann anfang der 12-Hunderter Jahre "Popensolo" oder "Boppensol" und dann bis 1667 wurde "Bopletzen" daraus.</q> Heute heisst die Gemeinde offiziell "Boppelsen", in der gesprochenen Sprache und in gewissen Fällen auch in der Geschriebenen Sprache wird aber der Name "Bopplissen" oder auf Schweizerdeutsch "Bopplisse" verwendet.
