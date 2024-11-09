@@ -46,7 +46,11 @@ Ein grossteil der Wanderwege können auch mit dem Fahrrad genutzt werden und obe
 
 ## Einkaufsmöglichkeiten
 
+Im Dorf Boppelsen gibt es nur eine Volg Filiale und ein wenig ausserhalb des Dorfes den Hofladen [Sunnehof Lädeli](https://www.sunnehof-boppelsen.ch/). Im Dorf Otelfingen gibt es ca. 1.7 km Luftlinie entfernt eine Spar Filiale und im Industriegebiet Otelfingen gibt es ca. 1.2 km Luftlinie entfernt eine Aldi Filiale und ca. 1.5 km Luftlinie entfernt einen Globus Outlet. Im benachbarten Buchs gibt es ca. 3.2 km Luftlinie entfernt einen VOI Migros. Eine Coop Filiale gibt es entweder ca. 4.3 km Luftlinie entfernt in Würenlos oder ca. 5.6 km Luftlinie entfernt im Einkaufszentrum Tägipark in Wettingen oder ca. 5.0 km Luftlinie entfernt in Dielsdorf oder ca. 12.2 km Luftlinie entfernt im Center Eleven in Oerlikon. Eine Migros Filiale gibt es ca. 4.8 km Luftlinie entfernt in Dielsdorf oder ca. 12.3 km Luftlinie entfernt in Zürich Seebach. Die nächsten kleineren Einkaufszentren sind der ca. 5.6 km Luftlinie entfernte Tägipark in Wettingen oder das ca. 4.9 km Luftlinie entfernte Industriegebiet in Dielsdorf oder das ca. 12.2 km Luftlinie entfernte Center Eleven in Oerlikon. Das nächste grosse Einkaufszentrum ist das ca. 6 km Luftlinie entfernte Shoppi Tivoli in Spreitenbach.
+
 ### Restaurants
+
+Das Restaurant [Lägern Hochwacht](https://laegern-hochwacht.ch/) ausserhalb des Dorfes Boppelsen und auf der Hochwacht Lägern ist vermutlich das wichtigste Restaurant in Boppelsen. Im Dorf Boppelsen gibt es aber auch noch das [Lägernstübli](https://laegernstuebli.ch/), das [Wiistübli zum Wöschhüsli](https://wiistueb.li/), das Cafe [gWunderWerk](https://www.gwunderwerk.ch/index.php) und die Bar [Gwölb 23](https://www.gwoelb23.ch/), alle weniger als 200 m Luftlinie vom Dorfzentrum entfernt.
 
 ## Schule
 
