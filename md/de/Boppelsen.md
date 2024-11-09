@@ -58,9 +58,11 @@ Das Restaurant [Lägern Hochwacht](https://laegern-hochwacht.ch/) ausserhalb des
 
 Die Gemeinde Boppelsen hat eine eigene Primarschule auf dem Schulareal Maiacher. Das Schulareal befindet sich nur ca. 130 m Luftlinie südlich des Dorfzentrums von Boppelsen. Das Schulareal Maiacher umfasst ein Schulgebäude, einen Kindergarten, ein Mehrzweckgebäude mit einer Kleinfeldturnhalle, eine Wiese mit Fussballtoren, einen geteerten Pausenplatz mit einem Basketballkorb, einem Tischtennistisch und zwei kleinen Toren und einem Spielplatz. Die Primarschule Boppelsen unterrichtet 5 Klassen über 6 Schuljahre verteilt, wobei alle Klassen jeweils Schulkinder aus 2 Schuljahren haben.
 
-### Kindergarten
+### Kindergarten und Spielgruppe
 
 Die Gemeinde Boppelsen hat einen eigenen Kindergarten auf dem Schulareal Maiacher, etwas mehr als 130 m südlich des Dorfzentrums. Der Kindergarten hat einen eigenen Zugang und einen eigenen Spielplatz, separat vom Pausenplatz der Primarschule. Der Kindergarten Maiacher hat 2 Klassen mit jeweils 2 Jahrgängen.
+
+Nur ca. 50 m Luftlinie vom Kindergarten und ca. 160 m vom Dorfzentrum Boppelsen entfernt befindet sich ausserdem noch die Spielgruppe Boppelsen.
 
 ### Sekundarschule
 
