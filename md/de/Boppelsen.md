@@ -98,6 +98,15 @@ Boppelsen hat nur einen sehr kleinen Bach. Der Bach namens Wasserloch entspringt
 
 ## Weiteres
 
+Bei der Lägern Hochwacht gibt es eine Aussichtsplatform mit einer Karte aller Berge die man von dort aus sieht. Direkt daneben gibt es noch eine Art Fernglas, das mithilfe von Augmented Reality Technologie viele dieser Berge anschreibt. Dieses Fernglas kann kostenlos benutzt werden.
+
+Ebenfalls nahe der Lägern Hochwacht gibt es die [Radaranlage Lägern](https://www.openstreetmap.org/way/130727965) der Skyguide und zwei Funkmasten der Funkmastanlage Lägern ebenfalls von der Skyguide. Zwischen den beiden Funkmasten und bei der Radaranlage gibt es informative Schilder, die die Funktion der Anlagen und die Aufgaben der Skyguide erklären.  
+Fast direkt bei der Aussichtsplattform Lägern gibt es auch noch einen weiteren Funkmasten, dieser hat aber nichts mit der Skyguide zu tun.
+
+Auf der Lägern und zu einem Teil auf dem Gemeindegebiet von Boppelsen befindet sich auch der [Planetenweg Lägern](https://planetenweg-laegern.ch/). Die Gemeinde Boppelsen hat sogar, zusammen mit der Gemeinde Otelfingen, die Station Neptun finanziert. Der Planetenweg stellt die Sonne und die Planeten unseres Sonnensystems im Massstab 1:1 Milliarde dar. An jeder Station gibt es Informationen über einen Planeten oder ein Objekt des Sonnensystems. Zusätzlich gibt es noch die Station "Riesensonnen", die Informationen über Sonnen ausserhalb unseres Sonnensystems enthält und die runde Kuppel der Radaranlage Lägern als Modell für eine dieser Riesensonnen nutzt.
+
+An einer Hauswand relativ nahe vom Dorfzentrum Boppelsen befindet sich ein möglicherweise von Hand gezeichnetes Wappen der Gemeinde Boppelsen.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
