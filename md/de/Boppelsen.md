@@ -90,6 +90,12 @@ Das Gemeindelogo zeigt 3 farbige, vertikale, rechteckige Balken in den Farben ge
 
 ## Landschaft
 
+Die Gemeinde Boppelsen liegt am Südhang der Lägern im Furttal. Die Lägern trennt das Furttal und das Surbtal voneinander. Der höchste Punkt der Lägern befindet sich auf 866 m.ü.M. Boppelsen liegt nicht am Fluss Furt, sondern hinter einem kleinen Hügel, von der Furt aus betrachtet.  
+Die Lägern befindet sich sowohl im Norden als auch im Osten des Gemeindegebiets von Boppelsen. Im südwesten gibt es mit dem Hügel Breitlen nochmals eine kleine Erhebung. Dadurch entsteht eine Art Talschlaufe, die an beiden enden ins grössere Furttal führt.  
+Das Dorf Boppelsen liegt hauptsächlich im Tal, mit den Dorfteilen im Nord-Westen und im Süd-Osten weiter oben.
+
+Boppelsen hat nur einen sehr kleinen Bach. Der Bach namens Wasserloch entspringt im Nord-Östlichen Teil des Gemeindegebiets von Boppelsen am Hang der Lägern. Danach fliesst er nach Westen, durch das Dorf Boppelsen und dann nach Otelfingen. In Otelfingen mündet er dann in die Furt, welche in Würenlos dann wiederum in die Limmat mündet.
+
 ## Weiteres
 
 ## Persönliches Fazit
