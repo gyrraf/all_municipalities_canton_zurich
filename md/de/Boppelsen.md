@@ -112,3 +112,30 @@ An einer Hauswand relativ nahe vom Dorfzentrum Boppelsen befindet sich ein mögl
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Das Dorf Boppelsen von der Aussichtsplattform Lägern Hochwacht](../../images/Boppelsen/Laegern_Hochwacht_view_Boppelsen.jpg)  
+Das Dorf Boppelsen, fotografiert von der Aussichtsplattform Lägern Hochwacht [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.481353%2C8.400813#map=19/47.481353/8.400813) am 2024-10-13.
+
+![Der nord-westliche Teil des Dorfes Boppelsen vom Breitlen](../../images/Boppelsen/Boppelsen_north-west.jpg)  
+Der nord-westliche Teil des Dorfes Boppelsen, fotografiert von süd-westen beim Breitlen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.467030%2C8.397637#map=19/47.467030/8.397637) am 2024-10-13.
+
+![Der zentrale Teil des Dorfes Boppelsen vom Breitlen](../../images/Boppelsen/Boppelsen_central.jpg)  
+Der zentrale Teil des Dorfes Boppelsen, fotografiert von süd-westen beim Breitlen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.467174%2C8.401068#map=19/47.467174/8.401068) am 2024-10-13.
+
+![Der östliche Teil des Dorfes Boppelsen vom Breitlen](../../images/Boppelsen/Boppelsen_east.jpg)  
+Der östliche Teil des Dorfes Boppelsen, fotografiert von westen beim Breitlen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.467174%2C8.401068#map=19/47.467174/8.401068) am 2024-10-13.
+
+![Die Aussicht von den Lägern Hochwacht nach Osten und Richtung Pfannenstiel](../../images/Boppelsen/Laegern_Hochwacht_view_east.jpg)  
+Die Aussicht von den Lägern Hochwacht nach Osten und Richtung Pfannenstiel, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.481353%2C8.400813#map=19/47.481353/8.400813) am 2024-10-13.
+
+![Die Aussicht von den Lägern Hochwacht nach Süd-Osten und Richtung Zürichsee und Uetliberg](../../images/Boppelsen/Laegern_Hochwacht_view_south-east.jpg)  
+Die Aussicht von den Lägern Hochwacht nach Süd-Osten und Richtung Zürichsee und Uetliberg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.481353%2C8.400813#map=19/47.481353/8.400813) am 2024-10-13.
+
+![Die Aussicht von den Lägern Hochwacht nach Süden und Richtung Heitersberg](../../images/Boppelsen/Laegern_Hochwacht_view_south.jpg)  
+Die Aussicht von den Lägern Hochwacht nach Süden und Richtung Heitersberg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.481353%2C8.400813#map=19/47.481353/8.400813) am 2024-10-13.
+
+![Der kleine Glockenturm auf dem Dach des Gemeindehauses von Süden](../../images/Boppelsen/Community_hall.jpg)  
+Der kleine Glockenturm auf dem Dach des Gemeindehauses, fotografiert von Süden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.470463%2C8.402604#map=19/47.470463/8.402604) am 2024-10-13.
+
+![Das alte Schulhaus von Boppelsen von Nord-Westen](../../images/Boppelsen/Old_school_building.jpg)  
+Das alte Schulhaus von Boppelsen, fotografiert von Nord-Westen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.470162%2C8.403460#map=19/47.470162/8.403460) am 2024-10-13. (Persönliche Informationen wurden durch schwarze Polygone ersetzt.)
