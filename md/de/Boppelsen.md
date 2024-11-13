@@ -111,6 +111,8 @@ An einer Hauswand relativ nahe vom Dorfzentrum Boppelsen befindet sich ein mögl
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Boppelsen ist eine ruhige und eher kleine Gemeinde, mit einem schönen Ausflugsziel, der Lägern Hochwacht. Das Dorf ist durch den Öffentlichem Verkehr nur mässig gut erschlossen, es liegt aber nahe genug an besseren Anschlüssen, dass man diese relativ gut auch zu Fuss oder mit dem Fahrrad erreichen kann. Die Lägern bietet, vorallem für Besuchende, ein paar interessante Dinge, aber abgesehen von der Lägern bietet Boppelsen nicht wirklich viel, weder für die lokale Bevölkerung aber erst recht nicht für Besuchende.
+
 ## Fotos
 
 ![Das Dorf Boppelsen von der Aussichtsplattform Lägern Hochwacht](../../images/Boppelsen/Laegern_Hochwacht_view_Boppelsen.jpg)  
