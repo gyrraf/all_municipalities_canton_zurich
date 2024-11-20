@@ -15,3 +15,4 @@
 * [Birmensdorf](./Birmensdorf.md)
 * [Bonstetten](./Bonstetten.md)
 * [Boppelsen](./Boppelsen.md)
+* [Brütten](./Bruetten.md)
