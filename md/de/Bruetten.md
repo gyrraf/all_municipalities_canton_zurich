@@ -38,6 +38,18 @@ Als Teil des Projekts [MehrSpur Zürich-Winterthur](https://company.sbb.ch/de/ue
 
 ### Fussverkehr
 
+Die Zürcherstrasse hat von der Abzweigung der Gernstrasse bis zum Hof Ifang und dem Tüfiweg einen Gehweg parallel zur Strasse und einen Gehsteig um das Restaurant Stars and Stripes beim Steighof.  
+Die Unterdorfstrasse hat von der Abzweigung der Säntisstrasse am östlichen Dorfende bis zur Abzweigung der Oberwilerstrasse am süd-westlichen Dorfende einen Gehsteig. Dieser wird allerdings von der Brühlstrasse, der Brüelgasse, der Dorfstrasse und der Strubikonerstrasse jeweils ohne Zebrastreifen unterbrochen.  
+Die Dorfstrasse führt bei der Abzweigung von der Unterdorfstrasse die beiden Gehsteige der Unterdorfstrasse fort. Der eine davon wird nach einem Grundstück sehr schmal und endet dann bei der Abzweigung der Ankengasse. Der andere geht, mit einer unterbrechung durch die Brüelgasse weiter bis zur Säntisstrasse.  
+Die Säntisstrasse übernimmt bei der Abzweigung von der Unterdorfstrasse den Gehsteig der Unterdorfstrasse und führt diesen weiter bis zum anderen Ende der Säntisstrasse. Der Gehsteig wird allerdings durch die Harossenstrasse, die Steinlerstrasse, die Haldlerstrasse, die Hagenstrasse und die Brühlstrasse ohne Zebrastreifen unterbrochen.  
+Die Strubikonerstrasse übernimmt bei der Abzweigung von der Unterdorfstrasse die beiden Gehsteige der Unterdorfstrasse, der eine endet aber nach ein Paar metern bereits wieder. Der andere Gehsteig führt weiter, mit einem Unterbruch ohne Zebrastreifen durch die Sunnehaldenstrasse, bis in den Wiler Strubikon. Im Wiler Strubikon hat die Strubikonerstrasse dann noch einen kurzen Gehsteig auf der anderen Strassenseite.  
+Die Tüfistrasse hat von der Abzweigung von der Unterdorfstrasse bis zur Abzweigung der Zelglistrasse einen Gehsteig auf der einen Strassenseite und dann von der Abzweigung der Zelglistrasse bis zur Abzweigung des Chätzlerwegs am südlichen Dorfende einen Gehweg parallel zur Strasse auf der anderen Strassenseite.  
+Die Oberwilerstrasse führt den Gehsteig der Unterdorfstrasse weiter bis er am irgendwann zu einem Kiesweg wird und dann am Ende des Blätzwisenhofs ganz endet. Die Brühlstrasse hat auf der gesamten Länge zwei Gehsteige, jeweils ohne Zebrastreifen unterbrochen durch den Alpenblick, die Harossenstrasse und die Hagenstrasse. Die Brüelgasse hat auf der gesamten Länge einen Gehsteig und von der Abzweigung von der Unterdorfstrasse bis zur Volg Filiale noch einen zweiten Gehsteig auf der anderen Strassenseite.
+
+Auch die Harossenstrasse, die Hagenstrasse, die Steinlerstrasse, die Haldlerstrasse und einige weitere Strassen haben noch einen Gehsteig.
+
+Ausserhalb des Dorfes Brütten hat die Gemeinde Brütten auch noch einige Feld- und Waldwege, die alle relativ gut gepflegt sind.
+
 ### Fahrradverkehr
 
 ## Einkaufsmöglichkeiten
