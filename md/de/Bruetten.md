@@ -81,6 +81,10 @@ Ausserhalb des Dorfes Brütten können ausserdem auch die meisten Feld- und Wald
 
 ## Weiteres
 
+In Brütten befindet sich der [geodätische Mittelpunkt des Kantons Zürich](https://www.openstreetmap.org/node/7294715853). Am gleichen Ort befindet sich auch ein Aussichtspunkt mit Sitzbänken und sogar einer hängenden Schaukelbank.
+
+Am Sigilochweg wurde <q cite="https://zueriost.ch/wirtschaft/2024-11-13/dieses-windrad-dreht-quer-in-der-landschaft">Ende 2024 für 2 Jahre ein neues Windrad getestet</q>.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
