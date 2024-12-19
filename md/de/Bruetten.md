@@ -52,6 +52,11 @@ Ausserhalb des Dorfes Brütten hat die Gemeinde Brütten auch noch einige Feld- 
 
 ### Fahrradverkehr
 
+Der einzige Fahrradstreifen auf dem Gemeindegebiet von Brütten führt von der Gemeindegrenze mit Winterthur Töss auf der Zürichstrasse bis zur Abzweigung der Steighofstrasse. Dann führt der Fahrradstreifen auf der Steighofstrasse weiter bis zum östlichen Dorfrand von Brütten und dann weiter auf der dort Abzweigenden Säntisstrasse bis zum Sigilochweg.
+
+Ansonsten wird erwartet dass Fahrräder entweder die Strasse oder den Gehsteig bzw. Gehweg mit benutzen.  
+Ausserhalb des Dorfes Brütten können ausserdem auch die meisten Feld- und Waldwege mit dem Fahrrad genutzt werden. Viele dieser Feld- und Waldwege sind auch breit genug dass das Kreuzen und Überholen problemlos möglich ist.
+
 ## Einkaufsmöglichkeiten
 
 ### Restaurants
