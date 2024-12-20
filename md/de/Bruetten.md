@@ -59,6 +59,10 @@ Ausserhalb des Dorfes Brütten können ausserdem auch die meisten Feld- und Wald
 
 ## Einkaufsmöglichkeiten
 
+Im Dorf Brütten gibt es nur eine Volg Filiale und die [Bäckerei Bosshart](https://www.baeckerei-bosshart.ch/) und ausserhalb des Dorfes, an der Zürcherstrasse, gibt es einen Migrol Tankstellenshop. Ausserdem gibt es ausserhalb des Dorfes Brütten noch den Hofladen [GmüesTäsche](https://www.gmueestaesche.ch/index.php).
+
+Ca. 2.6 km Luftlinie vom Dorfzentrum Brütten entfernt, in Winterthur Töss, befindet sich eine Lidl Filiale, ca. 3.95 km Luftlinie vom Dorfzentrum Brütten entfernt, in Nürensdorf, befindet sich eine Migros Filiale, ca. 3.75 km Luftlinie vom Dorfzentrum Brütten entfernt, in Birchwil, befindet sich eine Landi Filiale und ca. 4.8 km Luftlinie vom Dorfzentrum Brütten entfernt, in Bassersdorf, befindet sich sowohl eine Coop als auch eine grössere Migros Filiale. Ausserdem befindet sich ca. 3.7 km Luftlinie vom Dorfzentrum Brütten entfernt, in Winterthur, das Einkaufszentrum [Lokwerk](https://lokwerk.ch/) mit unter anderem einer Coop Filiale, ca. 4.4 km Luftlinie vom Dorfzentrum Brütten entfernt, in Winterthur, das Einkaufszentrum [Neuwiesen](https://neuwiesen.ch/) mit unter anderem einer Migros Filiale und ca. 4.6 km Luftlinie vom Dorfzentrum Brütten entfernt, ebenfalls in Winterthur, das Einkaufszentrum [Archhöfe](https://archhoefe.ch/) mit unter anderem einer Aldi Filiale. Zusätzlich ist auch noch der Hauptbahnhof Winterthur mit all seinen Läden nur ca. 4.6 km Luftlinie vom Dorfzentrum Brütten entfernt.
+
 ### Restaurants
 
 ## Schule
