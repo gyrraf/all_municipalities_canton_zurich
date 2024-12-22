@@ -65,6 +65,10 @@ Ca. 2.6 km Luftlinie vom Dorfzentrum Brütten entfernt, in Winterthur Töss, bef
 
 ### Restaurants
 
+Vermutlich das grösste Restaurant in Brütten ist das [Stars and Stripes](https://www.starsandstripes.ch/de/p/standorte/brutten-1078.html) Restaurant, zu dem auch das Motel Steighof gehört. Dieses Restaurant liegt etwas ausserhalb des Dorfes Brütten an der Verzweigung der Zürcherstrasse und der Steighofstrasse.
+
+Weitere Restaurants in Brütten sind die Pizzeria [d'Antonio](https://antonio-bruetten.my-webseite.ch/) im süd-westlichen Dorfteil und das Café Blätzwisen beim Blätzwisenhof ein paar Meter nord-westlich des westlichen Dorfrands von Brütten.
+
 ## Schule
 
 ### Primarschule
