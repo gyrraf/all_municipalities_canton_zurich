@@ -71,13 +71,24 @@ Weitere Restaurants in Brütten sind die Pizzeria [d'Antonio](https://antonio-br
 
 ## Schule
 
+Brütten hat eine eigene Primarschule mit Kindergarten aber keine eigene Sekundarschule. Die Sekundarschulkinder von Brütten besuchen die Sekundarschule in Nürensdorf, zusammen mit den Kindern von Nürensdorf.
+
 ### Primarschule
+
+Die Primarschule der Gemeinde Brütten befindet sich ganz im Norden des Dorfes Brütten, ca. 290 m Luftlinie vom Dorfzentrum entfernt. Das dortige Schulareal Chapf umfasst 2 Schulhäuser, 1 Einzelturnhalle, einen beleuchteten Hartplatz mit 2 Handballtoren und 4 Basketballkörben, eine beleuchtete Wiese mit 2 Fussballtoren, eine 100m Sprintanlage mit 2 Bahnen und einer Weitsprunganlage am einen Ende und einen weiteren Pausenhof. Ausserdem befindet sich bei der Schulanlage noch der Tennisclub von Brütten, der eine Squashwand und 3 beleuchtete Tennisplätze hat und bei der Schule befindet sich auch noch eine kleine Skatinganlage. An der Primarschule Brütten werden 6 Klassen über 6 Schuljahre verteilt unterrichtet, jede Schulklasse hat Schulkinder in 2 verschiedenen Schuljahren.
 
 ### Kindergarten und Spielgruppe
 
+Ebenfalls auf dem Schulareal Chapf befindet sich der Kindergarten der Gemeinde Brütten. In diesem Kindergarten werden 3 Klassen unterrichtet.
+
 ### Sekundarschule
 
-### Gymnasium
+Für die Sekundarstufe besuchen die Brüttener Schulkinder die Schule Hatzenbühl, auch "Hatzi" genannt, in Nürensdorf. Diese befindet sich ca. 3.2 km  Luftlinie süd-westlich vom Dorfzentrum Brütten. Dort werden 150 - 180 Kinder in 9 Klassen verteilt über 3 Schuljahre und in 2 Niveaus unterrichtet. Die Schulklassen bestehen jeweils aus 1 Schuljahr und 2 Niveaus.
+
+### Kantonsschule
+
+Die nächste Kantonsschule von Brütten ist die Kantonsschule Büelrain in Winterthur, ca. 4.8 km Luftlinie entfernt. Diese ist mit der Buslinie 660 und dann einem ca. 650 m langen Fussweg erreichbar.  
+Weitere Kantonsschulen in der Umgebung von Brütten sind die Kantonsschulen im Lee und Rychenberg in Winterthur, ca. 5.8 km Luftlinie vom Dorfzentrum Brütten entfernt, die Kantonsschule Zürcher Unterland in Bülach, ca. 10.8 km Luftlinie vom Dorfzentrum Brütten entfernt und die Kantonsschule Zürich Nord in Oerlikon, ca. 12.8 km Luftlinie vom Dorfzentrum Brütten entfernt.
 
 ## Gemeindename
 
