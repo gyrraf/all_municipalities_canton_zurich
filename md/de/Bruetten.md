@@ -110,6 +110,8 @@ In Brütten befindet sich der [geodätische Mittelpunkt des Kantons Zürich](htt
 
 Am Sigilochweg wurde <q cite="https://zueriost.ch/wirtschaft/2024-11-13/dieses-windrad-dreht-quer-in-der-landschaft">Ende 2024 für 2 Jahre ein neues Windrad getestet</q>.
 
+Am Waldrand, entlang des Aspenrietwegs nördlich des Dorfes Brütten, gibt es ziemlich viele Sitzbänke. Alle Sitzbänke haben eine Farblose version des Gemeindewappens auf der Rückenlehne.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
