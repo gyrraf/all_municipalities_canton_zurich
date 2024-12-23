@@ -96,7 +96,11 @@ Weitere Kantonsschulen in der Umgebung von Brütten sind die Kantonsschulen im L
 
 ## Gemeindewappen
 
+Die Beschreibung des Wappens von Brütten lautet wie folgt: <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#49">In Blau eine silberne Sichel mit goldenem Griff.</q> "Gold" wird dabei als "Gelb" dargestellt und "Silber" als "Weiss". Die Sichel ist nach links geöffnet.
+
 ### Gemeinde Logo
+
+Das Gemeindelogo zeigt das Wappen der Gemeinde und kreisförmig darum herum den Text "Gemeinde Brütten". Der Text "Gemeinde" ist oberhalb des Wappens von links nach rechts geschrieben und der Text "Brütten" ist unterhalb des Wappens ebenfalls von links nach rechts geschrieben. Der gesamte Text ist nur in Grossbuchstaben, mit schwarzer Schriftart ohne Serifen geschrieben.
 
 ## Landschaft
 
