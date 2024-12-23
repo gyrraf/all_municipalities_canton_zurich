@@ -92,6 +92,8 @@ Weitere Kantonsschulen in der Umgebung von Brütten sind die Kantonsschulen im L
 
 ## Gemeindename
 
+<q cite="https://www.bruetten.ch/geschichte/4474">Brütten wurde im Jahr 876 als "Pritta" zum ersten Mal urkundlich erwähnt.</q> Aus "Pritta" wurde dann über die Jahre "Brütten". 
+
 ## Gemeindewappen
 
 ### Gemeinde Logo
