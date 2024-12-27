@@ -104,6 +104,10 @@ Das Gemeindelogo zeigt das Wappen der Gemeinde und kreisförmig darum herum den 
 
 ## Landschaft
 
+Die Gemeinde Brütten liegt auf etwas ähnlichem wie einer Hochebene oberhalb des Dättnauerbergs. In Richtung Winterthur und Töss geht es über 100m hinunter. Das Dorf Brütten liegt ausserdem nochmals an einem Hang, dessen höchster Punkt der Chomberg ist. Der Chomberg ist auch Teil des Dättnauerbergs. Der Dättnauerberg bildet die östliche und die süd-östliche Gemeindegrenze.
+
+Brütten hat einige kleine Bäche im Wald im Osten und Süden des Gemeindegebiets. Alle diese Bäche fliessen ausserhalb von Brütten zusammen und dann in die Töss, welche dann wiederum in den Rhein fliesst. Ausserdem hat Brütten noch 2 kleine Weiher. Den Entenweiher westlich des Dorfes und den Neubruch Teich nördlich des Dorfes Brütten und nord-östlich des Weilers Strubikon.
+
 ## Weiteres
 
 In Brütten befindet sich der [geodätische Mittelpunkt des Kantons Zürich](https://www.openstreetmap.org/node/7294715853). Am gleichen Ort befindet sich auch ein Aussichtspunkt mit Sitzbänken und sogar einer hängenden Schaukelbank.
