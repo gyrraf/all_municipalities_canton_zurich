@@ -16,3 +16,4 @@
 * [Bonstetten](./Bonstetten.md)
 * [Boppelsen](./Boppelsen.md)
 * [Brütten](./Bruetten.md)
+* [Bubikon](./Bubikon.md)
