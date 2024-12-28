@@ -121,3 +121,36 @@ Am Waldrand, entlang des Aspenrietwegs nördlich des Dorfes Brütten, gibt es zi
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Das Dorf Brütten aus dem Süd-Osten](../../images/Bruetten/Bruetten_south.jpg)  
+Das Dorf Brütten, fotografiert von Süd-Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.467573%2C8.685390#map=19/47.467573/8.685390) am 2024-12-01.
+
+![Der süd-östliche Teil des Dorfes Brütten aus dem Süden](../../images/Bruetten/Bruetten_south-east.jpg)  
+Der süd-östliche Teil des Dorfes Brütten, fotografiert von Süden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.469134%2C8.677850#map=19/47.469134/8.677850) am 2024-11-24.
+
+![Der süd-westliche Teil des Dorfes Brütten aus dem Süd-Osten](../../images/Bruetten/Bruetten_south-west.jpg)  
+Der süd-westliche Teil des Dorfes Brütten, fotografiert von Süd-Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.469116%2C8.677614#map=19/47.469116/8.677614) am 2024-11-24.
+
+![Der nord-östliche Teil des Dorfes Brütten aus dem Norden](../../images/Bruetten/Bruetten_north-east.jpg)  
+Der nord-östliche Teil des Dorfes Brütten, fotografiert von Norden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.479431%2C8.681798#map=19/47.479431/8.681798) am 2024-11-24.
+
+![Die Kirche von Brütten](../../images/Bruetten/Bruetten_church.jpg)  
+Die Kirche von Brütten, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.473476%2C8.674715#map=19/47.473476/8.674715) am 2024-11-24.
+
+![Der Wiler Strubikon und der Bauernhof Eichhölzli von Brütten](../../images/Bruetten/Strubikon-from-Bruetten.jpg)  
+Der Wiler Strubikon und der Bauernhof Eichhölzli, fotografiert vom Dorfrand nord-westlichen Dorfrand von Brütten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.472861%2C8.668237#map=19/47.472861/8.668237) am 2024-11-24.
+
+![Die Aussicht Richtung Süden vom Aussichtspunkt oberhalb von Brütten](../../images/Bruetten/View_Viewpoint_south.jpg)  
+Die Aussicht Richtung Süden, fotografiert vom Aussichtspunkt oberhalb von Brütten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.474662%2C8.672872#map=19/47.474662/8.672872) am 2024-11-24.
+
+![Die Aussicht Richtung Süden von der Bushaltestelle Harossen](../../images/Bruetten/View_Bruetten_south.jpg)  
+Die Aussicht Richtung Süden, fotografiert von der Bushaltestelle Harossen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.471511%2C8.681699#map=19/47.471511/8.681699) am 2024-11-24.
+
+![Die Aussicht Richtung Norden von Brütten](../../images/Bruetten/View_Bruetten_north.jpg)  
+Die Aussicht Richtung Norden, fotografiert vom nord-westlichen Dorfrand von Brütten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.472861%2C8.668237#map=19/47.472861/8.668237) am 2024-11-24.
+
+![Der Teich Neubruch nord-östlich von Strubikon](../../images/Bruetten/Pond_Neubruch.jpg)  
+Der Teich Neubruch nord-östlich von Strubikon, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.480526%2C8.669838#map=19/47.480526/8.669838) am 2024-11-24.
+
+![Die Feuerstelle beim Vogt-Brunnen](../../images/Bruetten/Fireplace_Vogt-Brunnen.jpg)  
+Die Feuerstelle beim Vogt-Brunnen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.482798%2C8.678081#map=19/47.482798/8.678081) am 2024-11-24.
