@@ -120,6 +120,8 @@ Am Waldrand, entlang des Aspenrietwegs nördlich des Dorfes Brütten, gibt es zi
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Brütten ist eine Gemeinde die dadurch auffällt, dass sie in nichts wirklich besonders gut oder besonders schlecht ist. Brütten ist nicht allzuweit von der Stadt Winterthur entfernt aber trotzdem durch den Dättnauerberg ein wenig von ihr getrennt. Brütten ist nicht allzuweit vom Flughafen Zürich entfernt aber trotzdem weit genug, dass der Fluglärm nicht mehr ganz so schlimm ist. Brütten ist sowohl per Strasse als auch per ÖV ganz okay erschlossen, ist aber selber kein Knotenpunkt. Brütten hat keine riesigen Erhebungen in der Landschaft und kein besonderes Ausflugsziel, aber trotzdem gibt es recht schöne Aussichten in die Alpen.
+
 ## Fotos
 
 ![Das Dorf Brütten aus dem Süd-Osten](../../images/Bruetten/Bruetten_south.jpg)  
