@@ -17,6 +17,10 @@ Der höchste Punkt der Gemeinde Bubikon befindet sich auf dem [Hombergchropf](ht
 
 ### Privatverkehr
 
+Die Autobahn A15, auf diesem Teilstück auch als Oberlandautobahn bekannt, führt mehr oder weniger parallel zur östlichen Gemeindegrenze vom Betzholzkreisel im Norden nach südosten Richtung Jona und Schmerikon zur Autobahn A3. Ganz im Norden des Gemeindegebiets verläuft ausserdem auch noch die Autobahn A52, auch als Forchautobahn bekannt, vom Betzholzkreisel Richtung Nordwesten nach Gossau, Forch und Zollikerberg.  
+Der Betzholzkreisel ist ein Autobahnkreisel, bei dem die Autobahnen A15 und A52 zusammen kommen. Die Autobahn A52 endet am Betzholzkreisel während die A15 zwischen dem Betzholzkreisel und Uster einfach unterbrochen ist. Der Betzholzkreisel liegt ca. 2.3 km Luftlinie nördlich des Dorfzentrums Bubikon und ca. 3.8 km Luftlinie nord-nord-östlich des Dofrzentrums Wolfhausen.  
+Der Autobahnanschluss 11 Rüti der Autobahn A15 befindet sich direkt an der Gemeindegrenze ca. 1.2 km Luftlinie süd-östlich vom Dorfzentrum Bubikon und ca. 2.3 km Luftlinie östlich vom Dorfzentrum Wolfhausen. Der Autobahnanschluss 10 Dürnten der Autobahn A15 befindet sich nur ca. 350 m Luftlinie ausserhalb des Gemeindegebiets, ca. 1.05 km Luftlinie nord-östlich vom Dorfzentrum Bubikon und ca. 2.9 km Luftlinie nord-östlich vom Dorfzentrum Wolfhausen. Von Wolfhausen aus gesehen liegt dieser Autobahnanschluss hinter Bubikon. Ausserdem befindet sich der Autobahnanschluss 8 Ottikon der Autobahn A52 noch ca. 3.7 km Luftlinie nord-westlich vom Dorfzentrum Bubikon und ca. 4.1 km Luftlinie nord-nord-westlich vom Dorfzentrum Wolfhausen.
+
 ### Öffentlicher Verkehr
 
 ### Fussverkehr
