@@ -86,6 +86,11 @@ Der Name von Bubikon geht auf die Bezeichnung <q cite="https://www.bubikon.ch/ge
 
 ## Gemeindewappen
 
+Das Wappen der Gemeinde Bubikon ist in 4 gleich grosse Teile unterteilt. Oben links befindet sich ein durchgehendes silbernes Balkenkreuz auf rotem Hintergrund. Sowohl oben rechts als auch unten links befindet sich das gleiche schwarze, grosse, lateinische "B" mit serifen auf goldenem Hintergrund. Unten links befindet sich ein silbernes <q cite="https://www.bubikon.ch/geschichte/9695">Schwalbenschwanzkreuz</q> bzw. <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#49">Gabelkreuz</q> auf schwarzem Hintergrund. Wie bei anderen Wappen gilt auch hier dass "Gold" als "Gelb" und "Silber" als "Weiss" dargestellt wird.  
+<q cite="https://www.bubikon.ch/geschichte/9695">Das Wappen entspricht dem Wappen der Johanniterkomturei. Das silberne Balkenkreuz auf rotem Grund wurde von den Johanniterrittern während den Kreuzzügen auf den Waffenröcken getragen. Es stand für den Kampf gegen den Unglauben. Das silberne Schwalbenschwanzkreuz auf schwarzem Grund wurde von den Rittern im Dienste der Kranken getragen. Es stand für die Barmherzigkeit und für den Kampf gegen Krankheit und Not der Mitmenschen. Die beiden schwarzen B's erinnern an die Buobinge und insbesondere an den Alemannen Bubo.</q>
+
+Wolfhausen hat kein wirkliches eigenes Wappen.
+
 ### Gemeinde Logo
 
 ## Landschaft
