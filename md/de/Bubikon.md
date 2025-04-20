@@ -82,6 +82,8 @@ Ansonsten wird erwartet dass Fahrräder entweder die Strasse oder den Gehsteig b
 
 ## Gemeindename
 
+Der Name von Bubikon geht auf die Bezeichnung <q cite="https://www.bubikon.ch/geschichte/9647">Höfe der Bubinge</q> und der Name von Wolfhausen auf die Bezeichnung <q cite="https://www.bubikon.ch/geschichte/9647">Husa des Wolfgrim</q> von den Alemannen um ca. 600 n. Chr. zurück. Beide Namen basieren also auf Namen von Personen.
+
 ## Gemeindewappen
 
 ### Gemeinde Logo
