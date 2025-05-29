@@ -72,13 +72,32 @@ Ansonsten wird erwartet dass Fahrräder entweder die Strasse oder den Gehsteig b
 
 ## Schule
 
+Die Gemeinde Bubikon hat zwei Primarschulen, je eine in Bubikon und in Wolfhausen, vier Kindergärten, je zwei in Bubikon und Wolfhausen und eine Sekundarschule in Bubikon. Die nächste Kantonsschule für Bubikon befindet sich in Wetzikon.
+
 ### Primarschule
+
+Die Primarschule Bubikon befindet sich ca. 200 m Luftlinie westlich des Dorfzentrums von Bubikon. Das Schulareal umfasst 4 Schulhäuser, 1 Einzelturnhalle, 1 separates Gebäude mit einem Singsaal, 1 weitere Einzelturnhalle und 1 Schwimmhalle, die mit der Sekundarschule geteilt werden, 1 Wiese mit 2 Fussballtoren, 1 Hartplatz mit 2 Handballtoren und 4 Basketballkörben, 1 80m Sprintanlage mit 3 Bahnen und 1 Weitsprunganlage mit 3 Bahnen. Insgesamt werden in Bubikon 12 Klassen verteilt über 6 Jahrgänge unterrichtet. Im Schulhaus Mittlistberg sind es 5 Klassen, im Schulhaus Spycherwise sind es 3 Klassen, im Schulhaus Dörfli sind es 2 Klassen und im Pavillon sind es nochmals 2 Klassen.  
+Die Primarschule Wolfhausen befindet sich ca. 120 m Luftlinie östlich des Dorfzentrums von Wolfhausen. Das Schulareal umfasst 4 Schulhäuser, 1 Doppelturnhalle, 1 Wiese mit 2 Fussballtoren, 1 Hartplatz mit 4 Basketballkörben und 1 80m Sprintanlage mit 3 Bahnen. Insgesamt werden in Wolfhausen 11 Klassen verteilt über 6 Jahrgänge unterrichtet. Im Schulhaus Geissberg inklusive Pavillon sind es 5 Klassen und in den beiden Schulhäusern Fosberg weiss und gelb zusammen sind es 6 Klassen.
 
 ### Kindergarten und Spielgruppe
 
+Im Schulhaus Spycherwise in Bubikon befindet sich neben der Primarschule auch noch ein Kindergarten mit 2 Klassen. Zwischen den Schulhäusern Dörfli und Spycherwise in Bubikon befindet sich der Kindergarten Dörfli mit 2 Klassen.  
+Der Kindergarten Sunneberg in Wolfhausen befindet sich etwas neben dem Primarschule ca. 50 m Luftlinie vom Schulhaus Fosberg weiss entfernt. Dort gibt es 3 Klassen. Der Kindergarten Bühlhof, mit 1 Klasse, befindet sich im Dorfteil Oberwolfhausen ca. 400 m Luftlinie nord-westlich des Dorfzentrums Wolfhausen.
+
+In Bubikon gibt es 4 Spielgruppen, 2 im Industriegebiet und 2 etwas nord-westlich ausserhalb des Dorfes, und 2 Kindertagesstätten, 1 fast im Dorfzentrum und 1 beim Bahnhof.  
+In Wolfhausen gibt es 3 Spielgruppen, 1 unten im Schulhaus Fosberg gelb, 1 nahe am westlichen Dorfrand und 1 im Industriegebiet nahe des alten Bahnhofs, und 1 Kindertagesstätte, ebenfalls im Industriegebiet nahe des alten Bahnhofs und direkt neben der Spielgruppe.
+
 ### Sekundarschule
 
+Die Sekundarschule Bubikon befindet sich direkt neben der Primarschule Bubikon und ca. 400 m Luftlinie west-süd-westlich des Dorfzentrums Bubikon. Das Schulareal umfasst 2 verbundene Schulhäuser, 1 Einzelturnhalle und 1 Schwimmhalle, die mit der Primarschule geteilt werden, 1 Wiese mit 4 Fussballtoren, 1 Hartplatz mit 2 Handballtoren und 4 Basketballkörben, 1 Beachvolleyballfeld, 1 80m Sprintanlage mit 4 Bahnen, 1 Weitsprunganlage mit 3 Bahnen und 1 Kugelstossanlage. Insgesamt werden hier 9 Klassen verteilt über 3 Jahrgänge unterrichtet, 6 davon im Schulhaus Bergli 1 und 3 im Schulhaus Bergli 2.
+
+### Sonderschule
+
+Mit der [Schule Friedheim](https://friedheim.ch/home.html) gibt es in Bubikon auch noch eine Sonderschule. Sie befindet sich in Bubikon ca. 1.05 km Luftlinie nord-nord-östlich vom Dorfzentrum Bubikon und ca. 700 m Luftlinie nord-nord-östlich vom Bahnhof Bubikon. Die Schule bietet 4 Klassen an, die sich über insgesamt 9 Schuljahre verteilen. Jede Klasse deckt dabei jeweils 4 Schuljahre ab. In den Klassen sind jeweils durchschnittlich 8-9 Kinder/Jugendliche.
+
 ### Kantonsschule
+
+Die für Bubikon zuständige und auch nächste Kantonsschule ist die [Kantonsschule Zürcher Oberland (KZO)](https://www.kzo.ch/) in Wetzikon ca. 5.8 km Luftlinie vom Dorfzentrum Bubikon entfernt. Von Bubikon nach Wetzikon fährt Wochentags alle 15 Minuten ein S-Bahn Zug und vom Bahnhof Wetzikon zur Kantonsschule sind es dann noch ca. 400 m Fussweg. Die KZO bietet sowohl ein Lang- als auch ein Kurzgymnasium an und unterrichtet ca. 1300 Schüler\*innen.
 
 ## Gemeindename
 
