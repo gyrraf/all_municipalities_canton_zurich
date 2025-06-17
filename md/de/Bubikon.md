@@ -130,6 +130,9 @@ Das Logo wir teilweise auch ohne den Text "Gemeinde Bubikon" verwendet, aber das
 
 ## Landschaft
 
+Die Dörfer Bubikon und Wolfhausen sind durch einen kleinen Hügelzug voneinander getrennt. Trotzdem fliesst das Wasser von beiden Dörfern in den Zürichsee. Auf der Wolfhauser Seite des Hügelzugs befindet sich der Egelsee, ein Moorsee. Auf der Bubiker Seite befindet sich das Hüsliriet, ein Moor. Die Abflüsse von beiden münden in den Chämmoosweiher nahe der östlichen Gemeindegrenze. Der Abfluss des Chämmoosweihers wiederum fliesst auf der Gemeindegrenze mit einem Bach von Dürnten zusammen und wird zum Fluss Schwarz. Die Schwarz fliesst dann in Rüti in die Jona und diese dann in Jona bzw. Rapperswil in den Zürichsee.  
+Im Nord-westen des Bubiker Gemeindegebiet gibt es noch einen kleinen Bach, dessen Wasser nicht in den Zürichsee sondern in den Greifensee.
+
 ## Weiteres
 
 ## Persönliches Fazit
