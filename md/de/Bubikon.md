@@ -78,6 +78,10 @@ Und wenn auch das alles noch nicht ausreicht, dann gibt es im ebenfalls benachba
 
 ### Restaurants
 
+Direkt beim Dorfzentrum Bubikon befindet sich der [Gasthof Löwen](https://www.loewenbubikon.ch/) und nur wenige meter daneben befindet sich das [Gasthaus Blume](https://schnellaberguet.ch/Blume/). An der Dorfstrasse in Bubikon ca. 250 m Luftlinie nord-nord-östlich vom Dorfzentrum Bubikon und ca. 130 m Luftlinie süd-westlich vom Bahnhof befindet sich der [Bubikon Kebab](https://www.bubikon-kebab-house.ch/).  
+Direkt im Dorfzentrum von Wolfhausen befindet sich das [Restaurant Rosenburg](https://rosenburg.ch/). Auf der anderen Strassenseite, ebenfalls direkt im Dorfzentrum von Wolfhausen befindet sich eine Filiale der Bäckerei Steiner mit einem Café. Gerademal ca. 60 m Luftlinie westlich vom Dorfzentrum Wolfhausen befindet sich auch noch die [Trattoria Pizzeria Sale e Pepe](https://www.saleepepe.ch/).  
+Beim Seebad Egelsee, ca. 1.15 km Luftlinie südlich vom Dorfzentrum Bubikon und ca. 1.5 km Luftlinie östlich vom Dorfzentrum Wolfhausen, befindet sich das [Restaurant Egelsee](https://restaurant-egelsee.ch/).
+
 ## Schule
 
 Die Gemeinde Bubikon hat zwei Primarschulen, je eine in Bubikon und in Wolfhausen, vier Kindergärten, je zwei in Bubikon und Wolfhausen und eine Sekundarschule in Bubikon. Die nächste Kantonsschule für Bubikon befindet sich in Wetzikon.
