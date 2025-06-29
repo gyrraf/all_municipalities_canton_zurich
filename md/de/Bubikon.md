@@ -135,6 +135,8 @@ Im Nord-westen des Bubiker Gemeindegebiet gibt es noch einen kleinen Bach, desse
 
 ## Weiteres
 
+In Bubikon steht das [Ritterhaus Bubikon](https://www.ritterhaus.ch/), ein Gebäude des Johanniterordens. Das Ritterhaus ist dafür bekannt, wie gut es noch erhalten ist. Abgesehen vom Chor, der 1819 abgebrochen wurde, ist das meiste immernoch erhalten und auch die Wandmalereien sind zu einem beträchtlichen Teil noch vorhanden.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
