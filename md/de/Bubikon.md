@@ -141,6 +141,8 @@ In Bubikon steht das [Ritterhaus Bubikon](https://www.ritterhaus.ch/), ein Gebä
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Bubikon ist auffällig durch seine zwei fast gleich grossen und nicht zusammengewachsenen Dörfer. Beide Dörfer haben eigene Dorfzentrun, Industriegebiete und Primarschulen. Mit dem Bahnhof Bubikon und den Bussen ist Bubikon ziemlich gut ans ÖV-Netz angebunden. Bubikon selber hat zwar nicht sehr viele Läden, ist aber nicht weit von grösseren Läden entfernt. Bubikon hat mit dem Ritterhaus und der Uerikon-Bauma-Bahn einiges an Geschichte zu bieten. Ausserdem gibt es an einigen Stellen in Bubikon eine gute Aussicht in die Zürcher, St. Galler und sogar die Glarner Alpen.
+
 ## Fotos
 
 ![Bubikon von unterhalb des Hombergchropfs](../../images/Bubikon/Bubikon-from-below-Hombergchropf.jpg)  
