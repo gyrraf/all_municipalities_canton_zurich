@@ -142,3 +142,21 @@ In Bubikon steht das [Ritterhaus Bubikon](https://www.ritterhaus.ch/), ein Gebä
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Bubikon von unterhalb des Hombergchropfs](../../images/Bubikon/Bubikon-from-below-Hombergchropf.jpg)  
+Das Dorf Bubikon, fotografiert von Westen unterhalb des Hombergchropfs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.467573%2C8.803265#map=19/47.268398/8.803265) am 2025-02-08. (Persönlich identifizierbare Informationen wurden rauseditiert.)
+
+![Bubikon vom Lochholzweg](../../images/Bubikon/Bubikon-from-Lochholzweg.jpg)  
+Das Dorf Bubikon, fotografiert von Süd-Westen auf dem Lochholzweg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.261507%2C8.805507#map=19/47.261507/8.805507) am 2025-02-08. (Persönlich identifizierbare Informationen wurden rauseditiert.)
+
+![Bubikon vom Chäsberg](../../images/Bubikon/Bubikon-from-Chaesberg.jpg)  
+Das Dorf Bubikon, fotografiert von Nord-Westen auf dem Chäsberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.275243%2C8.813041#map=19/47.275243/8.813041) am 2025-02-08.
+
+![Wolfhausen vom Schwösterrain](../../images/Bubikon/Wolfhausen-from-Schwoesterrain.jpg)  
+Das Dorf Wolfhausen, fotografiert von Süd-Osten beim Schwösterrain [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.247764%2C8.805813#map=19/47.247764/8.805813) am 2025-06-29.
+
+![Wolfhausen vom Lochholzweg](../../images/Bubikon/Wolfhausen-from-Lochholzweg_1.jpg)  
+Das Dorf Wolfhausen, fotografiert von Nord-Westen auf dem Lochholzweg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.260449%2C8.800945#map=19/47.260449/8.800945) am 2025-02-08. (Persönlich identifizierbare Informationen wurden rauseditiert.)
+
+![Aussicht vom Hombergchropf](../../images/Bubikon/View-Hombergchropf-SSE.jpg)  
+Die Aussicht vom Hombergchropf nach Süd-Süd-Osten, fotografiert vom Hombergchropf [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.268835%2C8.803605#map=19/47.268835/8.803605) am 2025-02-08. (Persönlich identifizierbare Informationen wurden rauseditiert.)
