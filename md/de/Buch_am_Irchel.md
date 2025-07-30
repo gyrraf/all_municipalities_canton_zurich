@@ -42,6 +42,8 @@ Ausserhalb des bewohnten Gebietes hat die Gemeinde Buch am Irchel ein paar wenig
 
 ### Fahrradverkehr
 
+Explizite Fahrradinfrastruktur gibt es in Buch am Irchel so gut wie gar nicht. Es wird erwartet dass diese die Strassen und Wege einfach mit benutzen. Auf der Hauptstrasse und der Desibachstrasse könnte das unter Umständen ein wenig unangenehm für die Fahrradfahrer\*innen sein, aber an sonsten ist es selten ein Problem. Auch auf den Feld- und Waldwegen ist das aneinander vorbeikommen von Fahrrädern und Fusgänger\*innen meistens kein Problem.
+
 ## Einkaufsmöglichkeiten
 
 ### Restaurants
