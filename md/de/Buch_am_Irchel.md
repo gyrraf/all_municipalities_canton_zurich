@@ -56,8 +56,6 @@ Explizite Fahrradinfrastruktur gibt es in Buch am Irchel so gut wie gar nicht. E
 
 ### Sekundarschule
 
-### Sonderschule
-
 ### Kantonsschule
 
 ## Gemeindename
