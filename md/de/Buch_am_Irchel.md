@@ -78,6 +78,8 @@ Luftlinienmässig die nächste Kantonsschule wäre eigentlich die ca. 6.4 km Luf
 
 ## Gemeindename
 
+Das erste Mal urkundlich erwähnt wurde Buch am Irchel im Jahr <q cite="https://www.buchamirchel.ch/geschichte/5938#ict">1089</q>, auch damals schon als "Buch". <q cite="https://www.buchamirchel.ch/wappen">Den Namen hat Buch am Irchel mit grosser Wahrscheinlichkeit dem Vorhandensein grosser Buchenbestände von gewöhnlicher Art zu verdanken.</q>
+
 ## Gemeindewappen
 
 ### Gemeinde Logo
