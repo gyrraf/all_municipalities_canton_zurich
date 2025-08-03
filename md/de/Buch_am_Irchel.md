@@ -46,7 +46,14 @@ Explizite Fahrradinfrastruktur gibt es in Buch am Irchel so gut wie gar nicht. E
 
 ## Einkaufsmöglichkeiten
 
+Im Ort Buch am Irchel gibt es ausschliesslich eine Volg Filiale. Ausserhalb des Ortes, beim Bauernhof Sandwies, gibt es noch das [Hof­lädeli Sandwies](https://hofladen.sandwies.ch/).
+
+Die nächste Coop Filiale befindet sich ca. 4.3 km Luftlinie süd-östlich des Ortszentrums von Buch am Irchel, in Neftenbach. Die nächste Migros Filiale befindet sich ca. 4.0 km Luftlinie süd-süd-östlich des Ortszentrums von Buch am Irchel, in Pfungen. Die nächste Lidl Filiale befindet sich ca. 4.1 km Luftlinie süd-süd-östlich des Ortszentrums von Buch am Irchel, in Neftenbach. Die nächste Denner Express Filiale befindet sich ca. 4.1 km Luftlinie süd-östlich des Ortszentrums von Buch am Irchel, in Neftenbach und die nächste normale Denner Filiale befindet sich ca. 4.0 km Luftlinie süd-süd-östlich des Ortszentrums von Buch am Irchel, in Pfungen, im gleichen Gebäude wie die Migros Filiale. Die nächste Aldi Suisse Filiale befindet sich ca. 4.0 km Luftlinie süd-süd-westlich des Ortszentrums von Buch am Irchel, in Embrach. Die Fahrdistanz bis nach Embrach ist aber deutlich länger, da die Luftlinie quer über den Irchel geht, die Strasse aber darum herum. Die nächste Landi Filiale befindet sich ca. 3.9 km Luftlinie süd-süd-östlich des Ortszentrums von Buch am Irchel, in Neftenbach.  
+Die nächsten Einkaufszentren liegen alle in Winterthur. Das Einkaufszentrum [Lokwerk](https://lokwerk.ch/) liegt ca. 9.0 km Luftlinie süd-östlich des Ortszentrums von Buch am Irchel und enthält unter anderem eine Coop Filiale. Das Einkaufszentrum [Neuwiesen](https://neuwiesen.ch/) liegt ca. 9.2 km Luftlinie süd-östlich des Ortszentrums von Buch am Irchel direkt beim Bahnhof Winterthur und enthält unter anderem eine Migros Filiale, eine Denner Filiale und eine MediaMarkt Filiale. Das Einkaufszentrum [Archhöfe](https://archhoefe.ch/) liegt ca. 9.4 km Luftlinie süd-östlich des Ortszentrums von Buch am Irchel nahe des Bahnhofs Winterthur und enthält unter anderem eine Aldi Schweiz Filiale. Ausserdem gibt es auch am ca. 9.3 km Luftlinie süd-östlich des Ortszentrums von Buch am Irchel liegenden Bahnhof Winterthur selber noch einige Geschäfte.
+
 ### Restaurants
+
+Die Gemeinde Buch am Irchel hat nur ein Restaurant, das Restaurant [Sonne](https://www.sonne-buchamirchel.ch/), das sich direkt im Ortszentrum von Buch am Irchel befindet.
 
 ## Schule
 
