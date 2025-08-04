@@ -100,6 +100,8 @@ Am Hang des Irchels entspringt der Rohrbach, der westlich am Ort Buch am Irchel 
 
 ## Weiteres
 
+In Buch am Irchel werden in unregelmässigen Abständen Freilichtspiele aufgeführt. <q cite="https://de.wikipedia.org/wiki/Buch_am_Irchel">In den Jahren 1989, 1991 und 2018 wurde dabei ein Stück über den Mythos der Blutbuche aus dem Wappen von Buch am Irchel aufgeführt.</q>
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
