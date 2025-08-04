@@ -94,6 +94,10 @@ In kleineren Versionen wird oft auch nur eine schräge, nur sehr leicht gekrümm
 
 ## Landschaft
 
+Die Gemeinde Buch am Irchel liegt am Nordhang des Irchels am Ende eines Seitenarms des Flaachtals. Der Irchel trennt das untere Tösstal und das Flaachtal voneinander, bis beide im Rhein enden.
+
+Am Hang des Irchels entspringt der Rohrbach, der westlich am Ort Buch am Irchel vorbei und dann durch die Aussenwacht Wiler fliesst, bevor er in Flaach in den Flaachenerbach und danach in den Rhein fliesst. Der Lotzenbach fliesst von Ost nach West unngefähr entlang der nördlichen Gemeindegrenze von Buch am Irchel und danach in den Rohrbach, den Flaachenerbach und dann den Rhein. Der Tobelbach im Osten des Gemeindegebiets hingegen fliesst Richtung Süden in die Töss, die ebenfalls in den Rhein mündet.
+
 ## Weiteres
 
 ## Persönliches Fazit
