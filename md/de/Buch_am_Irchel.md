@@ -107,3 +107,39 @@ In Buch am Irchel werden in unregelmässigen Abständen Freilichtspiele aufgefü
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Der Ort Buch am Irchel vom Irchelturm](../../images/Buch_am_Irchel/Buch_am_Irchel-from-the-Irchelturm.jpg)  
+Der Ort Buch am Irchel, fotografiert aus dem Süden auf dem Irchelturm [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540574%2C8.620483#map=19/47.540574/8.620483) am 2025-07-13.
+
+![Die Kirche von Buch am Irchel](../../images/Buch_am_Irchel/Church-Buch_am_Irchel-from-the-south_west.jpg)  
+Die Kirche von Buch am Irchel, fotografiert von ein paar Metern süd-westlich [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.548656%2C8.622146#map=19/47.548656/8.622146) am 2025-07-13.
+
+![Der Ort Buch am Irchel aus dem Nord-Osten](../../images/Buch_am_Irchel/Buch_am_Irchel-from-the-north_east.jpg)  
+Der Ort Buch am Irchel, fotografiert aus dem Nord-Osten am Stammberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.556236%2C8.631729#map=19/47.556236/8.631729) am 2025-07-06.
+
+![Der Ort Buch am Irchel aus dem Norden](../../images/Buch_am_Irchel/Buch_am_Irchel-from-the-north.jpg)  
+Der Ort Buch am Irchel, fotografiert aus dem Norden am Stammberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.560243%2C8.621754#map=19/47.560243/8.621754) am 2025-07-06.
+
+![Die Aussenwacht Wiler aus dem Nord-Osten](../../images/Buch_am_Irchel/Wiler-from-the-north_east.jpg)  
+Die Aussenwacht Wiler, fotografiert aus dem Nord-Osten am Stammberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.560449%2C8.621634#map=19/47.560449/8.621634) am 2025-07-06.
+
+![Die Aussenwacht Desibach aus dem Süden](../../images/Buch_am_Irchel/Desibach-from-the-south.jpg)  
+Die Aussenwacht Desibach, fotografiert aus dem süden am Wolschberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.548866%2C8.644988#map=19/47.548866/8.644988) am 2025-07-06.
+
+![Die Aussenwacht Bebikon aus dem Nord-Westen](../../images/Buch_am_Irchel/Bebikon-from-the-north_west.jpg)  
+Die Aussenwacht Bebikon, fotografiert aus dem Nord-Westen am Wolschberg [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.545164%2C8.641809#map=19/47.545164/8.641809) am 2025-07-06.
+
+![Die Aussicht vom Irchelturm Richtung Nord-Westen](../../images/Buch_am_Irchel/View-from-Irchelturm-1.jpg)  
+Die Aussicht vom Irchelturm Richtung Nord-Westen, mit Berg am Irchel, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540574/8.620483#map=19/47.540574/8.620483) am 2025-07-13.
+
+![Die Aussicht vom Irchelturm Richtung Norden](../../images/Buch_am_Irchel/View-from-Irchelturm-2.jpg)  
+Die Aussicht vom Irchelturm Richtung Norden, mit Buch am Irchel und Volken, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540574/8.620483#map=19/47.540574/8.620483) am 2025-07-13.
+
+![Die Aussicht vom Irchelturm Richtung Nord-Osten](../../images/Buch_am_Irchel/View-from-Irchelturm-3.jpg)  
+Die Aussicht vom Irchelturm Richtung Nord-Osten, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540574/8.620483#map=19/47.540574/8.620483) am 2025-07-13.
+
+![Die Aussicht vom Irchelturm Richtung Osten](../../images/Buch_am_Irchel/View-from-Irchelturm-4.jpg)  
+Die Aussicht vom Irchelturm Richtung Osten, mit Bebikon, Seuzach, Neftenbach und Winterthur, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540574/8.620483#map=19/47.540574/8.620483) am 2025-07-13.
+
+![Die Aussicht vom Irchelturm Richtung Ost-Süd-Osten](../../images/Buch_am_Irchel/View-from-Irchelturm-5.jpg)  
+Die Aussicht vom Irchelturm Richtung Ost-Süd-Osten, mit Winterthur, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540574/8.620483#map=19/47.540574/8.620483) am 2025-07-13.
