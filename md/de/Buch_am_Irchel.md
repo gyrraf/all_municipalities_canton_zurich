@@ -106,6 +106,8 @@ In Buch am Irchel werden in unregelmässigen Abständen Freilichtspiele aufgefü
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Buch am Irchel ist eine ruhige Gemeinde, die sich mit dem Irchelturm ein schönes Ausflugsziel geschaffen hat. Allerdings hat Buch am Irchel ansonsnten nicht viel zu bieten. Für Anwohner ist die Gemeinde zwar ruhig, aber auch für sie bietet es nicht allzu viel an und ist nicht besonders gut erschlossen. Eine wirklich starke eigene Identität strahlt Buch am Irchel ebenfalls nicht aus.
+
 ## Fotos
 
 ![Der Ort Buch am Irchel vom Irchelturm](../../images/Buch_am_Irchel/Buch_am_Irchel-from-the-Irchelturm.jpg)  
