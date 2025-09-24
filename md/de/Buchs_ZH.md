@@ -51,6 +51,8 @@ Eine etwas grössere Coop Filiale gibt es im benachbarten Dällikon, ca. 1.4 km 
 
 ### Restaurants
 
+Buchs ZH hat kein wirklich bekanntes Restaurant. Das Restaurant [Frohsinn](https://frohsinn-buchs.ch/) befindet sich im Dorf Buchs an der Zürcherstrasse ca. 160 m Luftlinie östlich vom Dorfzentrum von Buchs. Das [Restaurant Weinberg](https://www.weinberg-buchs.ch/) befindet sich im Dorf Buchs an der Weinbergstrasse ca. 240 m Luftlinie nord-nord-östlich vom Dorfzentrum von Buchs. Das Bistro [Red Apple Restaurant & Pizzeria](https://www.red-apple-bistro.ch/) befindet sich am Bahnhof "Buchs-Dällikon" ca. 500 m Luftlinie südlich vom Dorfzentrum von Buchs. Das Restaurant [Johnnie Lee](https://www.johnnie-lee.ch/) befindet sich im Industriegebiet von Buchs ZH ca. 990 m Luftlinie südlich vom Dorfzentrum von Buchs. Das [Restaurant Bergwerk](https://www.restaurant-bergwerk.ch/) befindet sich am Dorfrand von Buchs an der Krähstelstrasse ca. 1.2 km Luftlinie östlich vom Dorfzentrum von Buchs.
+
 ## Schule
 
 ### Kindergarten und Spielgruppe
