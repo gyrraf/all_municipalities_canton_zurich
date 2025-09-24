@@ -40,6 +40,9 @@ Ausserhalb des Dorfgebiets hat die Gemeinde Buchs ZH mit der Boppelser- und der 
 
 ### Fahrradverkehr
 
+Die Unterführung entlang der Bahnhofstrasse unter der Furttalstrasse und die unterführung unter dem Bahnhof von der Bahnhofstrasse zur Stationsstrasse enthalten beide explizite Fahrradspuren. Die Zürcherstrasse hat kurz vor der Furttalstrasse eine explizite Fahrradabbiegerspur, damit Fahrradfahrer\*innen auf den Gehsteig wechseln können. Dieser Gehsteig führt dann auch entlang der Furttalstrasse bis zur Gemeindegrenze. Der Gehsteig entlang der Furttalstrasse Richtung Westen ist auch für den Fahrradverkehr ausgeschildert und bietet dafür auch genügen Platz. Durch das Industriegebiet entlang der Dällikerstrasse wird der Fahrradverkehr über die Gehsteige geführt.  
+Ansonsten kann der Fahrradverkehr an vielen Orten die Gehsteige und Wege für den Fussverkehr mit benützen oder einfach die Strassen. Im Dorf sind viele Strassen auf 30 km/h limitiert und ausserhalb des Dorfes sind die Boppelserstrasse, die Dielsdorferstrasse und die Krähstelstrasse nur relativ leicht befahren. Die meisten Feld- und Waldwege sind breit genug, dass der Fuss- und Fahrradverkehr problemlos aneinander vorbeikommen.
+
 ## Einkaufsmöglichkeiten
 
 ### Restaurants
