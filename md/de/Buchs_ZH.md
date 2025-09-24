@@ -45,6 +45,10 @@ Ansonsten kann der Fahrradverkehr an vielen Orten die Gehsteige und Wege für de
 
 ## Einkaufsmöglichkeiten
 
+Im Dorf Buchs gibt es eine Coop Filiale, ca. 80 m Luftlinie östlich vom Dorfzentrum von Buchs, eine VOI Migros Filiale, ca. 282 m Luftlinie süd-östlich vom Dorfzentrum von Buchs, und eine Denner Satellit Filiale, ca. 180 m Luftlinie süd-östlich vom Dorfzentrum von Buchs. Ausserdem gibt es in Buchs auch noch eine Bäckerei, die [Bäckerei Fleischli](https://www.fleischli.swiss/filialen/) ca. 180 m Luftlinie östlich vom Dorfzentrum von Buchs, und eine Metzgerei, mit der [Metzgerei Bodmer](https://metzgerei-bodmer.ch/) ebenfalls ca. 180 m Luftlinie östlich vom Dorfzentrum von Buchs.
+
+Eine etwas grössere Coop Filiale gibt es im benachbarten Dällikon, ca. 1.4 km Luftlinie südlich vom Dorfzentrum von Buchs, eine noch etwas grössere Coop Filiale gibt es im ebenfalls benachbarten Regensdorf, ca. 3.6 km Luftlinie süd-östlich vom Dorfzentrum von Buchs und die nächsten Coop City Filialen befinden sich in Oerlikon, ca. 9.8 km Luftlinie süd-östlich vom Dorfzentrum von Buchs, und in Baden, ca. 9.9 km Luftlinie westlich vom Dorfzentrum von Buchs. Die nächste grosse Migros Filiale befindet sich im benachbarten Regensdorf, ca. 3.8 km Luftlinie süd-süd-östlich vom Dorfzentrum von Buchs. Diese Migros Filiale befindet sich im Einkaufszentrum [Zentrum Regensdorf](https://zentrum-regensdorf.ch/), welches damit auch das nächstgelegene Einkaufszentrum zu Buchs ZH ist und ca. 3.8 km Luftlinie süd-süd-östlich vom Dorfzentrum von Buchs liegt. Die nächsten Aldi Suisse Filialen befinden sich in den benachbarten Gemeinden Otelfingen, ca. 2.7 km Luftlinie westlich vom Dorfzentrum von Buchs, und Regensdorf, ca. 3.5 km Luftlinie süd-östlich vom Dorfzentrum von Buchs. Die nächste Lidl Schweiz Filiale befindet sich im benachbarten Regensdorf, ca. 2.6 km Luftlinie süd-östlich vom Dorfzentrum von Buchs.
+
 ### Restaurants
 
 ## Schule
