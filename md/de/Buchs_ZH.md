@@ -78,6 +78,8 @@ Eine andere relevante Kantonsschule ist die [Kantonsschule Limmattal](https://ks
 
 ## Gemeindename
 
+Buchs ZH wird das erste mal im <q cite="https://www.buchs-zh.ch/geschichte/8171">Jahre 870 unter dem Namen "Puhsaha"</q> das erste Mal erwähnt, was in etwa <q cite="https://www.buchs-zh.ch/geschichte/8171">Bach beim Buchs</q> heisst. Die deutet darauf hin, dass der Ort Buchs nach dem Buchsbaum benannt wurde.
+
 ## Gemeindewappen
 
 ### Gemeindelogo
