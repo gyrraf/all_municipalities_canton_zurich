@@ -82,7 +82,14 @@ Buchs ZH wird das erste mal im <q cite="https://www.buchs-zh.ch/geschichte/8171"
 
 ## Gemeindewappen
 
+Die Beschreibung des Wappens von Buchs ZH lautet wie folgt: <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#50">In Gold auf grünem Boden ein oval geschnittener grüner Buchsbaum.</q> Wie bei den meisten anderen Wappen wird auch hier "Gold" mit "Gelb" repräsentiert. Der Boden ist horizontal und gerade und der Buchsbaum wird mit Blättern dargestellt. Das Grün vom Boden und vom Buchsbaum ist exakt gleich und zur abgrenzung werden schwarze Linien verwendet.
+
+Der Buchsbaum wurde <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#50">früher war der Buchsbaum auf dem Wappen noch nicht oval</q> und <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#50">später gab es auch noch eine Version des Wappens auf dem der Buchsbaum pyramidenförmig dargestellt wurde</q>.
+
 ### Gemeindelogo
+
+Das Logo der Gemeinde Buchs ZH besteht aus einem Text der sich links befindet und einem Symbol das sich rechts befindet. Das Symbol wird teilweise auch ohne den Text verwendet.  
+Der Text links besteht aus dem Text "Gemeinde" auf der ersten Zeile und "Buchs" auf der zweiten Zeile. Die beiden Zeilen sind linksbündig und unterschiedlich lang. Der Text ist in schwarz, nicht fett und mit einer Schriftart ohne Serifen geschrieben. Das erste Wort ist nur mit Grossbuchstaben aber eher klein geschrieben und der Gemeindename ist grösser und mit Gross- und Kleinbuchstaben geschrieben. Das Symbol besteht aus 3 unterschiedlichen ovalen Buchsbäumen die alle als eine simple Form ohne Blätter dargestellt sind. Der mittlere Baum ist Halbtransparent dargestellt und die anderen 2 Bäume sind durch ihn durch sichtbar. Der mittlere Baum ist auch mit Stamm und in einer gelb-grünen Farbe dargestellt. Der linke Baum ist der zweitgrösste, verwendet ein hell-grün, ist unten so abgeschnitten, dass der Stamm nicht sichtbar ist und kommt sowohl horizontal als auch Vertikal bis ungefähr in die Mitte des ersten Baums. Der rechte Baum ist der kleinste, verwendet ein dunkleres grün, ist unten so abgeschnitten, dass der Stamm nicht sichtbar ist und überlappt nur leicht mit dem ersten Baum.
 
 ## Landschaft
 
