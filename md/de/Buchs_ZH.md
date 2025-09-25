@@ -55,13 +55,28 @@ Buchs ZH hat kein wirklich bekanntes Restaurant. Das Restaurant [Frohsinn](https
 
 ## Schule
 
-### Kindergarten und Spielgruppe
+Die Gemeinde Buchs ZH hat eine eigene Primarschulgemeinde, die [Primarschule Buchs](https://www.schule.buchs-zh.ch/), und ist Teil der [Sekundarschule Regensdorf/Buchs/Dällikon](https://www.sek-regensdorf.ch/).
 
 ### Primarschule
 
+Primarschule Buchs teilt sich weiter auf in die Schuleinheiten Zihl und Zwingert.  
+Die Schulanlage Zihl befindet sich ca. 390 m Luftlinie nord-westlich vom Dorfzentrum von Buchs. Sie umfasst 4 Schulhäuser, wovon 2 durch einen überdeckten Gang miteinander verbunden sind und 1 keine Schulzimmer enthält sondern eine Einzelturnhalle. Im grössten der Schulhäuser befindet sich neben Schulzimmern auch noch ein Schwimmbad und eine Schulbibliothek. Die Aussenanlage umfasst 1 Pausenplatz mit 2 Tischtennistischen der vom überdachten Gang zwischen den beiden Schulhäusern in 2 Teile geteilt wird, 1 beleuchtbare Fussballwiese mit 2 Fussballtoren und 1 Roten platz mit 2 Handballtoren und 2 Basketballkörben, wobei das Basketballfeld quer und nur auf der hälfte des Platzes ist. In der Primarschulanlage Zihl werden 10 Klassen verteilt über 6 Jahrgänge mit jeweils einem Jahrgang pro Klasse und eine Aufnahmeklasse unterrichtet.  
+Die Schulanlage Zwingert befindet sich direkt neben der Sekundarschule Petermoos ca. 530 m Luftlinie ost-süd-östlich vom Dorfzentrum von Buchs. Sie umfasst 2 Schulhäuser, wovon 1 der Kindergarten ist. Die Schulanlage Zwingert hat keine eigene Turnhalle oder Bibliothek sondern verwendet diejenigen in der direkt daneben liegenden Pemo Arena der Sekundarschule mit. Die Aussenanlage der Schulanlage Zwingert umfasst 1 Pausenplatz mit 2 Tischtennistischen, 1 beleuchtbare Fussballwiese mit 4 Fussballtoren, 1 beleuchtbare Kreislaufanlage kombiniert mit 1 100 m Sprintanlage mit 4 Bahnen, 1 Kugelstossanlage und 1 Teerplatz mit 3 Basketballkörben und 2 Handballtoren. In der Primarschulanlage Zwingert werden 9 Klassen verteilt über 6 Jahrgänge mit jeweils einem Jahrgang pro Klasse unterrichtet.
+
+### Kindergarten und Spielgruppe
+
+Buchs hat einen Kindergarten bei der Schulanlage Zihl ca. 420 m Luftlinie nord-westlich vom Dorfzentrum von Buchs. Hier wird 1 Klasse unterrichtet. Der Kindergarten Oberdorf, der ebenfalls zur Schuleinheit Zihl gehört, befindet sich gerade mal ca. 60 m Luftlinie vom Dorfzentrum von Buchs entfernt. Hier werden 2 Klassen unterrichtet. Der Kindergarten Zwingert befindet sich bei der Schulanlage Zwingert ca. 580 m Luftlinie ost-süd-östlich vom Dorfzentrum von Buchs. Hier werden 3 Klassen unterrichtet. Die Kindervilla, die ebenfalls zur Schuleinheit Zwingert gehört, befindet sich an der Bahnhofstrasse ca. 180 m Luftlinie süd-süd-östlich vom Dorfzentrum von Buchs. Hier werden 2 Klassen unterrichtet.
+
 ### Sekundarschule
 
+Die Sekundarschule Regensdorf/Buchs/Dällikon besteht aus der Sekundarschule Ruggenacher in Regensdorf, der Sekundarschule Petermoos in Buchs ZH und der Kleingruppenschule Dällikon in Dällikon.  
+Die Sekundarschule Petermoos befindet sich direkt neben der Primarschule Zwingert ca. 650 m Luftlinie östlich vom Dorfzentrum von Buchs. Die Schulanlage Petermoos besteht aus 2 Schulhäusern, 1 davon ist weiter in 3 Teile geteilt, und der Pemo Arena. In der Pemo Arena befindet sich eine Bibliothek, der Gemeindesaal mit Bühne und eine Dreifachturnhalle. Die Aussenanlage umfasst 2 Pausenplätze, einer davon mit einem begrünten Teil, insgesamt 4 Tischtennistischen, 1 beleuchtbare Fussballwiese mit 2 Fussballtoren und 1 beleuchtbaren blauen Platz mit 2 Handballtoren und 4 Basketballkörben. An der Sekundarschule Petermoos werden 6 Lernateliers mit 18 Klassen verteilt über 3 Jahrgänge unterrichtet. (Die Sek Regensdorf verwendet keine normalen Klassen sondern Lernateliers. Wie diese genau funktionieren kann [hier](https://www.sek-regensdorf.ch/unsere-schule/schulmodell/p-74/) nachgelesen werden.)  
+Die Sekundarschule Ruggenacher in Regensdorf befindet sich ca. 3.4 km Luftlinie süd-östlich vom Dorfzentrum von Buchs und dort werden 27 Klassen bzw. 9 Lernateliers verteilt über 3 Jahrgänge unterrichtet. Die Kleingruppenschule Dällikon befindet sich nur etwa 300 m Luftlinie weit von der Gemeindegrenze zu Buchs ZH entfernt im Industriegebiet von Dällikon ca. 1.4 km Luftlinie süd-süd-östlich vom Dorfzentrum von Buchs. Dort werden 2 Klassen unterrichtet.
+
 ### Kantonsschule
+
+Die Kantonsschule die von Buchs ZH aus am meisten besucht wird ist die [Kantonsschule Zürich Nord](https://www.kzn.ch/), welche sich in Oerlikon in der Nähe des Bahnhofs befindet, ca. 9.2 km süd-östlich vom Dorfzentrum von Buchs. Sie bietet ein Langgymnasium, ein Kurzgymnasium und eine Fachmittelschule an und unterrichtet <q cite="https://www.kzn.ch/portrait">ca. 2'200 Schüler\*innen</q>.  
+Eine andere relevante Kantonsschule ist die [Kantonsschule Limmattal](https://kslzh.ch/) in Urdorf, ca. 7.3 km Luftlinie südlich vom Dorfzentrum von Buchs. Diese wäre Luftlinienmässig zwar näher, ist aber schwerer zu erreichen wegen dem Altberg der sich dazwischen befindet. Die Kantonsschule Limmattal bietet ein Langgymnasium und ein Kurzgymnasium an und unterrichtet <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Limmattal">ca. 750 Schüler\*innen</q>. Noch eine relevante Kantonsschule ist die [Kantonsschule Zürcher Unterland](https://kzu.ch/) in Bülach, ca. 10.6 km Luftlinie nord-östlich vom Dorfzentrum von Buchs. Sie bietet ein Langgymnasium und ein Kurzgymnasium an und unterrichtet <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Z%C3%BCrcher_Unterland">ca. 1'000 Schüler\*innen</q>.
 
 ## Gemeindename
 
