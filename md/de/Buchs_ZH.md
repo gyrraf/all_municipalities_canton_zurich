@@ -28,8 +28,6 @@ Die S6 bietet in Zürich Oerlikon anschluss an 9 andere S-Bahnlinien, den IC 1 n
 
 Im Zürcher Nachtnetz wird der Bahnhof "Buchs-Dällikon" und die Bushaltestellen "Petermoos", "Linde", "Post", "Buchs-Dällikon, Bahnhof" und "Industrie" bedient. Die Nacht S-Bahn SN6 bedient den Bahnhof 4-mal im Stundentakt von Zürich bzw. das letzte mal sogar von Winterthur und Richtung Würenlos und ebenfalls 4-mal im Stundentakt von Würenlos und Richtung Zürich bzw. das letzte mal sogar bis Winterthur. Die Nachtzüge verkehren zwischen 00:45 Uhr und 04:15 Uhr. Der Nachtbus N45 bedient zwischen 01:00 Uhr und 04:00 Uhr die Haltestellen "Petermoos", "Linde", "Post", "Buchs-Dällikon, Bahnhof" und "Industrie" 4-mal im Stundentakt nur zum aussteigen. Die Nachtbuslinie verkehrt jeweils von "Regensdorf-Watt, Bahnhof" via Watt nach Buchs und dann weiter nach Dällikon, Dänikon, Otelfingen und schlussendlich nach Boppelsen. In "Regensdorf-Watt, Bahnhof" kann von der Nacht S-Bahn SN6 auf die Nachtbuslinie N45 umgestiegen werden.
 
-Buchs ZH lag auch an der [alten Bahnstrecke über den Schipkapass von Niederglatt nach Otelfingen](https://eingestellte-bahnen.ch/niederglatt-otelfingen/). Diese Bahnstrecke wurde ursprünglich für den Güterverkehr gebaut, später dann aber auch für den Personenverkehr genutzt, bevor sie 1937 wieder ausser betrieb genommen wurde und ab 1969 auf Teilstrecken abgebaut wurde. In Buchs ZH selber sieht man davon noch das alte Bahnhofsgebäude und östlich des Dorfes besteht der Bahndamm noch, allerdings ohne Schienen. Ansonsten ist von der alten Bahnstrecke kaum noch etwas zu sehen.
-
 ### Fussverkehr
 
 Die Furttalstrasse hat nur ausserhalb des Dorfes Buchs einen Gehsteig. Östlich des Dorfes ubernimmt sie den Gehsteig von der Zürcherstrasse und behält diesen bis zur Gemeindegrenze und westlich des Dorfes übernimmt sie den Gehsteig von der Badenerstrasse und behält auch diesen bis zur Gemeindegrenze. Im zweiten Fall wechselt der Gehsteig am Anfang noch die Strassenseite über eine Mittelinsel ohne Zebrastreifen und Lichtsignal. Beide Gehsteige der Furttalstrasse sind jeweils durch einen Grasstreifen von der eigentlichen Strasse getrennt. Bei der Kreuzung der Furttalstrasse mit der Bahnhofstrasse besteht eine Unterführung und ein wenig westlich als auch ein wenig östlich bestehen nochmals zwei Unterführungen die es Fussgänger\*innen erlauben leichter von der einen Seite der Furttalstrasse zur anderen zu kommen.  
@@ -87,6 +85,8 @@ Eine andere relevante Kantonsschule ist die [Kantonsschule Limmattal](https://ks
 ## Landschaft
 
 ## Weiteres
+
+Buchs ZH lag um die 19. Jahrhundertwende an der [alten Bahnstrecke über den Schipkapass von Niederglatt nach Otelfingen](https://eingestellte-bahnen.ch/niederglatt-otelfingen/). Diese Bahnstrecke wurde ursprünglich für den Güterverkehr gebaut, später dann aber auch für den Personenverkehr genutzt, bevor sie 1937 wieder ausser betrieb genommen wurde und ab 1969 auf Teilstrecken abgebaut wurde. In Buchs ZH selber sieht man davon noch das alte Bahnhofsgebäude und östlich des Dorfes besteht der Bahndamm noch, allerdings ohne Schienen. Ansonsten ist von der alten Bahnstrecke kaum noch etwas zu sehen.
 
 ## Persönliches Fazit
 
