@@ -108,3 +108,21 @@ In Buchs an (und unter) der heutigen Kastellstrasse wurden überreste eines röm
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Das Dorf Buchs von Westen](../../images/Buchs_ZH/Buchs_from_below_Trueebenbachstrasse_2.jpg)  
+Das Dorf Buchs, fotografiert von Westen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.457866%2C8.429445#map=19/47.457866/8.429445) am 2025-08-24. (Persönlich identifizierbare Informationen wurde durch schwarze Formen ersetzt.)
+
+![Das Dorf Buchs von Osten](../../images/Buchs_ZH/Buchs_from_Herrenweg_1.jpg)  
+Das Dorf Buchs, fotografiert von Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.461687%2C8.450978#map=19/47.461687/8.450978) am 2025-08-17.
+
+![Der alte, obere Bahnhof](../../images/Buchs_ZH/Upper_trainstation_from_the_east.jpg)  
+Der alte, obere Bahnhof, fotografiert von Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.460317%2C8.440807#map=19/47.460317/8.440807) am 2025-08-24. (Persönlich identifizierbare Informationen wurde durch schwarze Formen ersetzt.)
+
+![Die Aussicht vom Wolfacherweg Richtung Osten](../../images/Buchs_ZH/Wolfacherweg_View_east.jpg)  
+Die Aussicht vom Wolfacherweg Richtung Osten, fotografiert von knapp nord-östlich der Gemeindegrenze [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.468075%2C8.442494#map=19/47.468075/8.442494) am 2025-08-17.
+
+![Die Feuerstelle beim Herrenweg](../../images/Buchs_ZH/Herrenweg_Fireplace.jpg)  
+Die Feuerstelle beim Herrenweg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.463534%2C8.451206#map=19/47.463534/8.451206) am 2025-08-17.
+
+![Der Brunnen am Pfaffenbühlweg](../../images/Buchs_ZH/Pfaffenbuehlweg_Fountain.jpg)  
+Der Brunnen am Pfaffenbühlweg, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.463645%2C8.428244#map=19/47.463645/8.428244) am 2025-08-17. (Persönlich identifizierbare Informationen wurde durch schwarze Formen ersetzt.)
