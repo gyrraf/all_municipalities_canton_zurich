@@ -93,6 +93,10 @@ Der Text links besteht aus dem Text "Gemeinde" auf der ersten Zeile und "Buchs" 
 
 ## Landschaft
 
+Die Gemeinde Buchs ZH befindet sich im Furttal und am Südhang eines Ausläufers der Lägern. Das Furttal wird im Norden durch die Lägern vom Wehntal getrennt und im Süden durch den Altberg vom Limmattal.
+
+Durch Buchs ZH fliesst der Furtbach von Ost nach West. Dieser fliesst dann weiter nach Westen bis Würenlos im Kanton Aargau und mündet dort in die Limmat.
+
 ## Weiteres
 
 Buchs ZH lag um die 19. Jahrhundertwende an der [alten Bahnstrecke über den Schipkapass von Niederglatt nach Otelfingen](https://eingestellte-bahnen.ch/niederglatt-otelfingen/). Diese Bahnstrecke wurde ursprünglich für den Güterverkehr gebaut, später dann aber auch für den Personenverkehr genutzt, bevor sie 1937 wieder ausser betrieb genommen wurde und ab 1969 auf Teilstrecken abgebaut wurde. In Buchs ZH selber sieht man davon noch das alte Bahnhofsgebäude und östlich des Dorfes besteht der Bahndamm noch, allerdings ohne Schienen. Ansonsten ist von der alten Bahnstrecke kaum noch etwas zu sehen.
