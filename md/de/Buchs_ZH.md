@@ -107,6 +107,9 @@ In Buchs an (und unter) der heutigen Kastellstrasse wurden überreste eines röm
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Buchs ZH ist eine ziemlich diverse Gemeinde. Oben am Hang der Lägern liegen Häuser, die relativ teuer aussehen und unten im Tal liegen Wohnblocks und Quartiere die eher günstig aussehen und die Schule sieht wiederum eher gut finanziert aus. Für Besucher\*innen scheint Buchs ZH nicht wirklich viel zu bieten zu haben. Die Lägern Hochwacht liegt in der Nähe, aber nicht in Buchs ZH, und auch der Golfplatz, liegt in der Nähe, aber nicht in Buchs ZH. Für Anwohner\*innen hat Buchs ZH einiges zu bieten, gute Verbindungen sowohl mit dem Auto als auch mit dem Öffentlichen Verkehr nach Zürich, zum Flughafen und nach Baden, eine gute Schule, Einkaufsmöglichkeiten, aber es befindet sich auch in der Abflugschneise der Piste 28 des Flughafens Zürich.  
+Eine besonders starke eigene Identität scheint Buchs ZH auch nicht zu haben.
+
 ## Fotos
 
 ![Das Dorf Buchs von Westen](../../images/Buchs_ZH/Buchs_from_below_Trueebenbachstrasse_2.jpg)  
