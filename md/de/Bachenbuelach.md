@@ -5,7 +5,7 @@
 
 Die Gemeinde Bachenbülach kann aufgeteilt werden in ein Industriegebiet und ein Wohngebiet. Das Industriegebiet befindet sich südlich der Grenzstrasse und westlich des Wohngebiets. Das Wohngebiet befindet sich entlang der Zürichstrasse mit dem grössten Teil östlich der Strasse.
 
-Bachenbülach befindet sich im Bezirk Bülach des Kantons Zürich. Im norden grenzt es an die Gemeinde Bülach, im süden an die Gemeinde Winkel und im Westen an die Gemeinden Höri und die im Bezirk Dielsdorf gelegene Gemeinde Oberglatt.  
+Bachenbülach befindet sich im Bezirk Bülach des Kantons Zürich. Im norden grenzt es an die Gemeinde [Bülach](./Buelach.md), im süden an die Gemeinde Winkel und im Westen an die Gemeinden Höri und die im Bezirk Dielsdorf gelegene Gemeinde Oberglatt.  
 Die Gemeinde ist ungefähr 13.9 km Luftlinie nördlich des Zürcher Hauptbahnhofs und 6.6 km Luftlinie nord-nord-westlich von Kloten.
 
 In Bachenbülach lebten im <q cite="https://www.bachenbuelach.ch/portraet/zahlen-und-fakten.html/7">Jahr 2022 4'262 Einwohner\*innen</q> und die Gemeinde umfasst <q cite="https://www.bachenbuelach.ch/portraet/zahlen-und-fakten.html/7">429 ha</q> oder 4.29km².
