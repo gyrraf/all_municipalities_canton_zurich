@@ -60,6 +60,9 @@ Nur ca. 400 m Luftlinie nördlich des Stadtzentrums von Bülach befindet sich da
 
 ### Restaurants
 
+Bülach hat kein speziell bekanntes Restaurant, was aber auf keinen Fall bedeutet, dass es wenige Restaurants hat. Es gibt das [Restaurant Rössli](https://www.roessli-buelach.ch/), das [Ristorante Venezia](https://www.venezia-altstadt.ch/), das Restaurant [Zum goldigen Winkel](https://zumgoldigenwinkel.ch/), das Hotel & Restaurant [zum goldenen Kopf](https://www.zum-goldenen-kopf.ch/) und das [Storchen Bistro](https://storchenbistro.ch/), alles in der Altstadt. Nördlich der Altstadt bis zum Bahnhof Bülach befinden sich auch noch die Restaurants [Paparazzi](https://paparazzi-buelach.ch/), das [Imperial Garden x Nota Sushi](https://www.imperialgarden.ch/), das [La Terra del Buon Gusto](https://laterradelbuongusto.ch/de/) und das zweite [Ristorante Venezia](https://ristorantevenezia.ch/). Ausserdem gibt es noch im südlichen Stadtgebiet das [Singapur House](https://singapur-house.ch/), im nördlichen Stadtgebiet die Bistros [Bistro Soligänter](https://www.bistro-soligaenter.ch/), [Bistro Im Guss](https://www.bistro-imguss.ch/) und [Bistro13](https://bistro13.ch/) und ausserhalb der Stadt im Weiler Nussbaumen den [Landgasthof Sternen](https://sternen-nussbaumen.ch/).  
+Ausserdem hat Bülach auch noch 2 McDonald's Filialen und 2 Migros Take Aways.
+
 ## Schule
 
 ### Primarschule
