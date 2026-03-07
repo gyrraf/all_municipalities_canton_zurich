@@ -65,13 +65,41 @@ Ausserdem hat Bülach auch noch 2 McDonald's Filialen und 2 Migros Take Aways.
 
 ## Schule
 
+Die Gemeinde Bülach hat die [Primarschule Bülach](https://www.schule-buelach.ch/) und die [Sekundarschule Bülach](https://www.sekbuelach.ch/). Ausserdem befinden sich auch noch die [Kantonsschule Zürcher Unterland](https://kzu.ch/), die [Berufsschule Bülach](https://www.bsbuelach.ch/) und die [Berufswahlschule Bülach](https://www.bws-buelach.ch/index.php) in Bülach.
+
 ### Primarschule
+
+Die Primarschule Bülach teilt sich weiter auf in die Schuleinheiten [Allmend](https://www.schule-buelach.ch/schulen/schule-allmend/), [Hohfuri](https://www.schule-buelach.ch/schulen/schule-hohfuri/), [Lindenhof](https://www.schule-buelach.ch/schulen/schule-lindenhof/) und [Schwerzgrueb](https://www.schule-buelach.ch/schulen/schule-schwerzgrueb/).  
+Die Schulanlage Allmend befindet sich ca. 940 m Luftlinie süd-westlich vom Stadtzentrum von Bülach. Sie umfasst 2 Schulhäuser und 1 Dreifachturnhalle in einem eigenen Gebäude und zusätzlich 2 Kindergartengebäude. Die Aussenanlage umfasst 2 verbundene Pausenplätze, 2 Tischtennistische, 1 Fussballwiese und 1 Allwetterplatz. Teile der Schulanlage befanden sich, zum Zeitpunkt als dieser Beitrag verfasst wurde, noch im (Um-)Bau.  
+Die Schulanlage Hohfuri befindet sich ca. 1.0 km Luftlinie nord-nord-östlich vom Stadtzentrum von Bülach. Sie umfasst 3 Schulhäuser inklusive einer Einzelturnhalle, 1 Singsaal in einem eigenen Gebäude und 3 Kindergartengebäude in der Umgebung der Schule. Die Aussenanlage umfasst 1 Pausenplatz, 1 Fussballwiese mit 4 Fussballtoren, 1 Hartplatz und 1 kombinierte 100-Meter-Sprint- und Weitsprunganlage mit 4 Bahnen. In der Primarschulanlage Hohfuri werden <q cite="https://www.schule-buelach.ch/schulen/schule-hohfuri/">ca. 640 Schülerinnen und Schüler</q> in <q cite="https://www.schule-buelach.ch/schulen/schule-hohfuri/">22 Klassen</q> unterrichtet.  
+Die Schulanlage Lindenhof befindet sich ca. 310 m Luftlinie nord-westlich vom Stadtzentrum von Bülach. Sie umfasst 3 Schulhäuser und 4 Kindergartengebäude in der Umgebung der Schule. Die Aussenanlage umfasst 1 Pausenplatz, der auch gleichzeitig als Hartplatz dient, mit 2 Handballtoren. In der Primarschulanlage Lindenhof werden <q cite="https://www.schule-buelach.ch/schulen/schule-lindenhof/">ca. 570 Kinder</q> unterrichtet.  
+Die Schulanlage Schwerzgrueb befindet sich ca. 430 m Luftlinie süd-östlich vom Stadtzentrum von Bülach. Sie umfasst 1 Schulhaus mit integrierter Einzelturnhalle und Schwimmhalle. Die Aussenanlage umfasst 1 Pausenplatz mit 1 Schachfeld und 1 Mühlefeld, 2 Tischtennistischen, 1 Fussballwiese mit 2 kleinen Toren, 1 Roter Platz mit 2 Handballtoren, 1 Hartplatz mit 2 Basketballkörben, 1 100-Meter-Sprintanlage mit 4 Bahnen und 1 Weitsprunganlage mit 2 Bahnen. In der Primarschulanlage Schwerzgrueb werden <q cite="https://www.schule-buelach.ch/schulen/schule-schwerzgrueb/">370 Kinder</q> in <q cite="https://www.schule-buelach.ch/schulen/schule-schwerzgrueb/">17 Klassen</q> unterrichtet.
 
 ### Kindergarten und Spielgruppe
 
+Bülach hat Kindergärten als Teil von jeder der 4 Primarschuleinheiten.  
+Die Schuleinheit Allmend hat 7 Kindergärten in 2 Gebäuden direkt nördlich der Primarschule.  
+Die Schuleinheit Hohfuri hat <q cite="https://www.schule-buelach.ch/schulen/schule-hohfuri/">8 Kindergärten</q> in 4 Gebäuden. Der Kindergarten Hohfuri befindet sich direkt nördlich der Primarschule. Der Kindergarten Bergli befindet sich ca. 300 m Luftlinie süd-östlich von der Primarschule. Der Kindergarten Soliboden befindet sich ca. 170 m Luftlinie südlich von der Primarschule. Der Kindergarten Soligänter befindet sich ca. 190 m Luftlinie nördlich von der Primarschule.  
+Die Schuleinheit Lindenhof hat 9 Kindergärten in 4 Gebäuden und einen Waldkindergarten. Der Kindergarten Lindenhof 1-4 befindet sich in 2 Gebäuden direkt nördlich der Primarschule. Der Kindergarten Lindenhof Süd 1&2 befindet sich ca. 280 m Luftlinie südlich von der Primarschule. Die Kindergärten 1-3 befinden sich aktuell in einem Provisorium ca. 310 m Luftlinie süd-westlich der Primarschule.  
+Die Schuleinheit Schwerzgrueb hat 2 Kindergarteneinheiten in 3 Gebäuden. Der Kindergarten Schwerzgrueb befindet sich mit 2 Gebäuden direkt südlich von der Primarschule. Der Kindergarten Witewise befindet sich ca. 450 m Luftlinie nördlich der Primarschule.
+
 ### Sekundarschule
 
+Die Sekundarschule Bülach besteht aus der [Schule Hinterbirch](https://www.sekbuelach.ch/schule-hinterbirch/unsere-schule/portraet/p-120/) (auch "Hibi" genannt) und der [Schule Mettmenriet](https://www.sekbuelach.ch/schule-mettmenriet/unsere-schule/portraet/p-189/) (auch "Mettmi" genannt). Die gesamte Sekundarschule unterrichtet <q cite="https://www.sekbuelach.ch/">über 1000 Schülerinnen und Schüler</q> nicht nur aus der Stadt Bülach sondern auch aus den <q cite="über 1000 Schülerinnen und Schüler">umliegenden Gemeinden Winkel, Bachenbülach, Höri und Hochfelden</q>.  
+Die Sekundarschule Hinterbirch befindet sich ca. 850 m Luftlinie west-nord-westlich vom Stadtzentrum von Bülach. Sie umfasst 3 Schulhäuser und eine Aussenanlage mit 1 Pausenplatz, 2 Tischtennistische, 1 roter Platz mit 1 Handballfeld inklusive 2 Handballtoren und 2 kleinen Basketballfeldern inklusive insgesamt 4 Körben, 1 Fussballwiese mit 2 Toren, 1 120m Sprintanlage mit 4 Bahnen und 1 Weitsprunganlage mit 2 Bahnen. In der Sekundarschule Hinterbirch werden <q cite="https://www.sekbuelach.ch/schule-hinterbirch/unsere-schule/portraet/p-120/">ca. 450 Jugendliche</q> verteilt über 3 Schuljahre und die 3 Abteilungen — A, B und C — in insgesamt 25 nach Abteilung und Jahr getrennten Klassen unterrichtet.  
+Die Sekundarschule Mettmenriet befindet sich ca. 650 m Luftlinie süd-süd-östlich vom Stadtzentrum von Bülach. Sie umfasst 1 grosses Schulhaus mit 4 Teilen und eine Aussenanlage mit 1 roter Platz mit 1 Handballfeld inklusive 2 Handballtoren und 2 kleinen Basketballfeldern inklusive insgesamt 4 Körben, 1 Fussballwiese mit 2 Toren, 1 100m Sprintanlage mit 3 Bahnen und 1 Weitsprunganlage mit 2 Bahnen. In der Sekundarschule Mettmenriet werden <q cite="https://www.sekbuelach.ch/schule-mettmenriet/unsere-schule/portraet/p-189/">rund 530 Schülerinnen und Schüler</q> verteilt über 3 Schuljahre und die 3 Abteilungen — A, B und C — in insgesamt 28 nach Abteilung und Jahr getrennten Klassen unterrichtet.
+
 ### Kantonsschule
+
+Die [Kantonsschule Zürcher Unterland](https://kzu.ch/) (kurz "KZU"), die für den gesamten Bezirk Bülach zuständig ist, befindet sich in Bülach, ca. 530 m Luftlinie östlich vom Stadtzentrum von Bülach. Die KZU bietet ein Lang- und ein Kurzgymnasium an und unterrichtet laut Wikipedia <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Z%C3%BCrcher_Unterland">ca. 1000 Schüler\*innen</q>.
+
+### Berufsschule
+
+Die [Berufsschule Bülach](https://www.bsbuelach.ch/) (kurz "BSB") hat ihren Hauptstandort ca. 520 m Luftlinie ost-süd-östlich vom Stadtzentrum von Bülach und einen kleineren Standort für die Elektro-Berufe ca. 380 m Luftlinie nord-nord-westlich vom Stadtzentrum von Bülach. Die Berufsschule bietet Kurse in den Bereichen Elektro, Maschinenbau und Wirtschaft an.
+
+### Weitere
+
+In Bülach befindet sich ausserdem noch die [Berufswahlschule Bülach](https://www.bws-buelach.ch/index.php) (kurz "BWS Bülach"), die Berufsvorbereitungsjahre anbietet, und im Weiler Heimgarten das [Schulinternat Heimgarten](https://www.heimgarten.ch/).
 
 ## Gemeindename
 
