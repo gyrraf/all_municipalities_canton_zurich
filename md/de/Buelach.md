@@ -115,6 +115,10 @@ Das Logo der Gemeinde Bülach besteht aus einem Text links und einem Symbol rech
 
 ## Landschaft
 
+Die Gemeinde Bülach befindet sich im relativ grossflächigen Glatttal zwischen der Glatt im Westen, dem Dättenberg im Osten, dem Rhinsberg im Norden und dem Büliberg im Süd-Osten. Der Dättenberg trennt das Glatttal vom Tösstal und der Rhinsberg trennt das Glatttal vom Rhein.
+
+Durch Bülach, entlang der westlichen Gemeindegrenze, fliesst die Glatt Richtung Norden. Ausserdem fliesst der Sechtbach von Osten und der Rietbach von Süden durch die Stadt Bülach bis in die Glatt.
+
 ## Weiteres
 
 ## Persönliches Fazit
