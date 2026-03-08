@@ -123,6 +123,8 @@ Durch Bülach, entlang der westlichen Gemeindegrenze, fliesst die Glatt Richtung
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Bülach ist relativ gross und bietet, vorallem für Anwohner\*innen aus Bülach und der Umgebung, ziemlich viel an. Bülach hat Schulen, ein Spital, einen Bahnhof mit Verbindungen nach Zürich, Winterthur und Schaffhausen, ein Einkaufszentrum, Restaurants, ein Freibad und einiges mehr.
+
 ## Fotos
 
 ![Die Stadt Bülach von Süd-Osten](../../images/Buelach/Buelach-from-near-Bueliberg.jpg)  
