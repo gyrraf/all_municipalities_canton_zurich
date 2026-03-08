@@ -119,8 +119,6 @@ Die Gemeinde Bülach befindet sich im relativ grossflächigen Glatttal zwischen 
 
 Durch Bülach, entlang der westlichen Gemeindegrenze, fliesst die Glatt Richtung Norden. Ausserdem fliesst der Sechtbach von Osten und der Rietbach von Süden durch die Stadt Bülach bis in die Glatt.
 
-## Weiteres
-
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
