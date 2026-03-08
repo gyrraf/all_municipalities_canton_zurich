@@ -105,7 +105,11 @@ In Bülach befindet sich ausserdem noch die [Berufswahlschule Bülach](https://w
 
 ## Gemeindewappen
 
+Die Beschreibung des Wappens von Bülach lautet wie folgt: <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#51">In Rot der silberne Laurentiusrost</q>. Wie bei den meisten anderen Wappen wird auch hier "Silber" mit "Weiss" repräsentiert. Der Laurentiusrost wird mit einer vertikalen Mittellamelle, 4 horizontalen Lamellen und einem Hacken der nach links offen ist, dargestellt.
+
 ### Gemeindelogo
+
+Das Logo der Gemeinde Bülach besteht aus einem Text links und einem Symbol rechts. Der Text links ist "Stadt Bülach" auf einer Zeile. Für den Text wird eine Schriftart ohne Serifen, in schwarz, nicht Fett und mit Gross- und Kleinbuchstaben verwendet. Das Symbol rechts zeigt den Laurentiusrost aus dem Wappen ohne den Haken oben aber etwas 3-Dimensional gedreht, auf einem roten Trapez als Hintergrund.
 
 ## Landschaft
 
