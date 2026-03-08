@@ -103,6 +103,8 @@ In Bülach befindet sich ausserdem noch die [Berufswahlschule Bülach](https://w
 
 ## Gemeindename
 
+Bülach wurde das erste mal im <q cite="https://de.wikipedia.org/wiki/B%C3%BClach#Geschichte">Jahre 811 unter dem Namen "Pulacha"</q> erwähnt. Der Name hiess in etwa <q cite="https://de.wikipedia.org/wiki/B%C3%BClach#Geschichte">«Landgut des Pullius»</q>.
+
 ## Gemeindewappen
 
 Die Beschreibung des Wappens von Bülach lautet wie folgt: <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#51">In Rot der silberne Laurentiusrost</q>. Wie bei den meisten anderen Wappen wird auch hier "Silber" mit "Weiss" repräsentiert. Der Laurentiusrost wird mit einer vertikalen Mittellamelle, 4 horizontalen Lamellen und einem Hacken der nach links offen ist, dargestellt.
