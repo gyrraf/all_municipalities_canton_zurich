@@ -124,3 +124,21 @@ Durch Bülach, entlang der westlichen Gemeindegrenze, fliesst die Glatt Richtung
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Die Stadt Bülach von Süd-Osten](../../images/Buelach/Buelach-from-near-Bueliberg.jpg)  
+Die Stadt Bülach, fotografiert von Süd-Osten beim Waldrand nahe des Bülibergs [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.513732%2C8.569894#map=19/47.513732/8.569894) am 2025-10-19.
+
+![Die Stadt Bülach von Osten](../../images/Buelach/Buelach-from-near-Eschenmosen-1.jpg)  
+Die Stadt Bülach, fotografiert von Osten nördlich von Eschenmosen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.520114%2C8.563634#map=19/47.520114/8.563634) am 2025-10-19.
+
+![Der Weiler Eschenmosen von Norden](../../images/Buelach/Eschenmosen.jpg)  
+Der Weiler Eschenmosen, fotografiert von Norden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.520114%2C8.563634#map=19/47.520114/8.563634) am 2025-10-19.
+
+![Der Weiler Nussbaumen von Norden](../../images/Buelach/Nussbaumen.jpg)  
+Der Weiler Nussbaumen, fotografiert von Norden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.533947%2C8.559401#map=19/47.533947/8.559401) am 2025-10-19.
+
+![Aussicht vom Aussichtsturm Petersboden Richtung Süden](../../images/Buelach/Viewing_platform-view-south.jpg)  
+Die Aussicht vom Aussichtsturm Petersboden Richtung Süden und der Stadt Bülach, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.540085%2C8.554820#map=19/47.540085/8.554820) am 2025-10-19.
+
+![Aussicht vom südlichsten Punkt Richtung Nord-Westen](../../images/Buelach/southernmost_point-view-north_west.jpg)  
+Die Aussicht vom südlichsten Punkt der Gemeinde Bülach Richtung Nord-Westen, fotografiert von [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.499035%2C8.522392#map=19/47.499035/8.522392) am 2026-02-15.
