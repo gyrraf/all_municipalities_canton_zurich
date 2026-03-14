@@ -74,11 +74,11 @@ Die Sekundarschule Ruggenacher in Regensdorf befindet sich ca. 3.4 km Luftlinie 
 ### Kantonsschule
 
 Die Kantonsschule die von Buchs ZH aus am meisten besucht wird ist die [Kantonsschule Zürich Nord](https://www.kzn.ch/), welche sich in Oerlikon in der Nähe des Bahnhofs befindet, ca. 9.2 km süd-östlich vom Dorfzentrum von Buchs. Sie bietet ein Langgymnasium, ein Kurzgymnasium und eine Fachmittelschule an und unterrichtet <q cite="https://www.kzn.ch/portrait">ca. 2'200 Schüler\*innen</q>.  
-Eine andere relevante Kantonsschule ist die [Kantonsschule Limmattal](https://kslzh.ch/) in Urdorf, ca. 7.3 km Luftlinie südlich vom Dorfzentrum von Buchs. Diese wäre Luftlinienmässig zwar näher, ist aber schwerer zu erreichen wegen dem Altberg der sich dazwischen befindet. Die Kantonsschule Limmattal bietet ein Langgymnasium und ein Kurzgymnasium an und unterrichtet <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Limmattal">ca. 750 Schüler\*innen</q>. Noch eine relevante Kantonsschule ist die [Kantonsschule Zürcher Unterland](https://kzu.ch/) in Bülach, ca. 10.6 km Luftlinie nord-östlich vom Dorfzentrum von Buchs. Sie bietet ein Langgymnasium und ein Kurzgymnasium an und unterrichtet <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Z%C3%BCrcher_Unterland">ca. 1'000 Schüler\*innen</q>.
+Eine andere relevante Kantonsschule ist die [Kantonsschule Limmattal](https://kslzh.ch/) in Urdorf, ca. 7.3 km Luftlinie südlich vom Dorfzentrum von Buchs. Diese wäre Luftlinienmässig zwar näher, ist aber schwerer zu erreichen, wegen dem Altberg der sich dazwischen befindet. Die Kantonsschule Limmattal bietet ein Langgymnasium und ein Kurzgymnasium an und unterrichtet <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Limmattal">ca. 750 Schüler\*innen</q>. Noch eine relevante Kantonsschule ist die [Kantonsschule Zürcher Unterland](https://kzu.ch/) in Bülach, ca. 10.6 km Luftlinie nord-östlich vom Dorfzentrum von Buchs. Sie bietet ein Langgymnasium und ein Kurzgymnasium an und unterrichtet <q cite="https://de.wikipedia.org/wiki/Kantonsschule_Z%C3%BCrcher_Unterland">ca. 1'000 Schüler\*innen</q>.
 
 ## Gemeindename
 
-Buchs ZH wird das erste mal im <q cite="https://www.buchs-zh.ch/geschichte/8171">Jahre 870 unter dem Namen "Puhsaha"</q> das erste Mal erwähnt, was in etwa <q cite="https://www.buchs-zh.ch/geschichte/8171">Bach beim Buchs</q> heisst. Die deutet darauf hin, dass der Ort Buchs nach dem Buchsbaum benannt wurde.
+Buchs ZH wird im <q cite="https://www.buchs-zh.ch/geschichte/8171">Jahre 870 unter dem Namen "Puhsaha"</q> das erste Mal erwähnt, was in etwa <q cite="https://www.buchs-zh.ch/geschichte/8171">Bach beim Buchs</q> heisst. Dies deutet darauf hin, dass der Ort Buchs nach dem Buchsbaum benannt wurde.
 
 ## Gemeindewappen
 
