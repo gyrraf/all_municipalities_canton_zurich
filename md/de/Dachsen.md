@@ -18,6 +18,11 @@ Dachsen liegt an der Autobahn [A4](https://www.openstreetmap.org/relation/192156
 
 ### Öffentlicher Verkehr
 
+Dachsen liegt im ZVV in der Tarifzone 116. Dachsen hat einen Bahnhof und 2 Bushaltestellen. Der Bahnhof Dachsen befindet sich nur ca. 100 m Luftlinie süd-westlich vom Dorfzentrum und wird von den S-Bahn-Linien S12 und S33 bedient. Beide Linien verkehren Richtung Norden bis Schaffhausen und Richtung Süden nach Andelfingen und Winterthur und die S12 führt dort noch weiter nach Zürich Stadelhofen, Zürich HB, Zürich Hardbrücke, Zürich Altstetten, Dietikon, Baden und Brugg im Kanton Aargau. Beide Linien verkehren in einem Stundentakt, ergänzen sich aber nicht zu einem perfekten Halbstundentakt.  
+Die Bushaltestelle "Dachsen, Bahnhof" befindet sich direkt auf der nord-östlichen Seite des Bahnhofs Dachsen. Die Bushaltestelle "Lindenstrasse" befindet sich im östlichen Teil des Dorfes, bei der Verzweigung der Dorfstrasse, Uhwieserstrasse und Benkernerstrasse. Beide Haltestellen werden ausschliesslich von der Buslinie 634 bedient. Die Busline 634 verkehrt im Stundentakt, nur von Montag bis Samstag und jeweils nur von 6 Uhr bzw. Samstags sogar erst von 7 Uhr bis 20 Uhr. Von Dachsen verkehrt die Buslinie nach Uhwiesen, Flurlingen, Feuerthalen und Schaffhausen. Die Busse bieten in Dachsen Bahnhof guten Anschluss an die Züge der S33 in beide Richtungen und auch umgekehrt, die Züge der S33 aus beiden Richtungen bieten guten Anschluss an die Busse der Linie 634.
+
+Im Zürcher Nachtnetz wird der Bahnhof Dachsen 4-Mal im Stundentakt von Winterthur Richtung Schaffhausen und 3-Mal im Stundentakt, mit einem fehlend Zug um 02 Uhr, von Schaffhausen Richtung Winterthur von der Nacht-S-Bahn SN3 bedient. Die Bushaltestellen werden im Nachtnetz beide nicht bedient.
+
 ### Fussverkehr
 
 ### Fahrradverkehr
