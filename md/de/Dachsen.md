@@ -14,6 +14,8 @@ Der [höchste Punkt der Gemeinde Dachsen](https://www.openstreetmap.org/#map=19/
 
 ### Privatverkehr
 
+Dachsen liegt an der Autobahn [A4](https://www.openstreetmap.org/relation/192156), welche von Norden nach Süden entlang der östlichen Gemeindegrenze führt. Die Autobahnausfahrt 7 Uhwiesen, befindet sich nur ein paar Meter nördlich der Dachsener Gemeindegrenze in Laufen-Uhwiesen. Von dieser Autobahnausfahrt führt die Laufenerstrasse von Norden nach Süden quer durch das Dorf Dachsen. Im Dorf Dachsen wird sie dann zur Dorfstrasse und führt weiter bis zur Verzweigung mit der Uhwieserstrasse und der Benkernerstrasse im östlichen Teil des Dorfes. Die Uhwieserstrasse führt von dort weiter nach Uhwiesen und die Benkernerstrasse weiter nach Benken. Die Autobahn A4 führt von Dachsen aus Richtung Norden nach Schaffhausen und Thayngen und Richtung Süden nach Andelfingen und Winterthur.
+
 ### Öffentlicher Verkehr
 
 ### Fussverkehr
