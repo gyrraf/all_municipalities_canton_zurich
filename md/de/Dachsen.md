@@ -29,6 +29,8 @@ Im Zürcher Nachtnetz wird der Bahnhof Dachsen 4-Mal im Stundentakt von Winterth
 
 ## Einkaufsmöglichkeiten
 
+In Dachsen selbst gibt es eine Volg Filiale und die Bäckerei [Brot vom Held](https://www.dachsen.ch/firmenverzeichnis/252436). Die nächsten grösseren Einkaufsmöglichkeiten befinden sich in Neuhausen, Feuerthalen, Kleinandelfingen und Schaffhausen.
+
 ### Restaurants
 
 ## Schule
