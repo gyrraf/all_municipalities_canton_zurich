@@ -32,6 +32,8 @@ Ausserhalb des Dorfes hat Dachsen auch noch einige Feldwege, inklusive enem Weg 
 
 ### Fahrradverkehr
 
+Den einzigen gekennzeichneten Fahrradweg gibt es an der Laufenerstrasse vom Dorfausgang bis zur Gemeindegrenze. Mit dem Fahrrad kann aber auch ohne grosse Probleme auf den Strassen und den meisten Feldwegen gefahren werden.
+
 ## Einkaufsmöglichkeiten
 
 In Dachsen selbst gibt es eine Volg Filiale und die Bäckerei [Brot vom Held](https://www.dachsen.ch/firmenverzeichnis/252436). Die nächsten grösseren Einkaufsmöglichkeiten befinden sich in Neuhausen, Feuerthalen, Kleinandelfingen und Schaffhausen.
