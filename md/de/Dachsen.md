@@ -50,6 +50,8 @@ In Dachsen selbst gibt es eine Volg Filiale und die Bäckerei [Brot vom Held](ht
 
 ## Gemeindename
 
+<q cite="https://www.dachsen.ch/portraitgeschichte">Die Gemeinde Dachsen wurde im Jahr 876 unter dem Namen "Tachsheim" das erste mal erwähnt.</q>
+
 ## Gemeindewappen
 
 Die Beschreibung des Wappens von Bülach lautet wie folgt: <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#51">Schräggeteilt von Silber und Rot; oben eine rote Pflugschar, unten ein silbernes Rebmesser mit goldenem Griff.</q>
