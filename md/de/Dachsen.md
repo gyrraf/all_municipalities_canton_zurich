@@ -52,7 +52,13 @@ In Dachsen selbst gibt es eine Volg Filiale und die Bäckerei [Brot vom Held](ht
 
 ## Gemeindewappen
 
+Die Beschreibung des Wappens von Bülach lautet wie folgt: <q cite="https://www.e-periodica.ch/digbib/view?pid=mag-001:1977:49::7#51">Schräggeteilt von Silber und Rot; oben eine rote Pflugschar, unten ein silbernes Rebmesser mit goldenem Griff.</q>
+
+Das Wappen unterscheidet sich von demjenigen der Gemeinde Benken nur darin, dass die Farbe Blau mit Rot ersetzt wurde.
+
 ### Gemeindelogo
+
+Das Logo der Gemeinde Dachsen zeigt das Wappen links vom Text "Dachsen" auf der ersten Zeile und "im Zürcher Weinland | Region Rheinfall". Der gesamte Text verwendet eine schwarze Schriftfarbe und eine Schriftart ohne Serifen. Die erste Zeile verwendet nur Grossbuchstaben und ist auch deutlich grösser geschrieben, so dass es gleich lang erscheint wie die zweite Zeile.
 
 ## Landschaft
 
