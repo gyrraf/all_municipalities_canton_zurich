@@ -38,8 +38,6 @@ Den einzigen gekennzeichneten Fahrradweg gibt es an der Laufenerstrasse vom Dorf
 
 In Dachsen selbst gibt es eine Volg Filiale und die Bäckerei [Brot vom Held](https://www.dachsen.ch/firmenverzeichnis/252436). Die nächsten grösseren Einkaufsmöglichkeiten befinden sich in Neuhausen, Feuerthalen, Kleinandelfingen und Schaffhausen.
 
-### Restaurants
-
 ## Schule
 
 ### Primarschule
