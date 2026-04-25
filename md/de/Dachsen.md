@@ -42,11 +42,15 @@ In Dachsen selbst gibt es eine Volg Filiale und die Bäckerei [Brot vom Held](ht
 
 ### Primarschule
 
-### Kindergarten und Spielgruppe
+Dachsen hat eine eigene Primarschule mit Kindergarten und diese befindet sich direkt im Zentrum des Dorfes. An der Schule werden <q cite="https://primarschuledachsen.ch/">rund 160 Kinder</q> über <q cite="https://primarschuledachsen.ch/primarschule/">7 Primarklassen und 2 Kindergartenklassen</q> unterrichtet. Die Schule hat 1 grosses Schulhaus und 1 Mehrzweckgebäude mit Turnhalle und ein Aussenareal mit grossem Pausenplatz und 1 100m Sprintanlage mit 3 Bahnen, 1 Beachvolleyballfeld, 1 Fussballwiese und 1 Hartplatz.
 
 ### Sekundarschule
 
+Die Gemeinde Dachsen ist Teil der Sekundarschule Kreis Uhwiesen, zusammen mit den Gemeinden Laufen-Uhwiesen und Flurlingen. Die Schulanlage befindet sich in Uhwiesen ca. 1.3 km Luftlinie nord-östlich vom Dorfzentrum von Dachsen. An der Schule werden <q cite="https://www.seku.ch/portrait-leitbild.htm">gut 135 Schülerinnen und Schüler</q> <q cite="https://www.seku.ch/portrait-leitbild.htm">in 7 Klassen</q> unterrichtet. Die Klassen sind sowohl nach Jahrgängen und Niveau getrennt, aber alle 3 Jahrgänge mit Niveau C sind als eine Klasse geführt.
+
 ### Kantonsschule
+
+Der Bezirk Andelfingen hat keine eigene Kantonsschule. Die Nächsten Zürcher Kantonsschulen sind die Kantonsschule Zürcher Unterland in Bülach oder die Kantonsschulen Rychenberg, "im Lee" oder Büelrain in Winterthur.
 
 ## Gemeindename
 
