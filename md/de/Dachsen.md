@@ -68,6 +68,10 @@ Das Logo der Gemeinde Dachsen zeigt das Wappen links vom Text "Dachsen" auf der 
 
 ## Landschaft
 
+Die Gemeinde Dachsen liegt am Rhein nicht weit vom Rheinfall entfernt. Dachsen liegt ausserdem am Ende des Westhangs des Kohlfirstes.
+
+Der Mülibach fliesst von Uhwiesen im Nord-Osten durch das Gemeindegebiet von Dachsen in den Rhein. Er trennt das Dorf ziemlich stark in zwei Teile.
+
 ## Persönliches Fazit
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
