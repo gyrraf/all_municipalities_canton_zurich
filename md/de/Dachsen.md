@@ -77,3 +77,21 @@ Der Mülibach fliesst von Uhwiesen im Nord-Osten durch das Gemeindegebiet von Da
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
 ## Fotos
+
+![Der zentrale Teil des Dorfes Dachsen von Nord-Osten](../../images/Dachsen/Dachsen-central.jpg)  
+Der zentrale Teil des Dorfes Dachsen, fotografiert von Nord-Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.668815%2C8.618469#map=19/47.668815/8.618469) am 2026-04-12. (Persönlich identifizierbare Informationen wurden durch schwarze Formen ersetzt.)
+
+![Der südlich-zentrale Teil des Dorfes Dachsen von Osten](../../images/Dachsen/Dachsen-central_south-e.jpg)  
+Der südlich-zentrale Teil des Dorfes Dachsen, fotografiert von Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.665630%2C8.619858#map=19/47.665630/8.619858) am 2026-04-12. (Persönlich identifizierbare Informationen wurden durch schwarze Formen ersetzt.)
+
+![Der zentrale Teil des Dorfes Dachsen von Ost-Süd-Osten](../../images/Dachsen/Dachsen-central-ese.jpg)  
+Der zentrale Teil des Dorfes Dachsen, fotografiert von Ost-Süd-Osten [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.665630%2C8.619858#map=19/47.665630/8.619858) am 2026-04-12. (Persönlich identifizierbare Informationen wurden durch schwarze Formen ersetzt.)
+
+![Der süd-östliche Teil des Dorfes Dachsen von Norden](../../images/Dachsen/Dachsen-south_east-n.jpg)  
+Der süd-östliche Teil des Dorfes Dachsen, fotografiert von Norden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.665630%2C8.619858#map=19/47.665630/8.619858) am 2026-04-12. (Persönlich identifizierbare Informationen wurden durch schwarze Formen ersetzt.)
+
+![Der nördliche Teil des Dorfes Dachsen von Süden](../../images/Dachsen/Dachsen-north.jpg)  
+Der nördliche Teil des Dorfes Dachsen, fotografiert von Süden [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.665226%2C8.610722#map=19/47.665226/8.610722) am 2026-03-15.
+
+![Der südliche Teil des Dorfes Dachsen von Westen](../../images/Dachsen/Dachsen-south.jpg)  
+Der südliche Teil des Dorfes Dachsen, fotografiert von Westen [hier](https://www.openstreetmap.org/search?whereami=1&amp;query=47.665226%2C8.610722#map=19/47.665226/8.610722) am 2026-03-15.
