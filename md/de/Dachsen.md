@@ -76,6 +76,8 @@ Der Mülibach fliesst von Uhwiesen im Nord-Osten durch das Gemeindegebiet von Da
 
 *Dieser Abschnitt enthält Persönliche Meinungen und gefährliches Halbwissen. Alle Aussagen in diesem Abschnitt sollten mit Vorsicht genossen werden, da es gut Möglich ist dass er Fehler enthält.*
 
+Die Gemeinde Dachsen ist eine kleine, ruhige Gemeinde, obwohl sie nicht weit von einer Autobahn und einer Tourismusattraktion entfernt ist. Dachsen selber bietet allerdings nicht sehr viel an.
+
 ## Fotos
 
 ![Der zentrale Teil des Dorfes Dachsen von Nord-Osten](../../images/Dachsen/Dachsen-central.jpg)  
